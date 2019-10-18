@@ -1,5 +1,5 @@
 # dataviscourse-pr-EmergencyMedicalComplaints
-CS 6660 : Vis for Data Science • Final Project • Ada McFarlane &amp; Patrice Nicholes
+CS 6630 : Vis for Data Science • Final Project • Ada McFarlane &amp; Patrice Nicholes
 
 ## Context:
 EMS professionals need to be prepared on arrival. 
