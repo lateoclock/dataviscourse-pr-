@@ -1,0 +1,2418 @@
+,complaint,impression,diagnosis,count
+2,Abdominal Pain Problems,Abdominal Pain,Abdominal Pain,24
+5,Abdominal Pain Problems,Abdominal Pain,Acute Pancreatitis,9
+12,Abdominal Pain Problems,Abdominal Pain,Alcohol Induced Acute Pancreatitis,3
+17,Abdominal Pain Problems,Abdominal Pain,Calculus Of Gallbladder,7
+19,Abdominal Pain Problems,Abdominal Pain,Calculus Of Kidney,8
+28,Abdominal Pain Problems,Abdominal Pain,Chronic Pancreatitis,3
+30,Abdominal Pain Problems,Abdominal Pain,Constipation,10
+35,Abdominal Pain Problems,Abdominal Pain,Cyclical Vomiting,3
+44,Abdominal Pain Problems,Abdominal Pain,Dvtrcli Of Lg Int,3
+48,Abdominal Pain Problems,Abdominal Pain,Epigastric Pain,15
+54,Abdominal Pain Problems,Abdominal Pain,Gastritis,5
+58,Abdominal Pain Problems,Abdominal Pain,Generalized Abdominal Pain,6
+61,Abdominal Pain Problems,Abdominal Pain,Hydronephrosis,5
+67,Abdominal Pain Problems,Abdominal Pain,Intestinal Obstruction,10
+71,Abdominal Pain Problems,Abdominal Pain,Left Lower Quadrant Pain,9
+72,Abdominal Pain Problems,Abdominal Pain,Left Upper Quadrant Pain,4
+74,Abdominal Pain Problems,Abdominal Pain,Major Depressive Disorder,4
+78,Abdominal Pain Problems,Abdominal Pain,Migraine,3
+79,Abdominal Pain Problems,Abdominal Pain,Nausea,13
+81,Abdominal Pain Problems,Abdominal Pain,Noninfective Gastroenteritis And Colitis,8
+91,Abdominal Pain Problems,Abdominal Pain,Pnctr Of Abd Wall,4
+98,Abdominal Pain Problems,Abdominal Pain,Right Lower Quadrant Pain,9
+102,Abdominal Pain Problems,Abdominal Pain,Sepsis,14
+114,Abdominal Pain Problems,Abdominal Pain,Unilateral Inguinal Hernia,3
+115,Abdominal Pain Problems,Abdominal Pain,Urinary Tract Infection,14
+120,Abdominal Pain Problems,Abdominal Tenderness,Abdominal Pain,3
+137,Abdominal Pain Problems,Abdominal Tenderness,Epigastric Pain,4
+147,Abdominal Pain Problems,Abdominal Tenderness,Right Upper Quadrant Pain,3
+176,Abdominal Pain Problems,CV Chest Pain Presumed Cardiac,Chest Pain,4
+191,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Abdominal Pain,23
+196,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Acute Pancreatitis,3
+200,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Alcohol Induced Acute Pancreatitis,3
+203,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Calculus Of Gallbladder,7
+205,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Calculus Of Kidney,5
+206,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Calculus Of Ureter,3
+207,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Chest Pain,4
+212,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Constipation,4
+224,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Epigastric Pain,11
+228,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Gastritis,4
+229,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Generalized Abdominal Pain,12
+232,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Hydronephrosis,6
+244,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Nausea,6
+246,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Noninfective Gastroenteritis And Colitis,6
+257,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Right Lower Quadrant Pain,6
+258,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Right Upper Quadrant Pain,5
+259,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Sepsis,4
+266,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Urinary Tract Infection,8
+267,Abdominal Pain Problems,GI GU Abdominal Pain Acute Onset,Viral Intestinal Infection,3
+289,Abdominal Pain Problems,GI GU Constipation,Constipation,3
+304,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Abdominal Pain,21
+308,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Acute Pancreatitis,8
+309,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Acute Postprocedural Pain,4
+321,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Biliary Acute Pancreatitis,3
+322,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Calculus Of Gallbladder,7
+324,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Calculus Of Gb And Bile Duct,3
+325,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Calculus Of Kidney,3
+326,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Calculus Of Ureter,8
+329,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Chronic Pain,3
+344,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Diarrhea,3
+357,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Epigastric Pain,12
+362,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Gastritis,4
+366,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Generalized Abdominal Pain,14
+368,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Hydronephrosis,10
+372,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Intestinal Obstruction,4
+379,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Major Depressive Disorder,3
+382,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Nausea,6
+384,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Noninfective Gastroenteritis And Colitis,7
+387,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Ovarian Cyst,5
+394,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Proc Trtmt Not Crd Out D T Pt Lv Bef Seen By Hlth Care Prov,3
+401,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Right Lower Quadrant Pain,7
+406,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Sepsis,8
+413,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,TubuloInterstitial Nephritis,3
+421,Abdominal Pain Problems,GI GU Generalized Abdominal Pain,Urinary Tract Infection,3
+481,Abdominal Pain Problems,Injury Abdomen,Pnctr Of Abd Wall,4
+508,Abdominal Pain Problems,Not Applicable,Sepsis,3
+531,Abdominal Pain Problems,Not Recorded,Generalized Abdominal Pain,4
+543,Abdominal Pain Problems,Not Recorded,Noninfective Gastroenteritis And Colitis,3
+607,Abdominal Pain Problems,Weakness,Abdominal Pain,4
+635,Allergic Reaction Stings,Allergic Reaction,Adverse Food Reactions,17
+637,Allergic Reaction Stings,Allergic Reaction,Allergy,25
+639,Allergic Reaction Stings,Allergic Reaction,Anaphylactic Reaction,8
+640,Allergic Reaction Stings,Allergic Reaction,Anaphylactic Shock,9
+641,Allergic Reaction Stings,Allergic Reaction,Angioneurotic Edema,8
+643,Allergic Reaction Stings,Allergic Reaction,Cellulitis Of Limb,3
+665,Allergic Reaction Stings,Allergic Reaction,Sepsis,3
+671,Allergic Reaction Stings,Allergic Reaction,Toxic Effect Of Venom Of Bees,9
+673,Allergic Reaction Stings,Allergic Reaction,Toxic Effect Of Venom Of Wasps,5
+676,Allergic Reaction Stings,Allergic Reaction With Shock Anaphylaxis,Allergy,4
+755,Allergic Reaction Stings,Shock Anaphylactic,Anaphylactic Reaction,3
+767,Allergic Reaction Stings,Weakness,Chest Pain,3
+776,Allergic Reaction Stings,Weakness,Weakness,3
+823,Assault,Abuse Of Alcohol,Alcohol Abuse,5
+873,Assault,Behavioral Mental Disorder Not Otherwise Listed,Restlessness And Agitation,3
+877,Assault,Behavioral Mental Disorder Not Otherwise Listed,Suicidal Ideations,3
+933,Assault,Injury Eye And Or Orbit,Contusion Of Head,3
+946,Assault,Injury Face,Fracture Of Nasal Bones,3
+947,Assault,Injury Face,Fracture Of Orbital Floor,3
+948,Assault,Injury Face,Injury Of Head,4
+950,Assault,Injury Face,Laceration ,6
+960,Assault,Injury Head,Concussion,3
+969,Assault,Injury Head,Injury Of Head,6
+971,Assault,Injury Head,Laceration ,16
+987,Assault,Injury Head Without Loc,Injury Of Head,3
+988,Assault,Injury Head Without Loc,Laceration ,5
+1009,Assault,Injury Not Otherwise Listed,Concussion,5
+1015,Assault,Injury Not Otherwise Listed,Contusion Of Front Wall Of Thorax,4
+1016,Assault,Injury Not Otherwise Listed,Contusion Of Head,9
+1017,Assault,Injury Not Otherwise Listed,Contusion Of Scalp,3
+1032,Assault,Injury Not Otherwise Listed,Fracture Of Base Of Skull,4
+1035,Assault,Injury Not Otherwise Listed,Fracture Of Nasal Bones,3
+1039,Assault,Injury Not Otherwise Listed,Fracture Of Orbital Floor,3
+1043,Assault,Injury Not Otherwise Listed,Headache,3
+1047,Assault,Injury Not Otherwise Listed,Laceration ,29
+1092,Assault,Injury Wrist Hand Or Fingers,Laceration ,3
+1098,Assault,Laceration ion Without Foreign Body Thigh Sequela,Laceration ,3
+1141,Assault,Not Applicable,Stimulant Abuse,3
+1156,Assault,Not Recorded,Stimulant Abuse,3
+1164,Assault,Pain,Injury Of Head,3
+1191,Assault,Pain Not Elsewhere Mentioned Sudden Onset,Contusion Of Front Wall Of Thorax,3
+1198,Assault,Pain Not Elsewhere Mentioned Sudden Onset,Laceration ,4
+1213,Assault,Sexual Abuse Suspected,Adult Sexual Abuse,11
+1256,Back Pain NonTraumatic,GI GU Abdominal Pain Acute Onset,Hydronephrosis,4
+1280,Back Pain NonTraumatic,Injury Lower Back,Low Back Pain,13
+1315,Back Pain NonTraumatic,Not Recorded,Low Back Pain,3
+1342,Back Pain NonTraumatic,Pain,Low Back Pain,8
+1352,Back Pain NonTraumatic,Pain,Strain Of Musclele,4
+1359,Back Pain NonTraumatic,Pain Back Nontraumatic,Abdominal Pain,10
+1370,Back Pain NonTraumatic,Pain Back Nontraumatic,Calculus Of Kidney,3
+1371,Back Pain NonTraumatic,Pain Back Nontraumatic,Calculus Of Ureter,3
+1374,Back Pain NonTraumatic,Pain Back Nontraumatic,Chronic Pain,10
+1375,Back Pain NonTraumatic,Pain Back Nontraumatic,Collapsed Vertebra,4
+1384,Back Pain NonTraumatic,Pain Back Nontraumatic,Dorsalgia,20
+1387,Back Pain NonTraumatic,Pain Back Nontraumatic,Fracture Of Lumbar Vertebra,5
+1393,Back Pain NonTraumatic,Pain Back Nontraumatic,Intervertebral Disc Degeneration,4
+1395,Back Pain NonTraumatic,Pain Back Nontraumatic,Intervertebral Disc Displacement,8
+1397,Back Pain NonTraumatic,Pain Back Nontraumatic,Low Back Pain,59
+1398,Back Pain NonTraumatic,Pain Back Nontraumatic,Lumbago,19
+1402,Back Pain NonTraumatic,Pain Back Nontraumatic,Musclele Spasm Of Back,6
+1407,Back Pain NonTraumatic,Pain Back Nontraumatic,Pain In Hip,3
+1409,Back Pain NonTraumatic,Pain Back Nontraumatic,Pain In Thoracic Spine,7
+1417,Back Pain NonTraumatic,Pain Back Nontraumatic,Radiculopathy,3
+1421,Back Pain NonTraumatic,Pain Back Nontraumatic,Sciatica,4
+1422,Back Pain NonTraumatic,Pain Back Nontraumatic,Secondary Malignant Neoplasm Of Bone,3
+1423,Back Pain NonTraumatic,Pain Back Nontraumatic,Sepsis,8
+1429,Back Pain NonTraumatic,Pain Back Nontraumatic,Strain Of Musclele,13
+1430,Back Pain NonTraumatic,Pain Back Nontraumatic,Strain Of Musclele And Tendon Of Back Wall Of Thorax,4
+1434,Back Pain NonTraumatic,Pain Back Nontraumatic,TubuloInterstitial Nephritis,4
+1435,Back Pain NonTraumatic,Pain Back Nontraumatic,Urinary Tract Infection,5
+1441,Back Pain NonTraumatic,Pain Chronic,Abdominal Pain,4
+1442,Back Pain NonTraumatic,Pain Chronic,Atopic Dermatitis,4
+1466,Back Pain NonTraumatic,Pain Not Elsewhere Mentioned Sudden Onset,Low Back Pain,3
+1500,Breathing Problem,Abdominal Pain,Sepsis,3
+1517,Breathing Problem,Abnormalities Of Breathing,Pneumonia,3
+1520,Breathing Problem,Abuse Of Alcohol,Alcohol Abuse,5
+1526,Breathing Problem,Abuse Of Alcohol Intoxication,Alcohol Abuse,6
+1554,Breathing Problem,Abuse Of Psychoactive Substance,Stimulant Abuse,3
+1567,Breathing Problem,Allergic Reaction,Anaphylactic Reaction,3
+1568,Breathing Problem,Allergic Reaction,Anaphylactic Shock,4
+1585,Breathing Problem,Behavioral Anxiety,Anxiety Disorder,5
+1590,Breathing Problem,Behavioral Anxiety,Chest Pain,7
+1602,Breathing Problem,Behavioral Anxiety,Generalized Anxiety Disorder,5
+1613,Breathing Problem,Behavioral Anxiety,Sepsis,3
+1615,Breathing Problem,Behavioral Anxiety,Shortness Of Breath,3
+1633,Breathing Problem,Behavioral Mental Disorder Not Otherwise Listed,Anxiety Disorder,7
+1635,Breathing Problem,Behavioral Mental Disorder Not Otherwise Listed,Chest Pain,5
+1636,Breathing Problem,Behavioral Mental Disorder Not Otherwise Listed,Chronic Obstructive Pulmonary Disease,3
+1648,Breathing Problem,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,3
+1650,Breathing Problem,Behavioral Mental Disorder Not Otherwise Listed,Panic Disorder [Episodic Paroxysmal Anxiety],5
+1653,Breathing Problem,Behavioral Mental Disorder Not Otherwise Listed,Psychoactive Substance Abuse,3
+1659,Breathing Problem,Behavioral Mental Disorder Not Otherwise Listed,Stimulant Abuse,3
+1675,Breathing Problem,CV Cardiac Arrest,Cardiac Arrest,14
+1680,Breathing Problem,CV Cardiac Arrhythmia Dysrhythmia,Atrial Fibrillation,4
+1686,Breathing Problem,CV Cardiac Arrhythmia Dysrhythmia,Chest Pain,3
+1705,Breathing Problem,CV Chest Pain Angina,Chest Pain,3
+1717,Breathing Problem,CV Chest Pain Presumed Cardiac,Chest Pain,11
+1740,Breathing Problem,CV Congestive Heart Failure Chf,Hypertensive Heart Disease,3
+1744,Breathing Problem,CV Congestive Heart Failure Chf,Sepsis,4
+1760,Breathing Problem,CV Hypotension,Dehydration,3
+1767,Breathing Problem,CV Pulmonary Embolism,Pulmonary Embolism,3
+1774,Breathing Problem,Chest Pain,Chest Pain,11
+1793,Breathing Problem,Chronic Obstructive Pulmonary Disease,Acute And Chronic Respiratory Failure,4
+1795,Breathing Problem,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease,5
+1800,Breathing Problem,Chronic Obstructive Pulmonary Disease,Sepsis,3
+1804,Breathing Problem,Convulsions,Epilepsy,3
+1831,Breathing Problem,Endocrine Hyperglycemia Diabetic Diabetes,Type 1 Diabetes Mellitus,3
+1856,Breathing Problem,Fever,Pneumonia,6
+1858,Breathing Problem,Fever,Sepsis,12
+1859,Breathing Problem,Fever,Simple Febrile Convulsions,3
+1872,Breathing Problem,GI GU Abdominal Pain Acute Onset,Generalized Abdominal Pain,4
+1885,Breathing Problem,GI GU Generalized Abdominal Pain,Epigastric Pain,3
+1921,Breathing Problem,GI GU Nausea,Sepsis,3
+1947,Breathing Problem,General Malaise,Pneumonia,3
+1948,Breathing Problem,General Malaise,Sepsis,5
+1988,Breathing Problem,Infectious Croup,Acute Obstructive Laryngitis [Croup],10
+2001,Breathing Problem,Infectious Pneumonia,Acute And Chronic Respiratory Failure,3
+2003,Breathing Problem,Infectious Pneumonia,Acute Respiratory Failure,3
+2006,Breathing Problem,Infectious Pneumonia,Bronchitis,3
+2008,Breathing Problem,Infectious Pneumonia,Chronic Obstructive Pulmonary Disease,5
+2015,Breathing Problem,Infectious Pneumonia,NonSt Elevation Nstemi Myocardial Infarction,3
+2017,Breathing Problem,Infectious Pneumonia,Pneumonia,4
+2022,Breathing Problem,Infectious Pneumonia,Sepsis,21
+2028,Breathing Problem,Infectious Sepsis,Sepsis,10
+2063,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute And Chronic Respiratory Failure,3
+2064,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute Kidney Failure,3
+2066,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute Respiratory Failure,5
+2067,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Abuse,5
+2069,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,8
+2071,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Anxiety Disorder,7
+2078,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Chronic Obstructive Pulmonary Disease,3
+2079,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Convulsions,3
+2111,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,14
+2113,Breathing Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Syncope And Collapse,4
+2134,Breathing Problem,Neuro Paraplegia Paralysis,Pneumonitis,4
+2141,Breathing Problem,Neuro Seizure,Epilepsy,5
+2145,Breathing Problem,Neuro Seizure,Seizures,3
+2147,Breathing Problem,Neuro Seizure,Simple Febrile Convulsions,6
+2180,Breathing Problem,Not Applicable,Chronic Obstructive Pulmonary Disease,4
+2183,Breathing Problem,Not Applicable,Dyspnea,3
+2195,Breathing Problem,Not Applicable,Pain In Thoracic Spine,3
+2201,Breathing Problem,Not Applicable,Shortness Of Breath,3
+2207,Breathing Problem,Not Recorded,Acute And Chronic Respiratory Failure,9
+2208,Breathing Problem,Not Recorded,Acute Bronchiolitis,3
+2214,Breathing Problem,Not Recorded,Acute Respiratory Failure,3
+2220,Breathing Problem,Not Recorded,Asthma,7
+2229,Breathing Problem,Not Recorded,Chest Pain,7
+2230,Breathing Problem,Not Recorded,Chronic Obstructive Pulmonary Disease,18
+2251,Breathing Problem,Not Recorded,Hyp Hrt & Chr Kdny Dis,4
+2252,Breathing Problem,Not Recorded,Hypertensive Heart Disease,6
+2261,Breathing Problem,Not Recorded,NonSt Elevation Nstemi Myocardial Infarction,5
+2266,Breathing Problem,Not Recorded,Paroxysmal Atrial Fibrillation,3
+2269,Breathing Problem,Not Recorded,Pneumonia,6
+2277,Breathing Problem,Not Recorded,Sepsis,26
+2279,Breathing Problem,Not Recorded,Shortness Of Breath,5
+2280,Breathing Problem,Not Recorded,Simple Febrile Convulsions,3
+2290,Breathing Problem,Not Recorded,Weakness,3
+2315,Breathing Problem,Pain,Sepsis,3
+2346,Breathing Problem,Pain Chest Presumed Noncardiac,Chest Pain,7
+2352,Breathing Problem,Pain Chest Presumed Noncardiac,Dyspnea,3
+2414,Breathing Problem,Resp Abnormal Breathing Hypoxia,Chronic Obstructive Pulmonary Disease,4
+2420,Breathing Problem,Resp Abnormal Breathing Hypoxia,Hypertensive Heart Disease,5
+2427,Breathing Problem,Resp Abnormal Breathing Hypoxia,Sepsis,10
+2436,Breathing Problem,Respiratory Acute Onset Distress,Acute And Chronic Respiratory Failure,50
+2437,Breathing Problem,Respiratory Acute Onset Distress,Acute Bronchiolitis,13
+2438,Breathing Problem,Respiratory Acute Onset Distress,Acute Bronchitis,11
+2441,Breathing Problem,Respiratory Acute Onset Distress,Acute Kidney Failure,3
+2443,Breathing Problem,Respiratory Acute Onset Distress,Acute Obstructive Laryngitis [Croup],19
+2444,Breathing Problem,Respiratory Acute Onset Distress,Acute On Chronic Combined Systolic And Diastolic Hrt Fail,3
+2445,Breathing Problem,Respiratory Acute Onset Distress,Acute On Chronic Diastolic Congestive Heart Failure,5
+2446,Breathing Problem,Respiratory Acute Onset Distress,Acute On Chronic Systolic Congestive Heart Failure,6
+2450,Breathing Problem,Respiratory Acute Onset Distress,Acute Respiratory Failure,42
+2451,Breathing Problem,Respiratory Acute Onset Distress,Acute Respiratory Infection,10
+2458,Breathing Problem,Respiratory Acute Onset Distress,Anxiety Disorder,9
+2461,Breathing Problem,Respiratory Acute Onset Distress,Asthma,24
+2467,Breathing Problem,Respiratory Acute Onset Distress,Bacterial Pneumonia,5
+2469,Breathing Problem,Respiratory Acute Onset Distress,Cardiac Arrest,9
+2470,Breathing Problem,Respiratory Acute Onset Distress,Cellulitis Of Limb,4
+2472,Breathing Problem,Respiratory Acute Onset Distress,Chest Pain,9
+2474,Breathing Problem,Respiratory Acute Onset Distress,Chronic Obstructive Pulmonary Disease,102
+2477,Breathing Problem,Respiratory Acute Onset Distress,Chronic Pulmonary Edema,3
+2488,Breathing Problem,Respiratory Acute Onset Distress,Dizziness And Giddiness,3
+2489,Breathing Problem,Respiratory Acute Onset Distress,Dyspnea,17
+2497,Breathing Problem,Respiratory Acute Onset Distress,Epistaxis,3
+2502,Breathing Problem,Respiratory Acute Onset Distress,Forn Obj In Resp Tract,3
+2511,Breathing Problem,Respiratory Acute Onset Distress,Heart Failure,5
+2515,Breathing Problem,Respiratory Acute Onset Distress,Hyp Hrt & Chr Kdny Dis,21
+2518,Breathing Problem,Respiratory Acute Onset Distress,Hypertensive Heart Disease,24
+2522,Breathing Problem,Respiratory Acute Onset Distress,Hypoxemia,9
+2544,Breathing Problem,Respiratory Acute Onset Distress,Moderate Persistent Asthma,6
+2549,Breathing Problem,Respiratory Acute Onset Distress,NonSt Elevation Nstemi Myocardial Infarction,13
+2555,Breathing Problem,Respiratory Acute Onset Distress,Palpitations,3
+2564,Breathing Problem,Respiratory Acute Onset Distress,Pneumonia,38
+2565,Breathing Problem,Respiratory Acute Onset Distress,Pneumonitis,7
+2566,Breathing Problem,Respiratory Acute Onset Distress,Pneumothorax,3
+2570,Breathing Problem,Respiratory Acute Onset Distress,Pulmonary Embolism,14
+2571,Breathing Problem,Respiratory Acute Onset Distress,Radiculopathy,3
+2574,Breathing Problem,Respiratory Acute Onset Distress,Respiratory Failure,5
+2579,Breathing Problem,Respiratory Acute Onset Distress,Sepsis,97
+2582,Breathing Problem,Respiratory Acute Onset Distress,Shortness Of Breath,22
+2591,Breathing Problem,Respiratory Acute Onset Distress,Syncope And Collapse,4
+2595,Breathing Problem,Respiratory Acute Onset Distress,Urinary Tract Infection,4
+2599,Breathing Problem,Respiratory Acute Onset Distress,Weakness,3
+2601,Breathing Problem,Respiratory Acute Onset Distress,Wheezing,3
+2613,Breathing Problem,Respiratory Arrest,Sepsis,4
+2622,Breathing Problem,Respiratory Asthma,Acute And Chronic Respiratory Failure,3
+2629,Breathing Problem,Respiratory Asthma,Acute Respiratory Failure,10
+2631,Breathing Problem,Respiratory Asthma,Alcohol Abuse,3
+2632,Breathing Problem,Respiratory Asthma,Asthma,44
+2635,Breathing Problem,Respiratory Asthma,Chronic Obstructive Pulmonary Disease,9
+2637,Breathing Problem,Respiratory Asthma,Diseases Of Vocal Cords,3
+2638,Breathing Problem,Respiratory Asthma,Dyspnea,4
+2651,Breathing Problem,Respiratory Asthma,Pneumonia,5
+2655,Breathing Problem,Respiratory Asthma,Sepsis,5
+2656,Breathing Problem,Respiratory Asthma,Severe Persistent Asthma,3
+2657,Breathing Problem,Respiratory Asthma,Shortness Of Breath,3
+2665,Breathing Problem,Respiratory Bronchospasm Acute Onset,Bronchitis,3
+2674,Breathing Problem,Respiratory Copd Chronic Obstructive Pulmonary Disease,Acute And Chronic Respiratory Failure,14
+2675,Breathing Problem,Respiratory Copd Chronic Obstructive Pulmonary Disease,Acute Respiratory Failure,13
+2681,Breathing Problem,Respiratory Copd Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease,33
+2683,Breathing Problem,Respiratory Copd Chronic Obstructive Pulmonary Disease,Dyspnea,3
+2686,Breathing Problem,Respiratory Copd Chronic Obstructive Pulmonary Disease,Hyp Hrt & Chr Kdny Dis,4
+2687,Breathing Problem,Respiratory Copd Chronic Obstructive Pulmonary Disease,Hypertensive Heart Disease,7
+2694,Breathing Problem,Respiratory Copd Chronic Obstructive Pulmonary Disease,Pneumonia,4
+2698,Breathing Problem,Respiratory Copd Chronic Obstructive Pulmonary Disease,Sepsis,26
+2705,Breathing Problem,Respiratory Failure,Acute Respiratory Failure,4
+2711,Breathing Problem,Respiratory Failure,Chronic Obstructive Pulmonary Disease,9
+2713,Breathing Problem,Respiratory Failure,Hyp Hrt & Chr Kdny Dis,4
+2714,Breathing Problem,Respiratory Failure,Hypertensive Heart Disease,3
+2727,Breathing Problem,Respiratory Failure,Sepsis,12
+2740,Breathing Problem,Respiratory Hyperventilation,Acute Respiratory Failure,3
+2741,Breathing Problem,Respiratory Hyperventilation,Asthma,3
+2743,Breathing Problem,Respiratory Hyperventilation,Chest Pain,5
+2756,Breathing Problem,Respiratory Hyperventilation,Panic Disorder [Episodic Paroxysmal Anxiety],3
+2769,Breathing Problem,Respiratory Not Otherwise Listed,Acute And Chronic Respiratory Failure,14
+2770,Breathing Problem,Respiratory Not Otherwise Listed,Acute Bronchiolitis,4
+2771,Breathing Problem,Respiratory Not Otherwise Listed,Acute Bronchitis,5
+2774,Breathing Problem,Respiratory Not Otherwise Listed,Acute Obstructive Laryngitis [Croup],8
+2778,Breathing Problem,Respiratory Not Otherwise Listed,Acute Respiratory Failure,12
+2785,Breathing Problem,Respiratory Not Otherwise Listed,Asthma,7
+2788,Breathing Problem,Respiratory Not Otherwise Listed,Bacterial Pneumonia,4
+2790,Breathing Problem,Respiratory Not Otherwise Listed,Bronchitis,4
+2795,Breathing Problem,Respiratory Not Otherwise Listed,Chest Pain,8
+2797,Breathing Problem,Respiratory Not Otherwise Listed,Chronic Obstructive Pulmonary Disease,12
+2804,Breathing Problem,Respiratory Not Otherwise Listed,Dyspnea,9
+2807,Breathing Problem,Respiratory Not Otherwise Listed,Flu,3
+2811,Breathing Problem,Respiratory Not Otherwise Listed,Heart Failure,3
+2813,Breathing Problem,Respiratory Not Otherwise Listed,Hyp Hrt & Chr Kdny Dis,4
+2815,Breathing Problem,Respiratory Not Otherwise Listed,Hypertensive Heart Disease,8
+2816,Breathing Problem,Respiratory Not Otherwise Listed,Hypoxemia,4
+2825,Breathing Problem,Respiratory Not Otherwise Listed,Pneumonia,14
+2829,Breathing Problem,Respiratory Not Otherwise Listed,Pulmonary Embolism,4
+2833,Breathing Problem,Respiratory Not Otherwise Listed,Sepsis,18
+2834,Breathing Problem,Respiratory Not Otherwise Listed,Shortness Of Breath,5
+2841,Breathing Problem,Respiratory Not Otherwise Listed,Urinary Tract Infection,3
+2845,Breathing Problem,Respiratory Pneumothorax Spontaneous,Chest Pain,4
+2848,Breathing Problem,Respiratory Pulmonary Edema Acute Onset,Acute And Chronic Respiratory Failure,3
+2876,Breathing Problem,Shoulder Lesions Shoulder,Chronic Obstructive Pulmonary Disease,3
+2907,Breathing Problem,Syncope Syncopal Episode Or Near,Syncope And Collapse,5
+2923,Breathing Problem,Weakness,Acute And Chronic Respiratory Failure,3
+2929,Breathing Problem,Weakness,Acute Respiratory Failure,3
+2934,Breathing Problem,Weakness,Anxiety Disorder,3
+2942,Breathing Problem,Weakness,Chest Pain,5
+2943,Breathing Problem,Weakness,Chronic Obstructive Pulmonary Disease,5
+2947,Breathing Problem,Weakness,Dizziness And Giddiness,3
+2959,Breathing Problem,Weakness,Hyp Hrt & Chr Kdny Dis,4
+2961,Breathing Problem,Weakness,Hypertensive Heart Disease,5
+2982,Breathing Problem,Weakness,Pneumonia,6
+2988,Breathing Problem,Weakness,Sepsis,11
+2989,Breathing Problem,Weakness,Shortness Of Breath,3
+2993,Breathing Problem,Weakness,Syncope And Collapse,4
+2994,Breathing Problem,Weakness,Urinary Tract Infection,4
+2997,Breathing Problem,Weakness,Weakness,7
+3044,Carbon Monoxide Hazmat Inhalation CBRN,Environment Suspected Exposure To A Health Hazard,Toxic Effect Of Carb Monx From Source,3
+3070,Cardiac Arrest Death,Abuse Of Narcotic Ie Heroin,Poisoning By Heroin,9
+3088,Cardiac Arrest Death,Behavioral Suicide Attempt,Asphyxiation,5
+3093,Cardiac Arrest Death,CV Cardiac Arrest,Acute And Chronic Respiratory Failure,4
+3096,Cardiac Arrest Death,CV Cardiac Arrest,Acute Respiratory Failure,5
+3098,Cardiac Arrest Death,CV Cardiac Arrest,Anoxic Brain Damage,4
+3099,Cardiac Arrest Death,CV Cardiac Arrest,Asphyxiation,7
+3102,Cardiac Arrest Death,CV Cardiac Arrest,Cardiac Arrest,105
+3121,Cardiac Arrest Death,CV Cardiac Arrest,Poisoning By Heroin,3
+3131,Cardiac Arrest Death,CV Cardiac Arrest,Stemi Involving Coronary Artery Of Inferior Wall,4
+3135,Cardiac Arrest Death,CV Cardiac Arrest,Ventricular Fibrillation,7
+3137,Cardiac Arrest Death,CV Cardiac Arrest Obvious Death,Cardiac Arrest,3
+3206,Cardiac Arrest Death,Neuro Seizure,Convulsions,4
+3223,Cardiac Arrest Death,Not Applicable,Cardiac Arrest,6
+3230,Cardiac Arrest Death,Not Recorded,Acute Respiratory Failure,4
+3233,Cardiac Arrest Death,Not Recorded,Cardiac Arrest,7
+3245,Cardiac Arrest Death,Not Recorded,Poisoning By Heroin,4
+3247,Cardiac Arrest Death,Not Recorded,Poisoning By Opioids,4
+3249,Cardiac Arrest Death,Not Recorded,Sepsis,6
+3277,Cardiac Arrest Death,Respiratory Arrest Apnea,Cardiac Arrest,3
+3284,Cardiac Arrest Death,Respiratory Asphyxia Suffocation,Asphyxiation,6
+3297,Cardiac Arrest Death,Syncope Syncopal Episode Or Near,Syncope And Collapse,3
+3304,Chest Pain NonTraumatic,Abdominal Pain,Abdominal Pain,3
+3308,Chest Pain NonTraumatic,Abdominal Pain,Chest Pain,3
+3312,Chest Pain NonTraumatic,Abdominal Pain,Epigastric Pain,3
+3335,Chest Pain NonTraumatic,Abuse Of Alcohol,Alcohol Dependence,4
+3337,Chest Pain NonTraumatic,Abuse Of Alcohol,Chest Pain,3
+3371,Chest Pain NonTraumatic,Behavioral Anxiety,Anxiety Disorder,5
+3376,Chest Pain NonTraumatic,Behavioral Anxiety,Chest Pain,32
+3383,Chest Pain NonTraumatic,Behavioral Anxiety,Generalized Anxiety Disorder,4
+3390,Chest Pain NonTraumatic,Behavioral Anxiety,Panic Disorder [Episodic Paroxysmal Anxiety],3
+3393,Chest Pain NonTraumatic,Behavioral Anxiety,Precordial Pain,3
+3406,Chest Pain NonTraumatic,Behavioral Mental Disorder Not Otherwise Listed,Anxiety Disorder,3
+3408,Chest Pain NonTraumatic,Behavioral Mental Disorder Not Otherwise Listed,Chest Pain,11
+3434,Chest Pain NonTraumatic,Behavioral Strange Behavior,Stimulant Abuse,4
+3438,Chest Pain NonTraumatic,CV Cardiac Arrest,Cardiac Arrest,3
+3449,Chest Pain NonTraumatic,CV Cardiac Arrhythmia Dysrhythmia,Atrial Fibrillation,14
+3452,Chest Pain NonTraumatic,CV Cardiac Arrhythmia Dysrhythmia,Chest Pain,21
+3465,Chest Pain NonTraumatic,CV Cardiac Arrhythmia Dysrhythmia,Palpitations,5
+3466,Chest Pain NonTraumatic,CV Cardiac Arrhythmia Dysrhythmia,Paroxysmal Atrial Fibrillation,4
+3473,Chest Pain NonTraumatic,CV Cardiac Arrhythmia Dysrhythmia,Stemi Involving Coronary Artery Of Inferior Wall,3
+3474,Chest Pain NonTraumatic,CV Cardiac Arrhythmia Dysrhythmia,Supraventricular Tachycardia,10
+3484,Chest Pain NonTraumatic,CV Chest Pain Angina,Acute Bronchitis,3
+3500,Chest Pain NonTraumatic,CV Chest Pain Angina,Chest Pain,109
+3513,Chest Pain NonTraumatic,CV Chest Pain Angina,GastroEsophageal Reflux Disease,3
+3520,Chest Pain NonTraumatic,CV Chest Pain Angina,NonSt Elevation Nstemi Myocardial Infarction,7
+3530,Chest Pain NonTraumatic,CV Chest Pain Angina,Pleurodynia,3
+3534,Chest Pain NonTraumatic,CV Chest Pain Angina,Precordial Pain,6
+3535,Chest Pain NonTraumatic,CV Chest Pain Angina,Pulmonary Embolism,3
+3538,Chest Pain NonTraumatic,CV Chest Pain Angina,Sepsis,3
+3542,Chest Pain NonTraumatic,CV Chest Pain Angina,Stemi Involving Coronary Artery Of Inferior Wall,3
+3553,Chest Pain NonTraumatic,CV Chest Pain Myocardial Infarction Nonstemi,Athscl Heart Disease Of Native Coronary Artery,4
+3555,Chest Pain NonTraumatic,CV Chest Pain Myocardial Infarction Nonstemi,Chest Pain,19
+3564,Chest Pain NonTraumatic,CV Chest Pain Myocardial Infarction Nonstemi,NonSt Elevation Nstemi Myocardial Infarction,5
+3569,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Acute And Chronic Respiratory Failure,3
+3570,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Acute Bronchitis,3
+3572,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Acute Ischemic Heart Disease,3
+3585,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Anxiety Disorder,3
+3586,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Asthma,3
+3587,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Athscl Heart Disease Of Native Cor Art,6
+3589,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Atrial Fibrillation,12
+3590,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Atrial Flutter,3
+3598,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Chest Pain,272
+3602,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Chronic Obstructive Pulmonary Disease,4
+3613,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Epigastric Pain,4
+3619,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,GastroEsophageal Reflux Disease,5
+3620,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Generalized Anxiety Disorder,3
+3625,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Hyp Hrt & Chr Kdny Dis,6
+3627,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Hypertensive Heart Disease,3
+3633,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Major Depressive Disorder,4
+3636,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,NonSt Elevation Nstemi Myocardial Infarction,31
+3642,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Palpitations,4
+3644,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Paroxysmal Atrial Fibrillation,3
+3648,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Pleurodynia,4
+3649,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Pneumonia,5
+3651,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Precordial Pain,15
+3653,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Pulmonary Embolism,4
+3656,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Sepsis,5
+3657,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Shortness Of Breath,4
+3661,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Stemi Involving Coronary Artery Of Anterior Wall,8
+3662,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Stemi Involving Coronary Artery Of Inferior Wall,6
+3664,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Stenosis Of Coronary Artery Stent,3
+3668,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Supraventricular Tachycardia,6
+3677,Chest Pain NonTraumatic,CV Chest Pain Presumed Cardiac,Type 2 Diabetes Mellitus,3
+3685,Chest Pain NonTraumatic,CV Chest Pain Stemi Of Anterior Wall,Chest Pain,3
+3695,Chest Pain NonTraumatic,CV Chest Pain Stemi Of Inferior Wall,Stemi Involving Coronary Artery Of Inferior Wall,5
+3703,Chest Pain NonTraumatic,CV Chest Pain Stemi Of Sites,Stemi Involving Coronary Artery Of Anterior Wall,3
+3704,Chest Pain NonTraumatic,CV Chest Pain Stemi Of Sites,Stemi Involving Coronary Artery Of Inferior Wall,3
+3727,Chest Pain NonTraumatic,Chest Pain,Acute Bronchitis,5
+3730,Chest Pain NonTraumatic,Chest Pain,Acute Ischemic Heart Disease,5
+3740,Chest Pain NonTraumatic,Chest Pain,Anxiety Disorder,6
+3741,Chest Pain NonTraumatic,Chest Pain,Athscl Heart Disease Of Native Cor Art,5
+3742,Chest Pain NonTraumatic,Chest Pain,Athscl Heart Disease Of Native Coronary Artery,4
+3743,Chest Pain NonTraumatic,Chest Pain,Atrial Fibrillation,6
+3750,Chest Pain NonTraumatic,Chest Pain,Calculus Of Gallbladder,4
+3752,Chest Pain NonTraumatic,Chest Pain,Chest Pain,186
+3753,Chest Pain NonTraumatic,Chest Pain,Chondrocostal Junction Syndrome [Tietze],4
+3766,Chest Pain NonTraumatic,Chest Pain,Dyspnea,3
+3768,Chest Pain NonTraumatic,Chest Pain,Essential Primary Hypertension,4
+3776,Chest Pain NonTraumatic,Chest Pain,Generalized Anxiety Disorder,3
+3781,Chest Pain NonTraumatic,Chest Pain,Hyp Hrt & Chr Kdny Dis,4
+3789,Chest Pain NonTraumatic,Chest Pain,Major Depressive Disorder,3
+3794,Chest Pain NonTraumatic,Chest Pain,NonSt Elevation Nstemi Myocardial Infarction,21
+3801,Chest Pain NonTraumatic,Chest Pain,Palpitations,7
+3808,Chest Pain NonTraumatic,Chest Pain,Pleurodynia,4
+3809,Chest Pain NonTraumatic,Chest Pain,Pneumonia,4
+3811,Chest Pain NonTraumatic,Chest Pain,Precordial Pain,8
+3813,Chest Pain NonTraumatic,Chest Pain,Pulmonary Embolism,9
+3820,Chest Pain NonTraumatic,Chest Pain,Sepsis,6
+3823,Chest Pain NonTraumatic,Chest Pain,St Elevation Stemi Myocardial Infarction Of Site,6
+3824,Chest Pain NonTraumatic,Chest Pain,Stemi Involving Anterior Descending Coronary Artery,5
+3826,Chest Pain NonTraumatic,Chest Pain,Stemi Involving Coronary Artery Of Anterior Wall,9
+3827,Chest Pain NonTraumatic,Chest Pain,Stemi Involving Coronary Artery Of Inferior Wall,12
+3831,Chest Pain NonTraumatic,Chest Pain,Strain Of Musclele And Tendon Of Front Wall Of Thorax,4
+3833,Chest Pain NonTraumatic,Chest Pain,Syncope And Collapse,4
+3844,Chest Pain NonTraumatic,Chest Pain On Breathing,Chest Pain,8
+3875,Chest Pain NonTraumatic,Fever,Sepsis,4
+3878,Chest Pain NonTraumatic,GI GU Abdominal Pain Acute Onset,Abdominal Pain,3
+3880,Chest Pain NonTraumatic,GI GU Abdominal Pain Acute Onset,Calculus Of Gallbladder,4
+3902,Chest Pain NonTraumatic,GI GU Generalized Abdominal Pain,Abdominal Pain,4
+3907,Chest Pain NonTraumatic,GI GU Generalized Abdominal Pain,Chest Pain,6
+3912,Chest Pain NonTraumatic,GI GU Generalized Abdominal Pain,Dvtrcli Of Lg Int,3
+3913,Chest Pain NonTraumatic,GI GU Generalized Abdominal Pain,Epigastric Pain,4
+3917,Chest Pain NonTraumatic,GI GU Generalized Abdominal Pain,Generalized Abdominal Pain,4
+3953,Chest Pain NonTraumatic,General Malaise,Chest Pain,4
+3984,Chest Pain NonTraumatic,Infectious Pneumonia,Sepsis,3
+4019,Chest Pain NonTraumatic,Neuro Altered Mental Status Altered Loc Decreased Loc,Chest Pain,3
+4031,Chest Pain NonTraumatic,Neuro Altered Mental Status Altered Loc Decreased Loc,Syncope And Collapse,3
+4058,Chest Pain NonTraumatic,Not Applicable,Chest Pain,16
+4062,Chest Pain NonTraumatic,Not Applicable,NonSt Elevation Nstemi Myocardial Infarction,3
+4079,Chest Pain NonTraumatic,Not Recorded,Alcohol Dependence,4
+4090,Chest Pain NonTraumatic,Not Recorded,Chest Pain,67
+4092,Chest Pain NonTraumatic,Not Recorded,Chronic Obstructive Pulmonary Disease,3
+4110,Chest Pain NonTraumatic,Not Recorded,GastroEsophageal Reflux Disease,3
+4125,Chest Pain NonTraumatic,Not Recorded,NonSt Elevation Nstemi Myocardial Infarction,10
+4129,Chest Pain NonTraumatic,Not Recorded,Paroxysmal Atrial Fibrillation,3
+4133,Chest Pain NonTraumatic,Not Recorded,Precordial Pain,4
+4139,Chest Pain NonTraumatic,Not Recorded,Sepsis,7
+4150,Chest Pain NonTraumatic,Not Recorded,Thrombosis,3
+4159,Chest Pain NonTraumatic,Pain,Chest Pain,5
+4185,Chest Pain NonTraumatic,Pain Back Nontraumatic,Dorsalgia,3
+4193,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Abdominal Pain,3
+4196,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Acute Bronchitis,3
+4205,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Anxiety Disorder,5
+4210,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Chest Pain,90
+4223,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Dizziness And Giddiness,3
+4247,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,NonSt Elevation Nstemi Myocardial Infarction,6
+4254,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Pleurisy,3
+4255,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Pleurodynia,3
+4256,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Pneumonia,3
+4257,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Precordial Pain,6
+4261,Chest Pain NonTraumatic,Pain Chest Presumed Noncardiac,Sepsis,9
+4284,Chest Pain NonTraumatic,Pain Not Elsewhere Mentioned Sudden Onset,Chest Pain,5
+4305,Chest Pain NonTraumatic,Respiratory Acute Onset Distress,Atrial Fibrillation,3
+4309,Chest Pain NonTraumatic,Respiratory Acute Onset Distress,Chest Pain,7
+4310,Chest Pain NonTraumatic,Respiratory Acute Onset Distress,Chronic Obstructive Pulmonary Disease,4
+4321,Chest Pain NonTraumatic,Respiratory Acute Onset Distress,Pneumonia,5
+4322,Chest Pain NonTraumatic,Respiratory Acute Onset Distress,Sepsis,9
+4358,Chest Pain NonTraumatic,Shoulder Lesions Shoulder,Chest Pain,10
+4376,Chest Pain NonTraumatic,Syncope Syncopal Episode Or Near,Syncope And Collapse,6
+4390,Chest Pain NonTraumatic,Weakness,Chest Pain,15
+4392,Chest Pain NonTraumatic,Weakness,Dizziness And Giddiness,3
+4411,Chest Pain NonTraumatic,Weakness,Pneumonia,3
+4413,Chest Pain NonTraumatic,Weakness,Sepsis,3
+4422,Chest Pain NonTraumatic,Weakness,Weakness,4
+4442,Choking,GI GU Esophageal Obstruction,Food In Esophagus Causing Injury,3
+4487,Choking,Respiratory Foreign Body Airway,Food In Esophagus Causing Injury,6
+4489,Choking,Respiratory Foreign Body Airway,Food In Resp Tract,3
+4502,Convulsions Seizure,Abuse Of Alcohol,Alcohol Abuse,6
+4503,Convulsions Seizure,Abuse Of Alcohol,Alcohol Dependence,19
+4517,Convulsions Seizure,Abuse Of Alcohol Withdrawal,Alcohol Dependence,10
+4518,Convulsions Seizure,Abuse Of Alcohol Withdrawal,Convulsions,3
+4530,Convulsions Seizure,Abuse Of Psychoactive Substance,Alcohol Dependence,5
+4567,Convulsions Seizure,Behavioral Mental Disorder Not Otherwise Listed,Alcohol Abuse,3
+4573,Convulsions Seizure,Behavioral Mental Disorder Not Otherwise Listed,Conversion Disorder,3
+4574,Convulsions Seizure,Behavioral Mental Disorder Not Otherwise Listed,Convulsions,11
+4575,Convulsions Seizure,Behavioral Mental Disorder Not Otherwise Listed,Epilepsy,5
+4577,Convulsions Seizure,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,7
+4599,Convulsions Seizure,Behavioral Suicidal Homicidal Ideation,Suicidal Ideations,3
+4603,Convulsions Seizure,CV Cardiac Arrest,Cardiac Arrest,5
+4622,Convulsions Seizure,Convulsions,Alcohol Abuse,6
+4623,Convulsions Seizure,Convulsions,Alcohol Dependence,21
+4628,Convulsions Seizure,Convulsions,Anxiety Disorder,3
+4638,Convulsions Seizure,Convulsions,Conversion Disorder,8
+4639,Convulsions Seizure,Convulsions,Convulsions,120
+4652,Convulsions Seizure,Convulsions,Epilepsy,154
+4656,Convulsions Seizure,Convulsions,Generalized Epilepsy,14
+4661,Convulsions Seizure,Convulsions,Hypoglycemia,3
+4662,Convulsions Seizure,Convulsions,Injury Of Head,3
+4664,Convulsions Seizure,Convulsions,Laceration ,3
+4665,Convulsions Seizure,Convulsions,LocalRel Symptc Epi,6
+4685,Convulsions Seizure,Convulsions,Seizures,12
+4686,Convulsions Seizure,Convulsions,Sepsis,3
+4688,Convulsions Seizure,Convulsions,Simple Febrile Convulsions,14
+4693,Convulsions Seizure,Convulsions,Syncope And Collapse,16
+4711,Convulsions Seizure,Endocrine Hypoglycemia Diabetic Diabetes,Type 2 Diabetes Mellitus,4
+4719,Convulsions Seizure,Epilepsy And Recurrent Seizures,Convulsions,7
+4720,Convulsions Seizure,Epilepsy And Recurrent Seizures,Epilepsy,18
+4721,Convulsions Seizure,Epilepsy And Recurrent Seizures,Generalized Epilepsy,3
+4727,Convulsions Seizure,Epilepsy And Recurrent Seizures,Seizures,7
+4733,Convulsions Seizure,Fever,Fever,4
+4735,Convulsions Seizure,Fever,Simple Febrile Convulsions,8
+4754,Convulsions Seizure,General Malaise,Anxiety Disorder,4
+4778,Convulsions Seizure,Injury Head,Laceration ,3
+4799,Convulsions Seizure,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Dependence,4
+4800,Convulsions Seizure,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,4
+4808,Convulsions Seizure,Neuro Altered Mental Status Altered Loc Decreased Loc,Convulsions,28
+4812,Convulsions Seizure,Neuro Altered Mental Status Altered Loc Decreased Loc,Epilepsy,38
+4814,Convulsions Seizure,Neuro Altered Mental Status Altered Loc Decreased Loc,Generalized Epilepsy,11
+4821,Convulsions Seizure,Neuro Altered Mental Status Altered Loc Decreased Loc,Laceration ,4
+4835,Convulsions Seizure,Neuro Altered Mental Status Altered Loc Decreased Loc,Seizures,4
+4840,Convulsions Seizure,Neuro Altered Mental Status Altered Loc Decreased Loc,Syncope And Collapse,6
+4865,Convulsions Seizure,Neuro Seizure,Acute Respiratory Failure,3
+4867,Convulsions Seizure,Neuro Seizure,Alcohol Abuse,5
+4868,Convulsions Seizure,Neuro Seizure,Alcohol Dependence,21
+4873,Convulsions Seizure,Neuro Seizure,Altered Mental Status,5
+4874,Convulsions Seizure,Neuro Seizure,Anxiety Disorder,7
+4881,Convulsions Seizure,Neuro Seizure,Cerebral Infarction,3
+4883,Convulsions Seizure,Neuro Seizure,Chest Pain,4
+4886,Convulsions Seizure,Neuro Seizure,Complex Febrile Convulsions,6
+4890,Convulsions Seizure,Neuro Seizure,Contusion Of Head,3
+4893,Convulsions Seizure,Neuro Seizure,Conversion Disorder,10
+4894,Convulsions Seizure,Neuro Seizure,Convulsions,176
+4898,Convulsions Seizure,Neuro Seizure,Diseases Of The Nervous Sys Comp Pregnancy,3
+4904,Convulsions Seizure,Neuro Seizure,Epidural Hemorrhage,3
+4905,Convulsions Seizure,Neuro Seizure,Epigastric Pain,3
+4906,Convulsions Seizure,Neuro Seizure,Epilepsy,241
+4907,Convulsions Seizure,Neuro Seizure,Epileptic Seiz Rel To Extrn Causes,3
+4921,Convulsions Seizure,Neuro Seizure,Generalized Anxiety Disorder,6
+4922,Convulsions Seizure,Neuro Seizure,Generalized Epilepsy,48
+4925,Convulsions Seizure,Neuro Seizure,Headache,8
+4928,Convulsions Seizure,Neuro Seizure,HypoOsmolality And Hyponatremia,3
+4930,Convulsions Seizure,Neuro Seizure,Injury Of Head,4
+4933,Convulsions Seizure,Neuro Seizure,Intracranial Injury,3
+4934,Convulsions Seizure,Neuro Seizure,Laceration ,10
+4935,Convulsions Seizure,Neuro Seizure,LocalRel Symptc Epi,7
+4939,Convulsions Seizure,Neuro Seizure,Malingerer [Conscious Simulation],3
+4954,Convulsions Seizure,Neuro Seizure,Poisoning By Benzodiazepines,3
+4955,Convulsions Seizure,Neuro Seizure,Poisoning By Drug Meds Biol Subst,3
+4965,Convulsions Seizure,Neuro Seizure,Sedatv Hyp Anxiolytc Dependence,4
+4966,Convulsions Seizure,Neuro Seizure,Seizures,35
+4967,Convulsions Seizure,Neuro Seizure,Sepsis,5
+4969,Convulsions Seizure,Neuro Seizure,Simple Febrile Convulsions,32
+4974,Convulsions Seizure,Neuro Seizure,Stimulant Abuse,3
+4978,Convulsions Seizure,Neuro Seizure,Syncope And Collapse,22
+4983,Convulsions Seizure,Neuro Seizure,Traumatic Subdr Hem,4
+4984,Convulsions Seizure,Neuro Seizure,Tremor,5
+4987,Convulsions Seizure,Neuro Seizure,Urinary Tract Infection,4
+4989,Convulsions Seizure,Neuro Seizure,Viral Intestinal Infection,3
+4997,Convulsions Seizure,Neuro Status Epilepticus Seizure,Convulsions,17
+4999,Convulsions Seizure,Neuro Status Epilepticus Seizure,Epilepsy,31
+5009,Convulsions Seizure,Neuro Status Epilepticus Seizure,Seizures,4
+5034,Convulsions Seizure,Not Applicable,Convulsions,6
+5036,Convulsions Seizure,Not Applicable,Epilepsy,6
+5048,Convulsions Seizure,Not Recorded,Alcohol Dependence,5
+5056,Convulsions Seizure,Not Recorded,Convulsions,45
+5063,Convulsions Seizure,Not Recorded,Epilepsy,39
+5067,Convulsions Seizure,Not Recorded,Generalized Epilepsy,5
+5077,Convulsions Seizure,Not Recorded,LocalRel Symptc Epi,4
+5090,Convulsions Seizure,Not Recorded,Sedatv Hyp Anxiolytc Dependence,4
+5092,Convulsions Seizure,Not Recorded,Simple Febrile Convulsions,5
+5093,Convulsions Seizure,Not Recorded,Syncope And Collapse,8
+5141,Convulsions Seizure,Seizures,Simple Febrile Convulsions,4
+5146,Convulsions Seizure,Shoulder Lesions Shoulder,Alcohol Dependence,4
+5167,Convulsions Seizure,Syncope Syncopal Episode Or Near,Convulsions,12
+5175,Convulsions Seizure,Syncope Syncopal Episode Or Near,NonSt Elevation Nstemi Myocardial Infarction,3
+5180,Convulsions Seizure,Syncope Syncopal Episode Or Near,Syncope And Collapse,19
+5192,Convulsions Seizure,Weakness,Convulsions,8
+5194,Convulsions Seizure,Weakness,Epilepsy,10
+5207,Convulsions Seizure,Weakness,Syncope And Collapse,7
+5272,Diabetic Problem,Endocrine Hyperglycemia Diabetic Diabetes,Altered Mental Status,3
+5275,Diabetic Problem,Endocrine Hyperglycemia Diabetic Diabetes,Diabetes Mellitus,9
+5294,Diabetic Problem,Endocrine Hyperglycemia Diabetic Diabetes,Sepsis,13
+5297,Diabetic Problem,Endocrine Hyperglycemia Diabetic Diabetes,Syncope And Collapse,3
+5298,Diabetic Problem,Endocrine Hyperglycemia Diabetic Diabetes,Type 1 Diabetes Mellitus,55
+5299,Diabetic Problem,Endocrine Hyperglycemia Diabetic Diabetes,Type 2 Diabetes Mellitus,41
+5308,Diabetic Problem,Endocrine Hypoglycemia Diabetic Diabetes,Altered Mental Status,3
+5311,Diabetic Problem,Endocrine Hypoglycemia Diabetic Diabetes,Drug Chem Diabetes Mellitus,3
+5316,Diabetic Problem,Endocrine Hypoglycemia Diabetic Diabetes,Hypoglycemia,9
+5323,Diabetic Problem,Endocrine Hypoglycemia Diabetic Diabetes,Pneumonia,4
+5326,Diabetic Problem,Endocrine Hypoglycemia Diabetic Diabetes,Poisoning By Insulin And Oral Hypoglycemic Drugs,10
+5329,Diabetic Problem,Endocrine Hypoglycemia Diabetic Diabetes,Type 1 Diabetes Mellitus,12
+5330,Diabetic Problem,Endocrine Hypoglycemia Diabetic Diabetes,Type 2 Diabetes Mellitus,55
+5331,Diabetic Problem,Endocrine Hypoglycemia Diabetic Diabetes,Urinary Tract Infection,3
+5333,Diabetic Problem,Endocrine Hypoglycemia Nondiabetic,Hypoglycemia,3
+5343,Diabetic Problem,Fever,Sepsis,3
+5382,Diabetic Problem,Injury Of Body Of Pancreas ,Type 1 Diabetes Mellitus,4
+5383,Diabetic Problem,Injury Of Body Of Pancreas ,Type 2 Diabetes Mellitus,5
+5387,Diabetic Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,5
+5395,Diabetic Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Pneumonia,3
+5399,Diabetic Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,9
+5404,Diabetic Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Type 1 Diabetes Mellitus,5
+5405,Diabetic Problem,Neuro Altered Mental Status Altered Loc Decreased Loc,Type 2 Diabetes Mellitus,11
+5437,Diabetic Problem,Not Recorded,Cerebral Infarction,3
+5447,Diabetic Problem,Not Recorded,Sepsis,7
+5450,Diabetic Problem,Not Recorded,Syncope And Collapse,3
+5451,Diabetic Problem,Not Recorded,Type 1 Diabetes Mellitus,19
+5452,Diabetic Problem,Not Recorded,Type 2 Diabetes Mellitus,9
+5513,Diabetic Problem,Weakness,Sepsis,3
+5515,Diabetic Problem,Weakness,Syncope And Collapse,4
+5517,Diabetic Problem,Weakness,Type 1 Diabetes Mellitus,3
+5518,Diabetic Problem,Weakness,Type 2 Diabetes Mellitus,10
+5519,Diabetic Problem,Weakness,Urinary Tract Infection,3
+5573,Falls,Abuse Of Alcohol,Alcohol Abuse,7
+5574,Falls,Abuse Of Alcohol,Alcohol Dependence,8
+5624,Falls,Alcohol Abuse With Intoxication,Alcohol Dependence,3
+5664,Falls,Behavioral Suicidal Homicidal Ideation,Alcohol Abuse,3
+5668,Falls,CV Cardiac Arrest,Cardiac Arrest,5
+5678,Falls,CV Cardiac Arrhythmia Dysrhythmia,Syncope And Collapse,3
+5700,Falls,CV Hypotension,Syncope And Collapse,3
+5784,Falls,Fever,Sepsis,6
+5839,Falls,GI GU Pelvic Or Perineal Pain,AgeRel Osteoporosis,3
+5843,Falls,GI GU Pelvic Or Perineal Pain,Dislocation Of Internal Hip Prosthesis,3
+5844,Falls,GI GU Pelvic Or Perineal Pain,Displaced Intertrochanteric Fracture Of Femur,10
+5846,Falls,GI GU Pelvic Or Perineal Pain,Fracture Of Neck Of Femur,7
+5847,Falls,GI GU Pelvic Or Perineal Pain,Fracture Of Pubis,3
+5891,Falls,General Malaise,Sepsis,4
+5901,Falls,Hemorrhage Not Elsewhere Classified,Laceration ,13
+5907,Falls,History Of Falling,AgeRel Osteoporosis,5
+5925,Falls,History Of Falling,Laceration ,4
+5963,Falls,Injury Ankle,Displaced Bimalleolar Fracture Of Leg,8
+5970,Falls,Injury Ankle,Displaced Trimalleol Fracturelo,3
+5971,Falls,Injury Ankle,Displaced Trimalleolar Fracture Of Leg,5
+5973,Falls,Injury Ankle,Fracture Of Lateral Malleolus Of Fibula,3
+5974,Falls,Injury Ankle,Fracture Of Leg,3
+5981,Falls,Injury Ankle,Sprain Of Ligament Of Ankle,6
+6010,Falls,Injury Eye And Or Orbit,Fracture Of Orbital Floor,3
+6034,Falls,Injury Face,Injury Of Head,9
+6036,Falls,Injury Face,Laceration ,12
+6046,Falls,Injury Foot,Fracture Of Calcaneus,3
+6063,Falls,Injury Forearm,Laceration ,5
+6069,Falls,Injury Head,Abrasion Of Head,3
+6078,Falls,Injury Head,Concussion,16
+6080,Falls,Injury Head,Contusion Of Head,5
+6083,Falls,Injury Head,Contusion Of Scalp,10
+6095,Falls,Injury Head,Fracture Of Nasal Bones,3
+6102,Falls,Injury Head,Fracture Of The Of Radius,3
+6105,Falls,Injury Head,Injury Of Head,38
+6106,Falls,Injury Head,Intracranial Injury,6
+6107,Falls,Injury Head,Laceration ,57
+6119,Falls,Injury Head,Traumatic Subdr Hem,14
+6120,Falls,Injury Head,Traumatic Subrac Hem,7
+6127,Falls,Injury Head With Loc,Laceration ,5
+6135,Falls,Injury Head Without Loc,Contusion Of Head,4
+6145,Falls,Injury Head Without Loc,Injury Of Head,4
+6146,Falls,Injury Head Without Loc,Laceration ,14
+6151,Falls,Injury Hip,AgeRel Osteoporosis,12
+6155,Falls,Injury Hip,Contusion Of Hip,11
+6158,Falls,Injury Hip,Dislocation Of Internal Hip Prosthesis,9
+6159,Falls,Injury Hip,Displaced Intertrochanteric Fracture Of Femur,49
+6160,Falls,Injury Hip,Displaced Midcervical Fracture Of Femur,6
+6162,Falls,Injury Hip,Displaced Subtrochanteric Fracture Of Femur,9
+6168,Falls,Injury Hip,Fracture Of Head And Neck Of Femur,5
+6169,Falls,Injury Hip,Fracture Of Neck Of Femur,22
+6171,Falls,Injury Hip,Fracture Of Pubis,18
+6177,Falls,Injury Hip,Injury Of Head,3
+6180,Falls,Injury Hip,Intracapsular Fracture Of Femur,10
+6182,Falls,Injury Hip,Laceration ,3
+6184,Falls,Injury Hip,Multiple Fracture Of Pelvis,3
+6191,Falls,Injury Hip,Pain In Hip,6
+6212,Falls,Injury Lower Back,Concussion,3
+6213,Falls,Injury Lower Back,Contusion Of Back And Pelvis,6
+6214,Falls,Injury Lower Back,Contusion Of Back Wall Of Thorax,3
+6217,Falls,Injury Lower Back,Dehydration,4
+6222,Falls,Injury Lower Back,Fracture Of Lumbar Vertebra,10
+6223,Falls,Injury Lower Back,Fracture Of One Rib,5
+6225,Falls,Injury Lower Back,Fracture Of T11T12 Vertebra,3
+6234,Falls,Injury Lower Back,Low Back Pain,7
+6244,Falls,Injury Lower Back,Stable Burst Fracture Of Lumbar Vertebra,8
+6246,Falls,Injury Lower Back,Strain Of Musclele,3
+6256,Falls,Injury Lower Leg,AgeRel Osteoporosis,3
+6261,Falls,Injury Lower Leg,Contusion Of Knee,7
+6268,Falls,Injury Lower Leg,Displaced Bicondylar Fracture Of Tibia,5
+6279,Falls,Injury Lower Leg,Displaced Spiral Fracture Of Shaft Of Tibia,3
+6286,Falls,Injury Lower Leg,Fracture Of Femur,6
+6290,Falls,Injury Lower Leg,Fracture Of Patella,12
+6291,Falls,Injury Lower Leg,Fracture Of Shaft Of Tibia,4
+6292,Falls,Injury Lower Leg,Fracture Of Tibia,3
+6299,Falls,Injury Lower Leg,Intracapsular Fracture Of Femur,3
+6300,Falls,Injury Lower Leg,Laceration ,5
+6318,Falls,Injury Lower Leg,Sprain Of Site Of Knee,4
+6331,Falls,Injury Neck,Injury Of Head,3
+6337,Falls,Injury Neck,Strain Of Musclele,3
+6354,Falls,Injury Not Otherwise Listed,Abrasion Of Hand,4
+6365,Falls,Injury Not Otherwise Listed,AgeRel Osteoporosis,12
+6366,Falls,Injury Not Otherwise Listed,Alcohol Abuse,6
+6370,Falls,Injury Not Otherwise Listed,Anterior Dislocation Of Humerus,3
+6379,Falls,Injury Not Otherwise Listed,Chest Pain,6
+6384,Falls,Injury Not Otherwise Listed,Concussion,9
+6386,Falls,Injury Not Otherwise Listed,Contusion Of Back And Pelvis,5
+6389,Falls,Injury Not Otherwise Listed,Contusion Of Eyelid And Periocular Area,5
+6392,Falls,Injury Not Otherwise Listed,Contusion Of Head,12
+6393,Falls,Injury Not Otherwise Listed,Contusion Of Hip,10
+6394,Falls,Injury Not Otherwise Listed,Contusion Of Knee,8
+6395,Falls,Injury Not Otherwise Listed,Contusion Of Leg,3
+6397,Falls,Injury Not Otherwise Listed,Contusion Of Scalp,9
+6399,Falls,Injury Not Otherwise Listed,Contusion Of Shoulder,3
+6404,Falls,Injury Not Otherwise Listed,Dementia,3
+6410,Falls,Injury Not Otherwise Listed,Dislocation Of Hip,3
+6411,Falls,Injury Not Otherwise Listed,Dislocation Of Internal Hip Prosthesis,6
+6412,Falls,Injury Not Otherwise Listed,Dislocation Of Patella,4
+6413,Falls,Injury Not Otherwise Listed,Dislocation Of Shoulder Joint,7
+6414,Falls,Injury Not Otherwise Listed,Displaced Bicondylar Fracture Of Tibia,5
+6416,Falls,Injury Not Otherwise Listed,Displaced Bimalleolar Fracture Of Leg,13
+6420,Falls,Injury Not Otherwise Listed,Displaced Comminuted Fracture Shaft Of Humerus,3
+6425,Falls,Injury Not Otherwise Listed,Displaced Intertrochanteric Fracture Of Femur,62
+6426,Falls,Injury Not Otherwise Listed,Displaced Midcervical Fracture Of Femur,6
+6427,Falls,Injury Not Otherwise Listed,Displaced Oblique Fracture Of Shaft Of Femur,3
+6433,Falls,Injury Not Otherwise Listed,Displaced Spiral Fracture Shaft Of Humerus,5
+6434,Falls,Injury Not Otherwise Listed,Displaced Subtrochanteric Fracture Of Femur,4
+6435,Falls,Injury Not Otherwise Listed,Displaced Suprcndl Fracture,6
+6437,Falls,Injury Not Otherwise Listed,Displaced Transverse Fracture Of Patella,3
+6440,Falls,Injury Not Otherwise Listed,Displaced Trimalleol Fracturelo,3
+6441,Falls,Injury Not Otherwise Listed,Displaced Trimalleolar Fracture Of Leg,15
+6454,Falls,Injury Not Otherwise Listed,Fracture Of Calcaneus,3
+6458,Falls,Injury Not Otherwise Listed,Fracture Of Femur,10
+6459,Falls,Injury Not Otherwise Listed,Fracture Of Fibula,4
+6462,Falls,Injury Not Otherwise Listed,Fracture Of Greater Tuberosity Of Humerus,3
+6463,Falls,Injury Not Otherwise Listed,Fracture Of Head And Neck Of Femur,3
+6465,Falls,Injury Not Otherwise Listed,Fracture Of Humerus,23
+6469,Falls,Injury Not Otherwise Listed,Fracture Of Leg,4
+6470,Falls,Injury Not Otherwise Listed,Fracture Of Lumbar Vertebra,10
+6474,Falls,Injury Not Otherwise Listed,Fracture Of Nasal Bones,6
+6475,Falls,Injury Not Otherwise Listed,Fracture Of Neck Of Femur,28
+6479,Falls,Injury Not Otherwise Listed,Fracture Of Patella,4
+6482,Falls,Injury Not Otherwise Listed,Fracture Of Pubis,10
+6487,Falls,Injury Not Otherwise Listed,Fracture Of Shaft Of Humerus,3
+6489,Falls,Injury Not Otherwise Listed,Fracture Of Superior Rim Of Pubis,4
+6490,Falls,Injury Not Otherwise Listed,Fracture Of Surgical Neck Of Humerus,4
+6493,Falls,Injury Not Otherwise Listed,Fracture Of The Of Radius,8
+6496,Falls,Injury Not Otherwise Listed,Fracture Of Ulna,3
+6511,Falls,Injury Not Otherwise Listed,Injury Of Head,26
+6513,Falls,Injury Not Otherwise Listed,Injury Of Shoulder And Arm,6
+6515,Falls,Injury Not Otherwise Listed,Injury Of Thorax,3
+6517,Falls,Injury Not Otherwise Listed,Intartic Fracture Of Radius,6
+6519,Falls,Injury Not Otherwise Listed,Internal Derangement Of Knee,3
+6520,Falls,Injury Not Otherwise Listed,Intracapsular Fracture Of Femur,11
+6521,Falls,Injury Not Otherwise Listed,Intracranial Injury,3
+6524,Falls,Injury Not Otherwise Listed,Laceration ,85
+6528,Falls,Injury Not Otherwise Listed,Low Back Pain,4
+6535,Falls,Injury Not Otherwise Listed,Multiple Fractures Of Ribs,7
+6539,Falls,Injury Not Otherwise Listed,Nondisplaced Intertrochanteric Fracture Of Femur,6
+6550,Falls,Injury Not Otherwise Listed,Pain In Foot,5
+6551,Falls,Injury Not Otherwise Listed,Pain In Hip,8
+6552,Falls,Injury Not Otherwise Listed,Pain In Knee,4
+6560,Falls,Injury Not Otherwise Listed,Periprosth Fracture Around Internal Prosthknee Jt,6
+6564,Falls,Injury Not Otherwise Listed,Poisoning Conseq Of External Causes Comp Preg,3
+6569,Falls,Injury Not Otherwise Listed,Rhabdomyolysis,3
+6572,Falls,Injury Not Otherwise Listed,Sepsis,8
+6575,Falls,Injury Not Otherwise Listed,Sprain Of Ligament Of Ankle,6
+6578,Falls,Injury Not Otherwise Listed,Sprain Of Site Of Knee,6
+6580,Falls,Injury Not Otherwise Listed,Stable Burst Fracture Of Lumbar Vertebra,4
+6581,Falls,Injury Not Otherwise Listed,Stable Burst Fracture Of T11T12 Vertebra,5
+6586,Falls,Injury Not Otherwise Listed,Strain Of Musclele,11
+6587,Falls,Injury Not Otherwise Listed,Strain Of Quadriceps Musclele,3
+6589,Falls,Injury Not Otherwise Listed,Syncope And Collapse,3
+6592,Falls,Injury Not Otherwise Listed,Traumatic Ischemia Of Musclele,3
+6593,Falls,Injury Not Otherwise Listed,Traumatic Subdr Hem,6
+6594,Falls,Injury Not Otherwise Listed,Traumatic Subrac Hem,8
+6597,Falls,Injury Not Otherwise Listed,Urinary Tract Infection,4
+6612,Falls,Injury Of Cranial Nerve ,Injury Of Head,7
+6613,Falls,Injury Of Cranial Nerve ,Laceration ,6
+6626,Falls,Injury Pelvis,Cerebral Infarction,4
+6627,Falls,Injury Pelvis,Contusion Of Hip,5
+6632,Falls,Injury Pelvis,Fracture Of Pubis,3
+6641,Falls,Injury Shoulder Or Upper Arm,Anterior Dislocation Of Humerus,3
+6651,Falls,Injury Shoulder Or Upper Arm,Dislocation Of Shoulder Joint,4
+6658,Falls,Injury Shoulder Or Upper Arm,Focal Tbi,3
+6661,Falls,Injury Shoulder Or Upper Arm,Fracture Of Humerus,11
+6667,Falls,Injury Shoulder Or Upper Arm,Fracture Of Surgical Neck Of Humerus,14
+6672,Falls,Injury Shoulder Or Upper Arm,Laceration ,3
+6675,Falls,Injury Shoulder Or Upper Arm,Pain In Shoulder,3
+6683,Falls,Injury Shoulder Or Upper Arm,Strain Of Musclele,3
+6685,Falls,Injury Shoulder Or Upper Arm,Traumatic Subdr Hem,3
+6689,Falls,Injury Thigh Upper Leg,AgeRel Osteoporosis,4
+6694,Falls,Injury Thigh Upper Leg,Displaced Intertrochanteric Fracture Of Femur,5
+6696,Falls,Injury Thigh Upper Leg,Displaced Subtrochanteric Fracture Of Femur,7
+6697,Falls,Injury Thigh Upper Leg,Displaced Suprcndl Fracture,3
+6699,Falls,Injury Thigh Upper Leg,Fracture Of Femur,3
+6704,Falls,Injury Thigh Upper Leg,Intracapsular Fracture Of Femur,3
+6715,Falls,Injury Wrist Hand Or Fingers,Fracture Of The Of Radius,5
+6727,Falls,Intracranial Stroke CVa Hemorrhagic,Laceration ,7
+6734,Falls,Laceration ion Without Foreign Body Thigh Sequela,Laceration ,20
+6764,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute Kidney Failure,5
+6767,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute Respiratory Failure,3
+6768,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Abuse,3
+6782,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Contusion Of Scalp,3
+6791,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Encephalopathy,3
+6809,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Injury Of Head,7
+6813,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Laceration ,7
+6816,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,NonSt Elevation Nstemi Myocardial Infarction,3
+6832,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,15
+6835,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Syncope And Collapse,7
+6839,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Traumatic Subdr Hem,5
+6840,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Traumatic Subrac Hem,8
+6842,Falls,Neuro Altered Mental Status Altered Loc Decreased Loc,Urinary Tract Infection,7
+6850,Falls,Neuro Headache Pain,Concussion,5
+6853,Falls,Neuro Headache Pain,Contusion Of Scalp,4
+6855,Falls,Neuro Headache Pain,Headache,3
+6857,Falls,Neuro Headache Pain,Injury Of Head,8
+6858,Falls,Neuro Headache Pain,Laceration ,6
+6872,Falls,Neuro Seizure,Convulsions,6
+6873,Falls,Neuro Seizure,Epilepsy,6
+6877,Falls,Neuro Stroke CVa,Cerebral Infarction,11
+6885,Falls,Neuro Stroke CVa,NonTraumatic Intracerebral Hemorrhage,4
+6891,Falls,Neuro Tia Transient Ischemic Attack,Cerebral Infarction,3
+6915,Falls,Not Applicable,Displaced Intertrochanteric Fracture Of Femur,4
+6939,Falls,Not Applicable,Injury Of Head,3
+6940,Falls,Not Applicable,Intracapsular Fracture Of Femur,3
+6942,Falls,Not Applicable,Laceration ,3
+6950,Falls,Not Applicable,Sepsis,3
+6953,Falls,Not Applicable,Strain Of Musclele,3
+6954,Falls,Not Applicable,Syncope And Collapse,3
+6962,Falls,Not Recorded,Acute Kidney Failure,5
+6964,Falls,Not Recorded,AgeRel Osteoporosis,8
+6965,Falls,Not Recorded,Alcohol Abuse,3
+6968,Falls,Not Recorded,Cerebral Infarction,5
+6971,Falls,Not Recorded,Concussion,5
+6976,Falls,Not Recorded,Contusion Of Hip,8
+6978,Falls,Not Recorded,Contusion Of Scalp,5
+6987,Falls,Not Recorded,Displaced Bicondylar Fracture Of Tibia,3
+6989,Falls,Not Recorded,Displaced Bimalleolar Fracture Of Leg,3
+6992,Falls,Not Recorded,Displaced Intertrochanteric Fracture Of Femur,18
+6998,Falls,Not Recorded,Displaced Subtrochanteric Fracture Of Femur,3
+6999,Falls,Not Recorded,Displaced Suprcndl Fracture,3
+7001,Falls,Not Recorded,Displaced Trimalleolar Fracture Of Leg,5
+7006,Falls,Not Recorded,Fracture Of Femur,4
+7012,Falls,Not Recorded,Fracture Of Humerus,4
+7015,Falls,Not Recorded,Fracture Of Nasal Bones,3
+7016,Falls,Not Recorded,Fracture Of Neck Of Femur,3
+7027,Falls,Not Recorded,Fracture Of The Of Radius,4
+7038,Falls,Not Recorded,Intracapsular Fracture Of Femur,6
+7041,Falls,Not Recorded,Laceration ,13
+7045,Falls,Not Recorded,Multiple Fractures Of Ribs,4
+7066,Falls,Not Recorded,Sepsis,14
+7076,Falls,Not Recorded,Syncope And Collapse,11
+7079,Falls,Not Recorded,Traumatic Subdr Hem,4
+7080,Falls,Not Recorded,Traumatic Subrac Hem,7
+7084,Falls,Not Recorded,Urinary Tract Infection,6
+7106,Falls,Pain,AgeRel Osteoporosis,13
+7114,Falls,Pain,Chronic Pain,3
+7115,Falls,Pain,Collapsed Vertebra,5
+7118,Falls,Pain,Contusion Of Back And Pelvis,4
+7120,Falls,Pain,Contusion Of Head,7
+7121,Falls,Pain,Contusion Of Hip,6
+7122,Falls,Pain,Contusion Of Knee,4
+7133,Falls,Pain,Displaced Bimalleolar Fracture Of Leg,4
+7135,Falls,Pain,Displaced Intertrochanteric Fracture Of Femur,8
+7143,Falls,Pain,Fracture Of Greater Trochanter Of Femur,4
+7147,Falls,Pain,Fracture Of Humerus,4
+7150,Falls,Pain,Fracture Of Lumbar Vertebra,5
+7152,Falls,Pain,Fracture Of Neck Of Femur,4
+7160,Falls,Pain,Fracture Of The Of Radius,3
+7175,Falls,Pain,Intracapsular Fracture Of Femur,6
+7177,Falls,Pain,Laceration ,9
+7178,Falls,Pain,Low Back Pain,7
+7187,Falls,Pain,Pain In Hip,10
+7188,Falls,Pain,Pain In Knee,3
+7197,Falls,Pain,Sepsis,6
+7200,Falls,Pain,Sprain Of Ligament Of Ankle,4
+7204,Falls,Pain,Strain Of Musclele,5
+7213,Falls,Pain,Wedge Compression Fracture Of Lumbar Vertebra,3
+7226,Falls,Pain Back Nontraumatic,Chronic Pain,3
+7227,Falls,Pain Back Nontraumatic,Collapsed Vertebra,6
+7229,Falls,Pain Back Nontraumatic,Contusion Of Back And Pelvis,6
+7230,Falls,Pain Back Nontraumatic,Contusion Of Back Wall Of Thorax,3
+7233,Falls,Pain Back Nontraumatic,Contusion Of Hip,3
+7237,Falls,Pain Back Nontraumatic,Dehydration,4
+7241,Falls,Pain Back Nontraumatic,Dorsalgia,3
+7247,Falls,Pain Back Nontraumatic,Fracture Of Lumbar Vertebra,6
+7252,Falls,Pain Back Nontraumatic,Fracture Of T11T12 Vertebra,4
+7260,Falls,Pain Back Nontraumatic,Injury Of Head,4
+7263,Falls,Pain Back Nontraumatic,Low Back Pain,14
+7264,Falls,Pain Back Nontraumatic,Lumbago,3
+7265,Falls,Pain Back Nontraumatic,Multiple Fractures Of Ribs,3
+7283,Falls,Pain Back Nontraumatic,Rhabdomyolysis,3
+7285,Falls,Pain Back Nontraumatic,Sepsis,4
+7288,Falls,Pain Back Nontraumatic,Strain Of Musclele,10
+7295,Falls,Pain Back Nontraumatic,Wedge Compression Fracture Of Lumbar Vertebra,3
+7299,Falls,Pain Chest Presumed Noncardiac,Contusion Of Front Wall Of Thorax,4
+7305,Falls,Pain Chest Presumed Noncardiac,Multiple Fractures Of Ribs,9
+7335,Falls,Pain Extremety Nontraumatic,Displaced Intertrochanteric Fracture Of Femur,5
+7391,Falls,Pain Not Elsewhere Mentioned Sudden Onset,AgeRel Osteoporosis,3
+7400,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Concussion,4
+7405,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Contusion Of Hip,3
+7406,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Contusion Of Knee,3
+7414,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Displaced Intertrochanteric Fracture Of Femur,9
+7425,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Fracture Of Humerus,3
+7430,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Fracture Of One Rib,5
+7432,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Fracture Of Pubis,3
+7443,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Injury Of Head,9
+7447,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Laceration ,9
+7453,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Multiple Fractures Of Ribs,3
+7465,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Sepsis,3
+7468,Falls,Pain Not Elsewhere Mentioned Sudden Onset,Strain Of Musclele,7
+7486,Falls,Repeated Falls,Concussion,3
+7508,Falls,Repeated Falls,Traumatic Subdr Hem,4
+7530,Falls,Sepsis Other,Sepsis,3
+7567,Falls,Syncope Syncopal Episode Or Near,Epilepsy,3
+7575,Falls,Syncope Syncopal Episode Or Near,Injury Of Head,3
+7577,Falls,Syncope Syncopal Episode Or Near,Laceration ,5
+7590,Falls,Syncope Syncopal Episode Or Near,Syncope And Collapse,18
+7605,Falls,Weakness,Acute Kidney Failure,6
+7612,Falls,Weakness,Altered Mental Status,5
+7627,Falls,Weakness,Concussion,3
+7630,Falls,Weakness,Contusion Of Head,3
+7631,Falls,Weakness,Contusion Of Hip,4
+7637,Falls,Weakness,Dehydration,4
+7640,Falls,Weakness,Displaced Intertrochanteric Fracture Of Femur,4
+7644,Falls,Weakness,Dizziness And Giddiness,3
+7648,Falls,Weakness,Encephalopathy,5
+7651,Falls,Weakness,Flu,3
+7656,Falls,Weakness,Fracture Of Lumbar Vertebra,7
+7657,Falls,Weakness,Fracture Of Nasal Bones,3
+7683,Falls,Weakness,Injury Of Head,10
+7689,Falls,Weakness,Laceration ,7
+7694,Falls,Weakness,Multiple Fractures Of Ribs,5
+7712,Falls,Weakness,Pneumonia,5
+7713,Falls,Weakness,Pneumonitis,6
+7721,Falls,Weakness,Rhabdomyolysis,3
+7723,Falls,Weakness,Sepsis,48
+7735,Falls,Weakness,Syncope And Collapse,7
+7740,Falls,Weakness,Traumatic Ischemia Of Musclele,4
+7741,Falls,Weakness,Traumatic Subdr Hem,4
+7743,Falls,Weakness,Type 2 Diabetes Mellitus,5
+7746,Falls,Weakness,Urinary Tract Infection,12
+7747,Falls,Weakness,Weakness,30
+7791,Headache,Neuro Headache Migraine Pain,Headache,16
+7794,Headache,Neuro Headache Migraine Pain,Migraine,8
+7811,Headache,Neuro Headache Pain,Headache,38
+7822,Headache,Neuro Headache Pain,Migraine,8
+7833,Headache,Neuro Seizure,Cellulitis Of Head [Any Part,4
+7840,Headache,Not Applicable,Headache,5
+7863,Headache,Pain Not Elsewhere Mentioned Sudden Onset,NonTraumatic Subacute Subdural Hemorrhage,4
+7874,Headache,Weakness,Dizziness And Giddiness,3
+7875,Headache,Weakness,Headache,3
+7887,Heart Problems AICD,Behavioral Anxiety,Anxiety Disorder,7
+7892,Heart Problems AICD,Behavioral Anxiety,Panic Disorder [Episodic Paroxysmal Anxiety],3
+7916,Heart Problems AICD,CV Cardiac Arrhythmia Dysrhythmia,Anxiety Disorder,6
+7917,Heart Problems AICD,CV Cardiac Arrhythmia Dysrhythmia,Atrial Fibrillation,22
+7918,Heart Problems AICD,CV Cardiac Arrhythmia Dysrhythmia,Atrial Flutter,3
+7923,Heart Problems AICD,CV Cardiac Arrhythmia Dysrhythmia,Chest Pain,5
+7937,Heart Problems AICD,CV Cardiac Arrhythmia Dysrhythmia,Palpitations,9
+7939,Heart Problems AICD,CV Cardiac Arrhythmia Dysrhythmia,Paroxysmal Atrial Fibrillation,7
+7941,Heart Problems AICD,CV Cardiac Arrhythmia Dysrhythmia,Supraventricular Tachycardia,19
+7944,Heart Problems AICD,CV Cardiac Arrhythmia Dysrhythmia,Ventricular Fibrillation,4
+7946,Heart Problems AICD,CV Cardiac Arrhythmia Dysrhythmia,Ventricular Tachycardia,4
+7949,Heart Problems AICD,CV Chest Pain Angina,Chest Pain,6
+7961,Heart Problems AICD,CV Chest Pain Presumed Cardiac,Acute Ischemic Heart Disease,3
+7966,Heart Problems AICD,CV Chest Pain Presumed Cardiac,Chest Pain,22
+7987,Heart Problems AICD,CV Hypertension,Essential Primary Hypertension,6
+7998,Heart Problems AICD,CV Hypotension,Hypotension,3
+8013,Heart Problems AICD,Chest Pain,Chest Pain,7
+8019,Heart Problems AICD,Chest Pain,Palpitations,3
+8047,Heart Problems AICD,General Malaise,Sepsis,3
+8093,Heart Problems AICD,Not Recorded,Chest Pain,6
+8105,Heart Problems AICD,Not Recorded,Supraventricular Tachycardia,3
+8106,Heart Problems AICD,Not Recorded,Syncope And Collapse,3
+8117,Heart Problems AICD,Pain Chest Presumed Noncardiac,Chest Pain,6
+8130,Heart Problems AICD,Respiratory Acute Onset Distress,Chronic Obstructive Pulmonary Disease,3
+8155,Heart Problems AICD,Syncope Syncopal Episode Or Near,Syncope And Collapse,4
+8176,Heart Problems AICD,Weakness,Paroxysmal Atrial Fibrillation,3
+8178,Heart Problems AICD,Weakness,Supraventricular Tachycardia,3
+8205,Heat Cold Exposure,Environment Heat Exhaustion,Heat Exhaustion,4
+8216,Heat Cold Exposure,Environment Heatstroke,Heatstroke And Sunstroke,3
+8273,Hemorrhage Laceration ion,Abuse Of Alcohol,Alcohol Abuse,5
+8274,Hemorrhage Laceration ion,Abuse Of Alcohol,Alcohol Dependence,3
+8307,Hemorrhage Laceration ion,Behavioral Mental Disorder Not Otherwise Listed,Laceration ,3
+8308,Hemorrhage Laceration ion,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,5
+8314,Hemorrhage Laceration ion,Behavioral Mental Disorder Not Otherwise Listed,Suicidal Ideations,5
+8332,Hemorrhage Laceration ion,Behavioral Suicide Attempt,Major Depressive Disorder,4
+8338,Hemorrhage Laceration ion,Behavioral Suicide Attempt,Suicidal Ideations,3
+8356,Hemorrhage Laceration ion,CV Hypertension,Epistaxis,3
+8389,Hemorrhage Laceration ion,Eent Nose Bleed,Epistaxis,44
+8422,Hemorrhage Laceration ion,GI GU Generalized Abdominal Pain,Abnormal Uterine And Vaginal Bleeding,3
+8427,Hemorrhage Laceration ion,GI GU Generalized Abdominal Pain,Bipolar Disorder,3
+8434,Hemorrhage Laceration ion,GI GU Generalized Abdominal Pain,Fracture Of Metacarpal Bone,3
+8448,Hemorrhage Laceration ion,GI GU Generalized Abdominal Pain,Suicidal Ideations,3
+8485,Hemorrhage Laceration ion,GI GU Vaginal Bleeding,Abnormal Uterine And Vaginal Bleeding,11
+8491,Hemorrhage Laceration ion,Gastrointestinal Hemorrhage,Chronic Or Gastric Ulcer,3
+8495,Hemorrhage Laceration ion,Gastrointestinal Hemorrhage,Gastrointestinal Hemorrhage,4
+8518,Hemorrhage Laceration ion,Gi Bleed Bloody Stool,Dvrtclos Of Lg Int,3
+8523,Hemorrhage Laceration ion,Gi Bleed Bloody Stool,Hemorrhage Of Anus And Rectum,3
+8525,Hemorrhage Laceration ion,Gi Bleed Bloody Stool,Melena,3
+8529,Hemorrhage Laceration ion,Gi Bleed Bloody Stool,Sepsis,3
+8544,Hemorrhage Laceration ion,Gi Bleed Hematemesis Vomiting Blood Blood In Vomit,Gastrointestinal Hemorrhage,4
+8561,Hemorrhage Laceration ion,Hemorrhage Not Elsewhere Classified,Alcohol Abuse,4
+8573,Hemorrhage Laceration ion,Hemorrhage Not Elsewhere Classified,Encounter For Administrative Examinations,4
+8575,Hemorrhage Laceration ion,Hemorrhage Not Elsewhere Classified,Epistaxis,16
+8585,Hemorrhage Laceration ion,Hemorrhage Not Elsewhere Classified,Hematuria,4
+8587,Hemorrhage Laceration ion,Hemorrhage Not Elsewhere Classified,Hemorrhage,4
+8596,Hemorrhage Laceration ion,Hemorrhage Not Elsewhere Classified,Laceration ,15
+8645,Hemorrhage Laceration ion,Injury Forearm,Laceration ,4
+8657,Hemorrhage Laceration ion,Injury Head,Laceration ,9
+8665,Hemorrhage Laceration ion,Injury Lower Leg,Laceration ,8
+8670,Hemorrhage Laceration ion,Injury Nose,Epistaxis,8
+8684,Hemorrhage Laceration ion,Injury Not Otherwise Listed,Laceration ,16
+8696,Hemorrhage Laceration ion,Injury Thigh Upper Leg,Laceration ,5
+8699,Hemorrhage Laceration ion,Injury Wrist Hand Or Fingers,Laceration ,9
+8707,Hemorrhage Laceration ion,Laceration ion Without Foreign Body Thigh Sequela,Laceration ,11
+8712,Hemorrhage Laceration ion,Nasal Mucositis Ulcerative,Epistaxis,7
+8734,Hemorrhage Laceration ion,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,4
+8749,Hemorrhage Laceration ion,Not Applicable,Epistaxis,3
+8756,Hemorrhage Laceration ion,Not Applicable,Laceration ,5
+8774,Hemorrhage Laceration ion,Not Recorded,Chronic Or Duodenal Ulcer,3
+8783,Hemorrhage Laceration ion,Not Recorded,Epistaxis,3
+8785,Hemorrhage Laceration ion,Not Recorded,Gastrointestinal Hemorrhage,5
+8791,Hemorrhage Laceration ion,Not Recorded,Laceration ,11
+8822,Hemorrhage Laceration ion,Pain,Sepsis,6
+8835,Hemorrhage Laceration ion,Pain Extremety Nontraumatic,Sepsis,3
+8894,Hemorrhage Laceration ion,Weakness,Epistaxis,3
+8929,Medevac HEMS Airmedical Transport,CV Cardiac Arrest,Cardiac Arrest,5
+8988,Medevac HEMS Airmedical Transport,Injury Of Head ,Traumatic Subrac Hem,3
+9129,No Other Appropriate Choice,Abdominal Tenderness,Acute Appendicitis,3
+9133,No Other Appropriate Choice,Abuse Of Alcohol,Alcohol Abuse,7
+9139,No Other Appropriate Choice,Abuse Of Alcohol Intoxication,Alcohol Abuse,5
+9142,No Other Appropriate Choice,Abuse Of Alcohol Withdrawal,Alcohol Dependence,3
+9174,No Other Appropriate Choice,Behavioral Depression,Major Depressive Disorder,14
+9195,No Other Appropriate Choice,Behavioral Mental Disorder Not Otherwise Listed,Bipolar Disorder,3
+9203,No Other Appropriate Choice,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,9
+9217,No Other Appropriate Choice,Behavioral Strange Behavior,Major Depressive Disorder,4
+9221,No Other Appropriate Choice,Behavioral Strange Behavior,Psychosis,3
+9232,No Other Appropriate Choice,Behavioral Suicidal Homicidal Ideation,Major Depressive Disorder,17
+9237,No Other Appropriate Choice,Behavioral Suicidal Homicidal Ideation,Suicidal Ideations,7
+9241,No Other Appropriate Choice,Behavioral Suicide Attempt,Major Depressive Disorder,11
+9244,No Other Appropriate Choice,Behavioral Suicide Attempt,Poisoning By 4Aminophenol Derivatives,6
+9247,No Other Appropriate Choice,Behavioral Suicide Attempt,Poisoning By Benzodiazepines,3
+9255,No Other Appropriate Choice,Behavioral Suicide Attempt,Suicidal Ideations,4
+9256,No Other Appropriate Choice,Behavioral Suicide Attempt,Suicide Attempt,3
+9273,No Other Appropriate Choice,CV Chest Pain Angina,Chest Pain,3
+9282,No Other Appropriate Choice,CV Chest Pain Presumed Cardiac,Chest Pain,4
+9284,No Other Appropriate Choice,CV Chest Pain Presumed Cardiac,NonSt Elevation Nstemi Myocardial Infarction,3
+9308,No Other Appropriate Choice,CV Hypotension,Sepsis,5
+9330,No Other Appropriate Choice,Eent Nose Bleed,Epistaxis,6
+9333,No Other Appropriate Choice,Endocrine Hyperglycemia Diabetic Diabetes,Type 1 Diabetes Mellitus,4
+9334,No Other Appropriate Choice,Endocrine Hyperglycemia Diabetic Diabetes,Type 2 Diabetes Mellitus,5
+9349,No Other Appropriate Choice,Fever,Sepsis,3
+9375,No Other Appropriate Choice,GI GU Appendicitis Acute Onset,Acute Appendicitis,6
+9377,No Other Appropriate Choice,GI GU Bowel Obstruction,Intestinal Obstruction,3
+9390,No Other Appropriate Choice,GI GU Generalized Abdominal Pain,Generalized Abdominal Pain,4
+9467,No Other Appropriate Choice,Infectious Sepsis,Sepsis,5
+9509,No Other Appropriate Choice,Injury Head With Loc,Traumatic Subdr Hem,6
+9536,No Other Appropriate Choice,Injury Lower Leg,Displaced Bicondylar Fracture Of Tibia,3
+9620,No Other Appropriate Choice,Neuro Altered Mental Status Altered Loc Decreased Loc,Disorientation,3
+9631,No Other Appropriate Choice,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,3
+9657,No Other Appropriate Choice,Neuro Stroke CVa,Cerebral Infarction,10
+9721,No Other Appropriate Choice,Not Applicable,Sepsis,3
+9795,No Other Appropriate Choice,Pain Chest Presumed Noncardiac,Sepsis,3
+9833,No Other Appropriate Choice,Pain Not Elsewhere Mentioned Sudden Onset,Traumatic Subdr Hem,3
+9849,No Other Appropriate Choice,Respiratory Asthma,Asthma,3
+9855,No Other Appropriate Choice,Respiratory Not Otherwise Listed,Acute Bronchiolitis,5
+9870,No Other Appropriate Choice,Respiratory Pneumothorax Spontaneous,Pneumothorax,3
+9933,Overdose Poisoning Ingestion,Abuse Of Alcohol,Alcohol Abuse,49
+9934,Overdose Poisoning Ingestion,Abuse Of Alcohol,Alcohol Dependence,15
+9935,Overdose Poisoning Ingestion,Abuse Of Alcohol,Alcohol Use,6
+9949,Overdose Poisoning Ingestion,Abuse Of Alcohol,Major Depressive Disorder,7
+9953,Overdose Poisoning Ingestion,Abuse Of Alcohol,Poisoning By Antiallerg Antiemetic,3
+9955,Overdose Poisoning Ingestion,Abuse Of Alcohol,Poisoning By Antipsychot Neurolept,5
+9972,Overdose Poisoning Ingestion,Abuse Of Alcohol,Toxic Effect Of Ethanol,7
+9979,Overdose Poisoning Ingestion,Abuse Of Alcohol Intoxication,Alcohol Abuse,38
+9980,Overdose Poisoning Ingestion,Abuse Of Alcohol Intoxication,Alcohol Dependence,8
+9981,Overdose Poisoning Ingestion,Abuse Of Alcohol Intoxication,Altered Mental Status,4
+9991,Overdose Poisoning Ingestion,Abuse Of Alcohol Intoxication,Major Depressive Disorder,6
+10008,Overdose Poisoning Ingestion,Abuse Of Alcohol Withdrawal,Alcohol Abuse,4
+10009,Overdose Poisoning Ingestion,Abuse Of Alcohol Withdrawal,Alcohol Dependence,3
+10027,Overdose Poisoning Ingestion,Abuse Of Narcotic Ie Heroin,Alcohol Abuse,3
+10029,Overdose Poisoning Ingestion,Abuse Of Narcotic Ie Heroin,Altered Mental Status,5
+10039,Overdose Poisoning Ingestion,Abuse Of Narcotic Ie Heroin,Major Depressive Disorder,4
+10040,Overdose Poisoning Ingestion,Abuse Of Narcotic Ie Heroin,Opioid Abuse,7
+10041,Overdose Poisoning Ingestion,Abuse Of Narcotic Ie Heroin,Opioid Dependence,5
+10047,Overdose Poisoning Ingestion,Abuse Of Narcotic Ie Heroin,Poisoning By Benzodiazepines,8
+10050,Overdose Poisoning Ingestion,Abuse Of Narcotic Ie Heroin,Poisoning By Heroin,18
+10053,Overdose Poisoning Ingestion,Abuse Of Narcotic Ie Heroin,Poisoning By Opioids,6
+10057,Overdose Poisoning Ingestion,Abuse Of Narcotic Ie Heroin,Psychoactive Substance Abuse,4
+10067,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Alcohol Abuse,13
+10071,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Cannabis Abuse,5
+10078,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Major Depressive Disorder,6
+10079,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Opioid Abuse,5
+10086,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Poisoning By Antipsychot Neurolept,3
+10087,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Poisoning By Benzodiazepines,5
+10089,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Poisoning By Drug Meds Biol Subst,4
+10090,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Poisoning By Heroin,4
+10094,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Poisoning By Slctv Seroton Norepineph Reup Inhibtr,3
+10095,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Psychoactive Substance Abuse,4
+10098,Overdose Poisoning Ingestion,Abuse Of Psychoactive Substance,Stimulant Abuse,9
+10110,Overdose Poisoning Ingestion,Abuse Of Sedative Hypnotic Or Anxiolytic,Major Depressive Disorder,9
+10114,Overdose Poisoning Ingestion,Abuse Of Sedative Hypnotic Or Anxiolytic,Poisoning By Antieplptc And SedHypntc Drugs,7
+10117,Overdose Poisoning Ingestion,Abuse Of Sedative Hypnotic Or Anxiolytic,Poisoning By Benzodiazepines,6
+10124,Overdose Poisoning Ingestion,Abuse Of Sedative Hypnotic Or Anxiolytic,Poisoning By Slctv Seroton Norepineph Reup Inhibtr,3
+10125,Overdose Poisoning Ingestion,Abuse Of Sedative Hypnotic Or Anxiolytic,Poisoning By Slctv Serotonin Reuptake Inhibtr,3
+10133,Overdose Poisoning Ingestion,Alcohol Abuse With Intoxication,Alcohol Dependence,4
+10135,Overdose Poisoning Ingestion,Alcohol Dependence With Intoxication,Alcohol Abuse,12
+10143,Overdose Poisoning Ingestion,Behavioral Anxiety,Alcohol Abuse,4
+10163,Overdose Poisoning Ingestion,Behavioral Depression,Major Depressive Disorder,6
+10169,Overdose Poisoning Ingestion,Behavioral Depression,Poisoning By Antipsychot Neurolept,5
+10171,Overdose Poisoning Ingestion,Behavioral Depression,Poisoning By Benzodiazepines,4
+10178,Overdose Poisoning Ingestion,Behavioral Depression,Suicidal Ideations,3
+10189,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Alcohol Abuse,5
+10199,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,22
+10202,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Poisoning By 4Aminophenol Derivatives,6
+10203,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Poisoning By Antiallerg Antiemetic,3
+10204,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Poisoning By Antieplptc And SedHypntc Drugs,3
+10206,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Poisoning By Antipsychot Neurolept,4
+10211,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Poisoning By Propionic Acid Derivatives,3
+10215,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Psychoactive Substance Abuse,3
+10217,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Psychosis,3
+10221,Overdose Poisoning Ingestion,Behavioral Mental Disorder Not Otherwise Listed,Stimulant Abuse,7
+10226,Overdose Poisoning Ingestion,Behavioral Strange Behavior,Alcohol Abuse,3
+10233,Overdose Poisoning Ingestion,Behavioral Strange Behavior,Major Depressive Disorder,4
+10250,Overdose Poisoning Ingestion,Behavioral Suicidal Homicidal Ideation,Alcohol Abuse,4
+10252,Overdose Poisoning Ingestion,Behavioral Suicidal Homicidal Ideation,Headache,4
+10253,Overdose Poisoning Ingestion,Behavioral Suicidal Homicidal Ideation,Major Depressive Disorder,10
+10254,Overdose Poisoning Ingestion,Behavioral Suicidal Homicidal Ideation,Poisoning By 4Aminophenol Derivatives,3
+10259,Overdose Poisoning Ingestion,Behavioral Suicidal Homicidal Ideation,Poisoning By Antipsychot Neurolept,5
+10261,Overdose Poisoning Ingestion,Behavioral Suicidal Homicidal Ideation,Poisoning By Benzodiazepines,3
+10269,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Adjustment Disorder,3
+10270,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Alcohol Abuse,3
+10281,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Major Depressive Disorder,29
+10284,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By 4Aminophenol Derivatives,10
+10289,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Antiallerg Antiemetic,9
+10291,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Antieplptc And SedHypntc Drugs,9
+10292,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Antihypertensive Drugs,3
+10293,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Antipsychot Neurolept,9
+10294,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Aspirin,3
+10295,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Benzodiazepines,19
+10300,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Opioids,3
+10303,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Propionic Acid Derivatives,8
+10304,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Skeletal Musclele Relaxants,3
+10305,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Slctv Seroton Norepineph Reup Inhibtr,6
+10306,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Poisoning By Slctv Serotonin Reuptake Inhibtr,5
+10311,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Suicidal Ideations,6
+10312,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Suicide Attempt,3
+10315,Overdose Poisoning Ingestion,Behavioral Suicide Attempt,Toxic Effect Of Metals,3
+10345,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Alcohol Abuse,6
+10348,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Altered Mental Status,3
+10360,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Major Depressive Disorder,12
+10371,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By 4Aminophenol Derivatives,5
+10372,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Amphetamines,5
+10374,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Antiallerg Antiemetic,3
+10375,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Antidepressants,5
+10377,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Antieplptc And SedHypntc Drugs,7
+10380,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Antipsychot Neurolept,5
+10382,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Benzodiazepines,12
+10385,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Drug Meds Biol Subst,6
+10386,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Heroin,5
+10388,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Narcotics,3
+10394,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Slctv Seroton Norepineph Reup Inhibtr,5
+10395,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Poisoning By Slctv Serotonin Reuptake Inhibtr,3
+10402,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Stimulant Abuse,10
+10411,Overdose Poisoning Ingestion,Environment Poisoning Drug Ingestion Overdose,Toxic Effect Of Substance,3
+10479,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Abuse,29
+10480,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Dependence,4
+10481,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,13
+10493,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Encephalopathy,3
+10501,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Major Depressive Disorder,12
+10507,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By 4Aminophenol Derivatives,7
+10508,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Amphetamines,4
+10511,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Antiallerg Antiemetic,4
+10512,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Antieplptc And SedHypntc Drugs,7
+10514,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Antiparkns Drug Centr MuscleTone Depr,4
+10515,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Antipsychot Neurolept,8
+10517,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Benzodiazepines,23
+10520,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Drug Meds Biol Subst,5
+10521,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Heroin,8
+10524,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Opioids,9
+10528,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Slctv Serotonin Reuptake Inhibtr,6
+10531,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Psychoactive Substance Abuse,13
+10535,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Sedative,3
+10540,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Stimulant Abuse,3
+10543,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Suicide Attempt,3
+10549,Overdose Poisoning Ingestion,Neuro Altered Mental Status Altered Loc Decreased Loc,Transient Alteration Of Awareness,4
+10593,Overdose Poisoning Ingestion,Not Recorded,Alcohol Abuse,13
+10594,Overdose Poisoning Ingestion,Not Recorded,Alcohol Dependence,4
+10595,Overdose Poisoning Ingestion,Not Recorded,Altered Mental Status,3
+10607,Overdose Poisoning Ingestion,Not Recorded,Major Depressive Disorder,17
+10610,Overdose Poisoning Ingestion,Not Recorded,Poisoning By 4Aminophenol Derivatives,6
+10613,Overdose Poisoning Ingestion,Not Recorded,Poisoning By Antidepressants,3
+10614,Overdose Poisoning Ingestion,Not Recorded,Poisoning By Antieplptc And SedHypntc Drugs,7
+10617,Overdose Poisoning Ingestion,Not Recorded,Poisoning By Benzodiazepines,14
+10620,Overdose Poisoning Ingestion,Not Recorded,Poisoning By Drug Meds Biol Subst,4
+10622,Overdose Poisoning Ingestion,Not Recorded,Poisoning By Heroin,11
+10627,Overdose Poisoning Ingestion,Not Recorded,Poisoning By Opioids,6
+10628,Overdose Poisoning Ingestion,Not Recorded,Poisoning By Propionic Acid Derivatives,4
+10630,Overdose Poisoning Ingestion,Not Recorded,Poisoning By Slctv Seroton Norepineph Reup Inhibtr,4
+10631,Overdose Poisoning Ingestion,Not Recorded,Poisoning By Slctv Serotonin Reuptake Inhibtr,4
+10639,Overdose Poisoning Ingestion,Not Recorded,Stimulant Abuse,3
+10640,Overdose Poisoning Ingestion,Not Recorded,Suicidal Ideations,6
+10687,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Alcohol Abuse,11
+10690,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Altered Mental Status,5
+10698,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Major Depressive Disorder,14
+10699,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Opioid Abuse,6
+10701,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By 4Aminophenol Derivatives,3
+10702,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Amphetamines,5
+10706,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Antieplptc And SedHypntc Drugs,7
+10708,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Antiparkns Drug Centr MuscleTone Depr,3
+10709,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Antipsychot Neurolept,5
+10711,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Benzodiazepines,12
+10712,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By BetaAdrenocpt Antagonists,3
+10713,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Cocaine,3
+10714,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Drug Meds Biol Subst,9
+10716,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Heroin,18
+10722,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Propionic Acid Derivatives,5
+10730,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Psychoactive Substance Abuse,5
+10736,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Stimulant Abuse,10
+10739,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Suicidal Ideations,3
+10750,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined ,Major Depressive Disorder,6
+10752,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined ,Poisoning By 4Aminophenol Derivatives,6
+10753,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined ,Poisoning By Antieplptc And SedHypntc Drugs,3
+10757,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined ,Poisoning By BetaAdrenocpt Antagonists,3
+10763,Overdose Poisoning Ingestion,Poisoning By Drugs Medicaments And Biological Substances Undetermined Subsequent Encounter,Alcohol Abuse,4
+10780,Overdose Poisoning Ingestion,Respiratory Acute Onset Distress,Poisoning By Heroin,3
+10819,Overdose Poisoning Ingestion,Symptoms And Signs Involving Emotional State,Major Depressive Disorder,7
+10879,Pregnancy Childbirth Miscarriage,GI GU Vaginal Bleeding,Complete Or Spontaneous Abortion,7
+10885,Pregnancy Childbirth Miscarriage,GI GU Vaginal Bleeding,Threatened Abortion,3
+10911,Pregnancy Childbirth Miscarriage,OB Gyn Complaint Not Otherwise Listed,Hemorrhage In Early Pregnancy,4
+10923,Pregnancy Childbirth Miscarriage,OB Spontaneous Abortion Miscarriage,Incomplete Spontaneous Abortion,3
+10936,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Alcohol,Alcohol Abuse,12
+10942,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Alcohol,Laceration ,3
+10943,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Alcohol,Major Depressive Disorder,8
+10945,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Alcohol,Suicidal Ideations,4
+10949,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Alcohol Intoxication,Alcohol Abuse,15
+10950,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Alcohol Intoxication,Alcohol Dependence,3
+10955,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Alcohol Intoxication,Major Depressive Disorder,4
+10956,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Alcohol Intoxication,Suicidal Ideations,4
+10965,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Hallucinogen,Major Depressive Disorder,3
+10966,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Hallucinogen,Psychoactive Substance Abuse,3
+10970,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Hallucinogen,Stimulant Abuse,8
+10978,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Narcotic Ie Heroin,Stimulant Abuse,3
+10995,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Psychoactive Substance,Poisoning By Antiallerg Antiemetic,3
+10998,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Psychoactive Substance,Psychoactive Substance Abuse,11
+11002,Psychiatric Problem Abnormal Behavior Suicide Attempt,Abuse Of Psychoactive Substance,Stimulant Abuse,7
+11014,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Anxiety,Anxiety Disorder,8
+11015,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Anxiety,Bipolar Disorder,3
+11024,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Anxiety,Encounter For Issue Of Repeat Prescription,3
+11026,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Anxiety,Major Depressive Disorder,7
+11034,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Anxiety,Stimulant Abuse,3
+11036,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Anxiety,Suicidal Ideations,4
+11042,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Depression,Anxiety Disorder,9
+11051,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Depression,Laceration ,5
+11052,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Depression,Major Depressive Disorder,37
+11060,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Depression,Schizoaffective Disorder,3
+11062,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Depression,Suicidal Ideations,17
+11094,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Hostile,Major Depressive Disorder,3
+11102,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Abdominal Pain,3
+11105,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Abrasion Of Wrist,4
+11112,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Adjustment Disorder,12
+11115,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Adult Sexual Abuse,3
+11116,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Alcohol Abuse,23
+11117,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Alcohol Dependence,11
+11119,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Altered Mental Status,4
+11120,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,AlzheimerS Disease,3
+11122,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Antisocial Personality Disorder,3
+11123,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Anxiety Disorder,47
+11126,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Auditory Hallucinations,5
+11127,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Autistic Disorder,5
+11128,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Bipolar Disorder,51
+11131,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Borderline Personality Disorder,3
+11132,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Brief Psychotic Disorder,16
+11135,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Cellulitis Of Limb,3
+11141,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Conduct Disorder,20
+11148,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Delusional Disorder,14
+11149,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Dementia,9
+11150,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Depressive Episodes,4
+11154,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Disruptive Mood Dysregulation Disorder,3
+11158,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Encephalopathy,3
+11159,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Encounter For Exam And Obs Alleged Adult Rape,3
+11174,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Generalized Anxiety Disorder,8
+11177,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Headache,3
+11180,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Homicidal Ideations,3
+11188,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Irritability And Anger,3
+11190,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Laceration ,21
+11193,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,204
+11196,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Manic Episode,6
+11197,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Mental Disorder,4
+11204,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Opioid Abuse,3
+11205,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Opioid Dependence,3
+11206,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Oppositional Defiant Disorder,3
+11208,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Panic Disorder [Episodic Paroxysmal Anxiety],10
+11209,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Paranoid Schizophrenia,29
+11228,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Post Traumatic Stress Disorder,3
+11229,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Psychoactive Substance Abuse,18
+11231,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Psychosis,37
+11233,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Reaction To Severe Stress,3
+11235,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Restlessness And Agitation,11
+11237,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Schizoaffective Disorder,32
+11238,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Schizophrenia,32
+11244,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Stimulant Abuse,42
+11245,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Stimulant Dependence,8
+11246,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Stimulant Use,3
+11247,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Suicidal Ideations,107
+11248,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Suicide Attempt,5
+11250,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Symptoms And Signs Involving Appearance And Behavior,5
+11257,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Undifferentiated Schizophrenia,5
+11259,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Violent Behavior,4
+11260,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Mental Disorder Not Otherwise Listed,Visual Hallucinations,3
+11264,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Alcohol Abuse,4
+11266,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Altered Mental Status,4
+11267,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Anxiety Disorder,3
+11269,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Bipolar Disorder,7
+11270,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Brief Psychotic Disorder,3
+11272,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Delusional Disorder,4
+11281,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Laceration ,3
+11282,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Major Depressive Disorder,11
+11291,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Psychosis,6
+11294,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Schizoaffective Disorder,3
+11295,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Schizophrenia,6
+11297,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Stimulant Abuse,8
+11300,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Strange Behavior,Suicidal Ideations,6
+11306,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Alcohol Abuse,5
+11307,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Alcohol Dependence,5
+11309,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Anxiety Disorder,4
+11310,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Bipolar Disorder,4
+11314,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Depressive Episodes,3
+11319,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Laceration ,3
+11320,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Major Depressive Disorder,53
+11328,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Post Traumatic Stress Disorder,3
+11330,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Psychosis,3
+11333,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Schizoaffective Disorder,4
+11337,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicidal Homicidal Ideation,Suicidal Ideations,25
+11350,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Alcohol Abuse,9
+11351,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Alcohol Dependence,4
+11352,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Anxiety Disorder,6
+11354,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Asphyxiation,5
+11355,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Bipolar Disorder,17
+11370,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Laceration ,28
+11372,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Major Depressive Disorder,116
+11380,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Poisoning By 4Aminophenol Derivatives,4
+11382,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Poisoning By Antieplptc And SedHypntc Drugs,4
+11384,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Poisoning By Benzodiazepines,6
+11396,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Psychoactive Substance Abuse,3
+11397,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Psychosis,7
+11400,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Schizoaffective Disorder,7
+11401,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Schizophrenia,3
+11404,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Stimulant Abuse,4
+11407,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Suicidal Ideations,48
+11408,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Suicide Attempt,6
+11410,Psychiatric Problem Abnormal Behavior Suicide Attempt,Behavioral Suicide Attempt,Toxic Eff Of Carb Monx From Mtr Veh Exhaust,4
+11432,Psychiatric Problem Abnormal Behavior Suicide Attempt,Depressive Episodes,Major Depressive Disorder,5
+11433,Psychiatric Problem Abnormal Behavior Suicide Attempt,Depressive Episodes,Suicidal Ideations,4
+11503,Psychiatric Problem Abnormal Behavior Suicide Attempt,Injury Not Otherwise Listed,Laceration ,3
+11504,Psychiatric Problem Abnormal Behavior Suicide Attempt,Injury Not Otherwise Listed,Major Depressive Disorder,3
+11511,Psychiatric Problem Abnormal Behavior Suicide Attempt,Injury Wrist Hand Or Fingers,Laceration ,5
+11520,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute Kidney Failure,7
+11523,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Abuse,6
+11525,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,3
+11527,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Anxiety Disorder,3
+11529,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Bipolar Disorder,4
+11531,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Brief Psychotic Disorder,4
+11537,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Delusional Disorder,4
+11551,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Major Depressive Disorder,16
+11569,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Psychoactive Substance Abuse,6
+11572,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Psychosis,12
+11576,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Schizophrenia,5
+11577,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,7
+11579,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Stimulant Abuse,13
+11582,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Suicidal Ideations,13
+11585,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Type 2 Diabetes Mellitus,3
+11586,Psychiatric Problem Abnormal Behavior Suicide Attempt,Neuro Altered Mental Status Altered Loc Decreased Loc,Undifferentiated Schizophrenia,4
+11611,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Applicable,Major Depressive Disorder,17
+11616,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Applicable,Suicidal Ideations,3
+11620,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Alcohol Abuse,6
+11622,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Altered Mental Status,3
+11623,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Anxiety Disorder,4
+11625,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Bipolar Disorder,5
+11627,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Brief Psychotic Disorder,4
+11630,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Conduct Disorder,3
+11638,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Laceration ,7
+11639,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Major Depressive Disorder,17
+11646,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Poisoning By Benzodiazepines,3
+11656,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Psychosis,3
+11658,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Schizoaffective Disorder,4
+11659,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Schizophrenia,4
+11661,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Stimulant Abuse,5
+11662,Psychiatric Problem Abnormal Behavior Suicide Attempt,Not Recorded,Suicidal Ideations,6
+11703,Psychiatric Problem Abnormal Behavior Suicide Attempt,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Psychoactive Substance Abuse,3
+11734,Psychiatric Problem Abnormal Behavior Suicide Attempt,State Of Emotional Shock And Stress,Suicidal Ideations,3
+11738,Psychiatric Problem Abnormal Behavior Suicide Attempt,Suicidal Ideations,Major Depressive Disorder,10
+11743,Psychiatric Problem Abnormal Behavior Suicide Attempt,Symptoms And Signs Involving Emotional State,Alcohol Abuse,3
+11745,Psychiatric Problem Abnormal Behavior Suicide Attempt,Symptoms And Signs Involving Emotional State,Anxiety Disorder,4
+11754,Psychiatric Problem Abnormal Behavior Suicide Attempt,Symptoms And Signs Involving Emotional State,Laceration ,3
+11755,Psychiatric Problem Abnormal Behavior Suicide Attempt,Symptoms And Signs Involving Emotional State,Major Depressive Disorder,22
+11764,Psychiatric Problem Abnormal Behavior Suicide Attempt,Symptoms And Signs Involving Emotional State,Suicidal Ideations,13
+11777,Psychiatric Problem Abnormal Behavior Suicide Attempt,Weakness,Major Depressive Disorder,3
+11784,Sick Person,Abdominal Pain,Abdominal Pain,32
+11789,Sick Person,Abdominal Pain,Acute Cystitis,3
+11807,Sick Person,Abdominal Pain,Calculus Of Kidney,5
+11815,Sick Person,Abdominal Pain,Chronic Pain,4
+11816,Sick Person,Abdominal Pain,Chronic Pancreatitis,3
+11819,Sick Person,Abdominal Pain,Constipation,9
+11829,Sick Person,Abdominal Pain,Diarrhea,4
+11839,Sick Person,Abdominal Pain,Epigastric Pain,12
+11846,Sick Person,Abdominal Pain,Gastritis,5
+11848,Sick Person,Abdominal Pain,Generalized Abdominal Pain,12
+11855,Sick Person,Abdominal Pain,Hydronephrosis,3
+11861,Sick Person,Abdominal Pain,Ileus,3
+11866,Sick Person,Abdominal Pain,Intestinal Obstruction,3
+11867,Sick Person,Abdominal Pain,Intestnl Obst,4
+11869,Sick Person,Abdominal Pain,Left Lower Quadrant Pain,4
+11873,Sick Person,Abdominal Pain,Nausea,8
+11875,Sick Person,Abdominal Pain,Noninfective Gastroenteritis And Colitis,12
+11891,Sick Person,Abdominal Pain,Retention Of Urine,3
+11892,Sick Person,Abdominal Pain,Right Lower Quadrant Pain,5
+11898,Sick Person,Abdominal Pain,Sepsis,16
+11913,Sick Person,Abdominal Pain,Urinary Tract Infection,8
+11916,Sick Person,Abdominal Pain,Viral Intestinal Infection,3
+11918,Sick Person,Abdominal Pain,Vomiting,3
+11942,Sick Person,Abuse Of Alcohol,Alcohol Abuse,43
+11943,Sick Person,Abuse Of Alcohol,Alcohol Dependence,17
+11964,Sick Person,Abuse Of Alcohol Intoxication,Alcohol Abuse,9
+11965,Sick Person,Abuse Of Alcohol Intoxication,Alcohol Dependence,5
+11975,Sick Person,Abuse Of Alcohol Withdrawal,Alcohol Dependence,5
+12001,Sick Person,Abuse Of Narcotic Ie Heroin,Opioid Dependence,4
+12008,Sick Person,Abuse Of Psychoactive Substance,Alcohol Abuse,4
+12023,Sick Person,Abuse Of Psychoactive Substance,Opioid Dependence,3
+12027,Sick Person,Abuse Of Psychoactive Substance,Psychoactive Substance Abuse,3
+12031,Sick Person,Abuse Of Psychoactive Substance,Sepsis,3
+12032,Sick Person,Abuse Of Psychoactive Substance,Stimulant Abuse,4
+12037,Sick Person,Abuse Of Sedative Hypnotic Or Anxiolytic,Auditory Hallucinations,3
+12041,Sick Person,Abuse Of Sedative Hypnotic Or Anxiolytic,Disorder Of The Skin And Subcutaneous Tissue,3
+12049,Sick Person,Abuse Of Sedative Hypnotic Or Anxiolytic,Stimulant Abuse,3
+12062,Sick Person,Alcohol Dependence With Intoxication,Alcohol Dependence,4
+12067,Sick Person,Allergic Reaction,Allergy,4
+12093,Sick Person,Behavioral Anxiety,Alcohol Abuse,4
+12097,Sick Person,Behavioral Anxiety,Anxiety Disorder,7
+12103,Sick Person,Behavioral Anxiety,Generalized Anxiety Disorder,3
+12108,Sick Person,Behavioral Anxiety,Opioid Dependence,4
+12114,Sick Person,Behavioral Anxiety,Stimulant Abuse,4
+12151,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Alcohol Dependence,5
+12152,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Altered Mental Status,6
+12154,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Anxiety Disorder,17
+12157,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Bipolar Disorder,4
+12162,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Cellulitis Of Limb,3
+12176,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Epilepsy,4
+12182,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,15
+12188,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Panic Disorder [Episodic Paroxysmal Anxiety],4
+12201,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Psychoactive Substance Abuse,3
+12203,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Psychosis,5
+12206,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Schizoaffective Disorder,8
+12207,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Schizophrenia,4
+12210,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Stimulant Abuse,6
+12213,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Suicidal Ideations,14
+12216,Sick Person,Behavioral Mental Disorder Not Otherwise Listed,Syncope And Collapse,4
+12234,Sick Person,Behavioral Strange Behavior,Major Depressive Disorder,3
+12239,Sick Person,Behavioral Strange Behavior,Psychosis,4
+12250,Sick Person,Behavioral Suicidal Homicidal Ideation,Major Depressive Disorder,3
+12257,Sick Person,Behavioral Suicide Attempt,Major Depressive Disorder,7
+12264,Sick Person,CV Cardiac Arrest,Cardiac Arrest,4
+12271,Sick Person,CV Cardiac Arrhythmia Dysrhythmia,Atrial Fibrillation,4
+12286,Sick Person,CV Cardiac Arrhythmia Dysrhythmia,Supraventricular Tachycardia,3
+12290,Sick Person,CV Cardiac Arrhythmia Dysrhythmia,Weakness,3
+12299,Sick Person,CV Chest Pain Presumed Cardiac,Chest Pain,4
+12312,Sick Person,CV Congestive Heart Failure Chf,Hyp Hrt & Chr Kdny Dis,4
+12324,Sick Person,CV Hypertension,Dizziness And Giddiness,5
+12326,Sick Person,CV Hypertension,Essential Primary Hypertension,12
+12343,Sick Person,CV Hypertension,Weakness,3
+12346,Sick Person,CV Hypotension,Acute Kidney Failure,10
+12357,Sick Person,CV Hypotension,Hypotension,5
+12365,Sick Person,CV Hypotension,Sepsis,9
+12386,Sick Person,Chest Pain,Chest Pain,6
+12397,Sick Person,Chest Pain,NonSt Elevation Nstemi Myocardial Infarction,4
+12427,Sick Person,Convulsions,Convulsions,20
+12428,Sick Person,Convulsions,Epilepsy,8
+12435,Sick Person,Convulsions,Opioid Dependence,4
+12440,Sick Person,Convulsions,Syncope And Collapse,3
+12446,Sick Person,Dehydration,Acute Kidney Failure,4
+12457,Sick Person,Dehydration,Dizziness And Giddiness,3
+12471,Sick Person,Dehydration,Sepsis,4
+12473,Sick Person,Dehydration,Syncope And Collapse,3
+12487,Sick Person,Diarrhea,Diarrhea,4
+12496,Sick Person,Diarrhea,Noninfective Gastroenteritis And Colitis,4
+12500,Sick Person,Diarrhea,Sepsis,5
+12508,Sick Person,Eent Nose Bleed,Epistaxis,3
+12534,Sick Person,Endocrine Hyperglycemia Diabetic Diabetes,Sepsis,13
+12536,Sick Person,Endocrine Hyperglycemia Diabetic Diabetes,Type 1 Diabetes Mellitus,9
+12537,Sick Person,Endocrine Hyperglycemia Diabetic Diabetes,Type 2 Diabetes Mellitus,3
+12546,Sick Person,Endocrine Hypoglycemia Diabetic Diabetes,Type 2 Diabetes Mellitus,6
+12571,Sick Person,Environment Poisoning Drug Ingestion Overdose,Sepsis,3
+12595,Sick Person,Fatigue,Major Depressive Disorder,4
+12605,Sick Person,Fatigue,Sepsis,6
+12614,Sick Person,Fatigue,Weakness,4
+12627,Sick Person,Fever,Acute Respiratory Infection,3
+12646,Sick Person,Fever,Fever,11
+12647,Sick Person,Fever,Flu,8
+12648,Sick Person,Fever,GramNegative Sepsis,4
+12652,Sick Person,Fever,I I React D T Urinary Catheter,5
+12654,Sick Person,Fever,Infect Inflm Reaction,3
+12663,Sick Person,Fever,Pneumonia,4
+12664,Sick Person,Fever,Pneumonitis,5
+12668,Sick Person,Fever,Sepsis,62
+12672,Sick Person,Fever,Urinary Tract Infection,5
+12678,Sick Person,GI GU Abdominal Pain Acute Onset,Abdominal Pain,4
+12682,Sick Person,GI GU Abdominal Pain Acute Onset,Alcohol Dependence,3
+12691,Sick Person,GI GU Abdominal Pain Acute Onset,Epigastric Pain,3
+12694,Sick Person,GI GU Abdominal Pain Acute Onset,Generalized Abdominal Pain,4
+12710,Sick Person,GI GU Abdominal Pain Acute Onset,Nausea,3
+12717,Sick Person,GI GU Abdominal Pain Acute Onset,Sepsis,6
+12735,Sick Person,GI GU Constipation,Constipation,5
+12737,Sick Person,GI GU Constipation,Fecal Impaction,4
+12752,Sick Person,GI GU Diarrhea,Nausea,3
+12755,Sick Person,GI GU Diarrhea,Sepsis,7
+12765,Sick Person,GI GU Generalized Abdominal Pain,Abdominal Pain,9
+12782,Sick Person,GI GU Generalized Abdominal Pain,Constipation,7
+12786,Sick Person,GI GU Generalized Abdominal Pain,Cyclical Vomiting,4
+12803,Sick Person,GI GU Generalized Abdominal Pain,Generalized Abdominal Pain,6
+12806,Sick Person,GI GU Generalized Abdominal Pain,Hydronephrosis,3
+12815,Sick Person,GI GU Generalized Abdominal Pain,Nausea,5
+12828,Sick Person,GI GU Generalized Abdominal Pain,Sepsis,9
+12839,Sick Person,GI GU Generalized Abdominal Pain,Urinary Tract Infection,6
+12882,Sick Person,GI GU Nausea,Cerebral Infarction,4
+12890,Sick Person,GI GU Nausea,Dehydration,6
+12892,Sick Person,GI GU Nausea,Dizziness And Giddiness,6
+12903,Sick Person,GI GU Nausea,Gastrointestinal Hemorrhage,4
+12905,Sick Person,GI GU Nausea,Headache,3
+12911,Sick Person,GI GU Nausea,I I React D T Indwelling Urethral Catheter,3
+12912,Sick Person,GI GU Nausea,Ileus,3
+12920,Sick Person,GI GU Nausea,Nausea,21
+12922,Sick Person,GI GU Nausea,Noninfective Gastroenteritis And Colitis,9
+12931,Sick Person,GI GU Nausea,Sepsis,22
+12933,Sick Person,GI GU Nausea,Syncope And Collapse,6
+12942,Sick Person,GI GU Nausea,Urinary Tract Infection,4
+12945,Sick Person,GI GU Nausea,Vomiting,6
+12947,Sick Person,GI GU Nausea,Weakness,4
+12967,Sick Person,GI GU Nausea With Vomiting,Sepsis,4
+12989,Sick Person,GI GU Pelvic Or Perineal Pain,Retention Of Urine,4
+13033,Sick Person,General Malaise,Gastrointestinal Hemorrhage,3
+13056,Sick Person,General Malaise,Nausea,9
+13064,Sick Person,General Malaise,Pneumonia,3
+13075,Sick Person,General Malaise,Sepsis,13
+13082,Sick Person,General Malaise,Urinary Tract Infection,7
+13086,Sick Person,General Malaise,Weakness,6
+13099,Sick Person,Gi Bleed Hematemesis Vomiting Blood Blood In Vomit,Gastrointestinal Hemorrhage,3
+13104,Sick Person,Gi Bleed Hematemesis Vomiting Blood Blood In Vomit,Sepsis,3
+13135,Sick Person,Infectious Common Cold,Acute Respiratory Infection,3
+13152,Sick Person,Infectious Disease,Cellulitis Of Limb,3
+13170,Sick Person,Infectious Disease,Sepsis,11
+13188,Sick Person,Infectious Influenza Flu Like Symptoms,Noninfective Gastroenteritis And Colitis,3
+13190,Sick Person,Infectious Influenza Flu Like Symptoms,Sepsis,4
+13196,Sick Person,Infectious Influenza Flu Like Symptoms,Vomiting,3
+13209,Sick Person,Infectious Pneumonia,Sepsis,3
+13238,Sick Person,Infectious Sepsis,Sepsis,44
+13244,Sick Person,Infectious Sepsis,Urinary Tract Infection,4
+13254,Sick Person,Injuries Of Lower Back ,Sprain Of Foot,3
+13285,Sick Person,Injury Hip,Pain In Hip,4
+13320,Sick Person,Injury Lower Leg,Type 2 Diabetes Mellitus,3
+13360,Sick Person,Injury Not Otherwise Listed,Laceration ,8
+13363,Sick Person,Injury Not Otherwise Listed,Pain In Knee,4
+13370,Sick Person,Injury Not Otherwise Listed,Sprain Of Ligament Of Ankle,3
+13374,Sick Person,Injury Not Otherwise Listed,Strain Of Musclele,3
+13440,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute Kidney Failure,14
+13444,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Adverse Effect Of Drug Meds Biol Subst,3
+13445,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Abuse,8
+13448,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcoholic Hepatic Failure,4
+13449,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,26
+13452,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Anxiety Disorder,9
+13456,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Bipolar Disorder,3
+13464,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Cerebral Infarction,6
+13474,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Dehydration,7
+13476,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Dementia,6
+13479,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Disorientation,6
+13484,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Encephalopathy,11
+13486,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Epilepsy,6
+13494,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Hepatic Failure,5
+13502,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,I I React D T Indwelling Urethral Catheter,3
+13507,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Laceration ,3
+13508,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Major Depressive Disorder,8
+13511,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Metabolic Encephalopathy,9
+13526,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Pneumonia,8
+13527,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Pneumonitis,4
+13530,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Antieplptc And SedHypntc Drugs,3
+13531,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Antiparkns Drug Centr MuscleTone Depr,3
+13533,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Benzodiazepines,3
+13536,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Heroin,3
+13537,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Narcotics,6
+13538,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Opioids,4
+13543,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Psychoactive Substance Abuse,6
+13545,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Psychosis,4
+13549,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Schizoaffective Disorder,5
+13550,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Schizophrenia,3
+13551,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,75
+13556,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Suicidal Ideations,4
+13557,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Syncope And Collapse,3
+13561,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Toxic Encephalopathy,8
+13567,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Type 2 Diabetes Mellitus,7
+13568,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Urinary Tract Infection,19
+13572,Sick Person,Neuro Altered Mental Status Altered Loc Decreased Loc,Weakness,8
+13576,Sick Person,Neuro Headache Migraine Pain,Headache,5
+13577,Sick Person,Neuro Headache Migraine Pain,Migraine,6
+13593,Sick Person,Neuro Headache Pain,Headache,9
+13601,Sick Person,Neuro Headache Pain,Migraine,5
+13625,Sick Person,Neuro Seizure,Convulsions,8
+13643,Sick Person,Neuro Stroke CVa,Cerebral Infarction,17
+13654,Sick Person,Neuro Stroke CVa,NonTraumatic Intcrbl Hemorrhage In Hemisphere,3
+13676,Sick Person,Not Applicable,Alcohol Abuse,3
+13711,Sick Person,Not Applicable,Nausea,3
+13713,Sick Person,Not Applicable,NonTraumatic Intracerebral Hemorrhage,4
+13727,Sick Person,Not Applicable,Sepsis,6
+13728,Sick Person,Not Applicable,Syncope And Collapse,3
+13733,Sick Person,Not Applicable,Urinary Tract Infection,5
+13736,Sick Person,Not Recorded,Abdominal Pain,5
+13741,Sick Person,Not Recorded,Acute Kidney Failure,5
+13744,Sick Person,Not Recorded,Acute Respiratory Failure,3
+13747,Sick Person,Not Recorded,Alcohol Abuse,7
+13748,Sick Person,Not Recorded,Alcohol Dependence,5
+13749,Sick Person,Not Recorded,Altered Mental Status,5
+13764,Sick Person,Not Recorded,Cerebral Infarction,4
+13766,Sick Person,Not Recorded,Chronic Obstructive Pulmonary Disease,3
+13775,Sick Person,Not Recorded,Dehydration,4
+13781,Sick Person,Not Recorded,Dizziness And Giddiness,5
+13807,Sick Person,Not Recorded,I I React D T Indwelling Urethral Catheter,3
+13832,Sick Person,Not Recorded,Pneumonia,7
+13838,Sick Person,Not Recorded,Poisoning By Opioids,3
+13845,Sick Person,Not Recorded,Restlessness And Agitation,3
+13849,Sick Person,Not Recorded,Sepsis,30
+13852,Sick Person,Not Recorded,Stimulant Abuse,5
+13855,Sick Person,Not Recorded,Syncope And Collapse,4
+13861,Sick Person,Not Recorded,Type 2 Diabetes Mellitus,5
+13863,Sick Person,Not Recorded,Urinary Tract Infection,10
+13866,Sick Person,Not Recorded,Weakness,4
+13874,Sick Person,Pain,Abdominal Pain,5
+13879,Sick Person,Pain,Acute Kidney Failure,3
+13881,Sick Person,Pain,Acute Postprocedural Pain,4
+13895,Sick Person,Pain,Cellulitis Of Limb,17
+13898,Sick Person,Pain,Chest Pain,4
+13901,Sick Person,Pain,Chronic Pain,5
+13913,Sick Person,Pain,Cutaneous Abscess Of Limb,9
+13941,Sick Person,Pain,Gout,3
+13957,Sick Person,Pain,Intervertebral Disc Disorder,3
+13959,Sick Person,Pain,Intracapsular Fracture Of Femur,3
+13964,Sick Person,Pain,Low Back Pain,3
+13990,Sick Person,Pain,Pain In Hip,7
+13991,Sick Person,Pain,Pain In Knee,6
+13992,Sick Person,Pain,Pain In Leg,6
+13994,Sick Person,Pain,Pain In Shoulder,5
+13995,Sick Person,Pain,Pain In Thigh,3
+14016,Sick Person,Pain,Retention Of Urine,4
+14020,Sick Person,Pain,Sepsis,29
+14027,Sick Person,Pain,Stimulant Abuse,3
+14036,Sick Person,Pain,Type 2 Diabetes Mellitus,6
+14038,Sick Person,Pain,Unilateralateral Primary Osteoarthritis,3
+14039,Sick Person,Pain,Urinary Tract Infection,9
+14042,Sick Person,Pain,Zoster,3
+14043,Sick Person,Pain Back Nontraumatic,Abdominal Pain,5
+14044,Sick Person,Pain Back Nontraumatic,Acute Kidney Failure,3
+14045,Sick Person,Pain Back Nontraumatic,Acute Postprocedural Pain,4
+14054,Sick Person,Pain Back Nontraumatic,Chronic Pain,3
+14062,Sick Person,Pain Back Nontraumatic,Essential Primary Hypertension,3
+14068,Sick Person,Pain Back Nontraumatic,Hydronephrosis,3
+14073,Sick Person,Pain Back Nontraumatic,Low Back Pain,15
+14074,Sick Person,Pain Back Nontraumatic,Lumbago,3
+14096,Sick Person,Pain Back Nontraumatic,Sepsis,13
+14100,Sick Person,Pain Back Nontraumatic,Strain Of Musclele,4
+14104,Sick Person,Pain Back Nontraumatic,Urinary Tract Infection,5
+14110,Sick Person,Pain Chest Presumed Noncardiac,Chest Pain,6
+14154,Sick Person,Pain Extremety Nontraumatic,Cellulitis Of Limb,4
+14178,Sick Person,Pain Extremety Nontraumatic,Pain In Foot,3
+14179,Sick Person,Pain Extremety Nontraumatic,Pain In Hip,4
+14180,Sick Person,Pain Extremety Nontraumatic,Pain In Knee,6
+14181,Sick Person,Pain Extremety Nontraumatic,Pain In Leg,5
+14186,Sick Person,Pain Extremety Nontraumatic,Sepsis,6
+14191,Sick Person,Pain Extremety Nontraumatic,Type 2 Diabetes Mellitus,3
+14250,Sick Person,Pain Not Elsewhere Mentioned Sudden Onset,Pain In Leg,3
+14263,Sick Person,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Alcohol Abuse,3
+14271,Sick Person,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Opioid Abuse,3
+14276,Sick Person,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Psychoactive Substance Abuse,3
+14279,Sick Person,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Sepsis,5
+14280,Sick Person,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Stimulant Abuse,7
+14298,Sick Person,Respiratory Acute Onset Distress,Acute Bronchiolitis,4
+14306,Sick Person,Respiratory Acute Onset Distress,Bronchitis,3
+14309,Sick Person,Respiratory Acute Onset Distress,Chronic Obstructive Pulmonary Disease,4
+14326,Sick Person,Respiratory Acute Onset Distress,Pneumonia,6
+14329,Sick Person,Respiratory Acute Onset Distress,Sepsis,21
+14342,Sick Person,Respiratory Copd Chronic Obstructive Pulmonary Disease,Sepsis,3
+14367,Sick Person,Respiratory Not Otherwise Listed,Sepsis,11
+14386,Sick Person,Sepsis Other,Sepsis,4
+14413,Sick Person,Stupor,Alcohol Abuse,3
+14441,Sick Person,Stupor,Pain In Leg,3
+14446,Sick Person,Stupor,Sepsis,9
+14452,Sick Person,Stupor,Urinary Tract Infection,4
+14473,Sick Person,Syncope Syncopal Episode Or Near,Dehydration,5
+14475,Sick Person,Syncope Syncopal Episode Or Near,Dizziness And Giddiness,5
+14495,Sick Person,Syncope Syncopal Episode Or Near,Syncope And Collapse,22
+14508,Sick Person,Vertigo Dizziness,Dizziness And Giddiness,11
+14511,Sick Person,Vertigo Dizziness,Nausea,3
+14525,Sick Person,Vomiting,Hydronephrosis,3
+14530,Sick Person,Vomiting,Nausea,8
+14539,Sick Person,Vomiting,Sepsis,7
+14547,Sick Person,Vomiting,Vomiting,3
+14556,Sick Person,Weakness,Acute Kidney Failure,26
+14558,Sick Person,Weakness,Acute On Chronic Diastolic Congestive Heart Failure,3
+14565,Sick Person,Weakness,Acute Respiratory Failure,5
+14566,Sick Person,Weakness,Acute Respiratory Infection,3
+14568,Sick Person,Weakness,Adult Failure To Thrive,3
+14570,Sick Person,Weakness,Alcohol Abuse,4
+14571,Sick Person,Weakness,Alcohol Dependence,8
+14573,Sick Person,Weakness,Alcoholic Hepatic Failure,4
+14577,Sick Person,Weakness,Altered Mental Status,7
+14580,Sick Person,Weakness,Anxiety Disorder,8
+14581,Sick Person,Weakness,Atrial Fibrillation,3
+14583,Sick Person,Weakness,Benign Paroxysmal Vertigo,7
+14599,Sick Person,Weakness,Cellulitis Of Limb,9
+14601,Sick Person,Weakness,Cerebral Infarction,9
+14604,Sick Person,Weakness,Chest Pain,4
+14607,Sick Person,Weakness,Chronic Obstructive Pulmonary Disease,4
+14625,Sick Person,Weakness,Cyclical Vomiting,4
+14626,Sick Person,Weakness,Cystitis,3
+14627,Sick Person,Weakness,Dehydration,10
+14635,Sick Person,Weakness,Dizziness And Giddiness,24
+14636,Sick Person,Weakness,Dorsalgia,3
+14647,Sick Person,Weakness,Enterocolitis,3
+14651,Sick Person,Weakness,Essential Primary Hypertension,6
+14654,Sick Person,Weakness,Flu,3
+14658,Sick Person,Weakness,Gastritis,3
+14659,Sick Person,Weakness,Gastrointestinal Hemorrhage,4
+14663,Sick Person,Weakness,Generalized Anxiety Disorder,3
+14666,Sick Person,Weakness,GramNegative Sepsis,5
+14668,Sick Person,Weakness,Headache,6
+14673,Sick Person,Weakness,Hyp Hrt & Chr Kdny Dis,3
+14675,Sick Person,Weakness,Hyperkalemia,3
+14678,Sick Person,Weakness,Hypertensive Heart Disease,3
+14680,Sick Person,Weakness,HypoOsmolality And Hyponatremia,5
+14682,Sick Person,Weakness,Hypokalemia,5
+14683,Sick Person,Weakness,Hypotension,8
+14686,Sick Person,Weakness,I I React D T Indwelling Urethral Catheter,4
+14687,Sick Person,Weakness,I I React D T Urinary Catheter,3
+14695,Sick Person,Weakness,Intervertebral Disc Disorder,3
+14707,Sick Person,Weakness,Low Back Pain,5
+14710,Sick Person,Weakness,Major Depressive Disorder,4
+14717,Sick Person,Weakness,Melena,3
+14719,Sick Person,Weakness,Metabolic Encephalopathy,7
+14723,Sick Person,Weakness,Nausea,9
+14725,Sick Person,Weakness,NonSt Elevation Nstemi Myocardial Infarction,4
+14728,Sick Person,Weakness,Noninfective Gastroenteritis And Colitis,8
+14730,Sick Person,Weakness,Opioid Dependence,3
+14732,Sick Person,Weakness,Orthostatic Hypotension,3
+14747,Sick Person,Weakness,Pneumonia,15
+14748,Sick Person,Weakness,Pneumonitis,7
+14771,Sick Person,Weakness,Retention Of Urine,4
+14777,Sick Person,Weakness,Sepsis,114
+14779,Sick Person,Weakness,Spinal Stenosis,3
+14783,Sick Person,Weakness,Stimulant Abuse,6
+14785,Sick Person,Weakness,Streptococcal Sepsis,5
+14788,Sick Person,Weakness,Syncope And Collapse,19
+14794,Sick Person,Weakness,Transient Cerebral Ischemic Attack,3
+14797,Sick Person,Weakness,TubuloInterstitial Nephritis,4
+14799,Sick Person,Weakness,Type 2 Diabetes Mellitus,13
+14803,Sick Person,Weakness,Urinary Tract Infection,32
+14808,Sick Person,Weakness,Viral Intestinal Infection,3
+14810,Sick Person,Weakness,Vomiting,7
+14811,Sick Person,Weakness,Weakness,33
+14837,Stab Gunshot Wound Penetrating Trauma,Hemorrhage Not Elsewhere Classified,Pnctr Of Abd Wall,4
+14840,Stab Gunshot Wound Penetrating Trauma,Injury Abdomen,Lac,5
+14846,Stab Gunshot Wound Penetrating Trauma,Injury Abdomen,Pnctr Of Abd Wall,5
+14857,Stab Gunshot Wound Penetrating Trauma,Injury Head,Laceration ,3
+14867,Stab Gunshot Wound Penetrating Trauma,Injury Lower Back,Lac,4
+14877,Stab Gunshot Wound Penetrating Trauma,Injury Not Otherwise Listed,Lac,6
+14878,Stab Gunshot Wound Penetrating Trauma,Injury Not Otherwise Listed,Laceration ,8
+14888,Stab Gunshot Wound Penetrating Trauma,Injury Not Otherwise Listed,Puncture Wound,3
+14902,Stab Gunshot Wound Penetrating Trauma,Injury Thigh Upper Leg,Laceration ,3
+14907,Stab Gunshot Wound Penetrating Trauma,Injury Wrist Hand Or Fingers,Laceration ,3
+14925,Stab Gunshot Wound Penetrating Trauma,Shoulder Lesions Shoulder,Pnctr Of Abd Wall,4
+15006,Stroke CVA,Endocrine Hypoglycemia Diabetic Diabetes,Type 2 Diabetes Mellitus,5
+15033,Stroke CVA,General Malaise,Cerebral Infarction,3
+15056,Stroke CVA,Intracranial Stroke CVa Hemorrhagic,Cerebral Infarction,7
+15065,Stroke CVA,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,6
+15068,Stroke CVA,Neuro Altered Mental Status Altered Loc Decreased Loc,Cerebral Infarction,13
+15076,Stroke CVA,Neuro Altered Mental Status Altered Loc Decreased Loc,Encephalopathy,5
+15077,Stroke CVA,Neuro Altered Mental Status Altered Loc Decreased Loc,Epilepsy,3
+15099,Stroke CVA,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,12
+15104,Stroke CVA,Neuro Altered Mental Status Altered Loc Decreased Loc,Toxic Encephalopathy,3
+15105,Stroke CVA,Neuro Altered Mental Status Altered Loc Decreased Loc,Transient Alteration Of Awareness,3
+15108,Stroke CVA,Neuro Altered Mental Status Altered Loc Decreased Loc,Urinary Tract Infection,5
+15116,Stroke CVA,Neuro Headache Migraine Pain,Migraine,7
+15127,Stroke CVA,Neuro Headache Pain,Headache,5
+15129,Stroke CVA,Neuro Headache Pain,Migraine,3
+15151,Stroke CVA,Neuro Seizure,Epilepsy,6
+15166,Stroke CVA,Neuro Stroke CVa,Alcohol Dependence,3
+15167,Stroke CVA,Neuro Stroke CVa,Altered Mental Status,4
+15175,Stroke CVA,Neuro Stroke CVa,Cerebral Infarction,122
+15176,Stroke CVA,Neuro Stroke CVa,Cerebral Infarction D T Occls Or Stenos Of Mid Cerebral Art,14
+15177,Stroke CVA,Neuro Stroke CVa,Cerebral Infarction D T Occls Or Stenos Of Post Cerebral Art,5
+15182,Stroke CVA,Neuro Stroke CVa,Convulsions,3
+15183,Stroke CVA,Neuro Stroke CVa,Dehydration,3
+15194,Stroke CVA,Neuro Stroke CVa,Epilepsy,6
+15198,Stroke CVA,Neuro Stroke CVa,Headache,3
+15203,Stroke CVA,Neuro Stroke CVa,Hypertensive Encephalopathy,5
+15211,Stroke CVA,Neuro Stroke CVa,Migraine,5
+15213,Stroke CVA,Neuro Stroke CVa,NonTraumatic Intcrbl Hemorrhage In Hemisphere,7
+15214,Stroke CVA,Neuro Stroke CVa,NonTraumatic Intracerebral Hemorrhage,9
+15223,Stroke CVA,Neuro Stroke CVa,Sepsis,7
+15230,Stroke CVA,Neuro Stroke CVa,Transient Cerebral Ischemic Attack,20
+15233,Stroke CVA,Neuro Stroke CVa,Urinary Tract Infection,5
+15235,Stroke CVA,Neuro Stroke CVa,Weakness,16
+15240,Stroke CVA,Neuro Tia Transient Ischemic Attack,Cerebral Infarction,6
+15243,Stroke CVA,Neuro Tia Transient Ischemic Attack,Epilepsy,3
+15249,Stroke CVA,Neuro Tia Transient Ischemic Attack,Syncope And Collapse,3
+15250,Stroke CVA,Neuro Tia Transient Ischemic Attack,Transient Cerebral Ischemic Attack,7
+15262,Stroke CVA,Not Applicable,Sepsis,3
+15267,Stroke CVA,Not Recorded,Altered Mental Status,5
+15271,Stroke CVA,Not Recorded,Cerebral Infarction,23
+15275,Stroke CVA,Not Recorded,Convulsions,3
+15295,Stroke CVA,Not Recorded,Sepsis,6
+15298,Stroke CVA,Not Recorded,Syncope And Collapse,3
+15299,Stroke CVA,Not Recorded,Transient Cerebral Ischemic Attack,3
+15303,Stroke CVA,Not Recorded,Weakness,3
+15368,Stroke CVA,Weakness,Altered Mental Status,3
+15370,Stroke CVA,Weakness,Anesthesia Of Skin,3
+15374,Stroke CVA,Weakness,Cerebral Infarction,21
+15386,Stroke CVA,Weakness,Dizziness And Giddiness,3
+15390,Stroke CVA,Weakness,Fatigue,3
+15392,Stroke CVA,Weakness,Headache,3
+15402,Stroke CVA,Weakness,Migraine,3
+15416,Stroke CVA,Weakness,Sepsis,9
+15418,Stroke CVA,Weakness,Syncope And Collapse,4
+15419,Stroke CVA,Weakness,Transient Cerebral Ischemic Attack,9
+15422,Stroke CVA,Weakness,Urinary Tract Infection,3
+15424,Stroke CVA,Weakness,Weakness,14
+15435,Traffic Transportation Incident,Abdominal Pain,Strain Of Musclele,4
+15449,Traffic Transportation Incident,Abuse Of Alcohol,Alcohol Abuse,3
+15452,Traffic Transportation Incident,Abuse Of Alcohol,Contusion Of Head,3
+15462,Traffic Transportation Incident,Abuse Of Alcohol Intoxication,Alcohol Abuse,3
+15506,Traffic Transportation Incident,Behavioral Anxiety,Strain Of Musclele,3
+15530,Traffic Transportation Incident,CV Chest Pain Presumed Cardiac,Contusion Of Front Wall Of Thorax,4
+15551,Traffic Transportation Incident,Concussion,Concussion,3
+15674,Traffic Transportation Incident,Injury Ankle,Sprain Of Ligament Of Ankle,5
+15679,Traffic Transportation Incident,Injury Chest Upper Chest,Contusion Of Front Wall Of Thorax,11
+15694,Traffic Transportation Incident,Injury Chest Upper Chest,Multiple Fractures Of Ribs,4
+15696,Traffic Transportation Incident,Injury Chest Upper Chest,Poisoning Conseq Of External Causes Comp Preg,4
+15700,Traffic Transportation Incident,Injury Chest Upper Chest,Strain Of Musclele,8
+15718,Traffic Transportation Incident,Injury Eye And Or Orbit,Laceration ,3
+15721,Traffic Transportation Incident,Injury Face,Concussion,3
+15722,Traffic Transportation Incident,Injury Face,Contusion Of Head,4
+15731,Traffic Transportation Incident,Injury Face,Laceration ,11
+15763,Traffic Transportation Incident,Injury Forearm,Fracture Of The Of Radius,3
+15765,Traffic Transportation Incident,Injury Forearm,Laceration ,3
+15779,Traffic Transportation Incident,Injury Head,Concussion,13
+15783,Traffic Transportation Incident,Injury Head,Contusion Of Head,3
+15785,Traffic Transportation Incident,Injury Head,Contusion Of Scalp,3
+15787,Traffic Transportation Incident,Injury Head,Diffuse Tbi,3
+15804,Traffic Transportation Incident,Injury Head,Headache,4
+15805,Traffic Transportation Incident,Injury Head,Injury Of Head,16
+15806,Traffic Transportation Incident,Injury Head,Intracranial Injury,6
+15808,Traffic Transportation Incident,Injury Head,Laceration ,32
+15818,Traffic Transportation Incident,Injury Head,Strain Of Musclele,5
+15820,Traffic Transportation Incident,Injury Head,Traumatic Subdr Hem,7
+15821,Traffic Transportation Incident,Injury Head,Traumatic Subrac Hem,10
+15824,Traffic Transportation Incident,Injury Head With Loc,Concussion,4
+15844,Traffic Transportation Incident,Injury Head Without Loc,Injury Of Head,4
+15846,Traffic Transportation Incident,Injury Head Without Loc,Laceration ,11
+15850,Traffic Transportation Incident,Injury Head Without Loc,Strain Of Musclele,5
+15853,Traffic Transportation Incident,Injury Hip,Contusion Of Hip,3
+15855,Traffic Transportation Incident,Injury Hip,Dislocation Of Internal Hip Prosthesis,5
+15868,Traffic Transportation Incident,Injury Hip,Strain Of Musclele,4
+15892,Traffic Transportation Incident,Injury Lower Back,Fracture Of Lumbar Vertebra,3
+15908,Traffic Transportation Incident,Injury Lower Back,Minor Contusion Of Kidney,4
+15911,Traffic Transportation Incident,Injury Lower Back,Multiple Fractures Of Ribs,3
+15924,Traffic Transportation Incident,Injury Lower Back,Stable Burst Fracture Of T11T12 Vertebra,3
+15925,Traffic Transportation Incident,Injury Lower Back,Strain Of Musclele,25
+15929,Traffic Transportation Incident,Injury Lower Leg,Abrasion,5
+15938,Traffic Transportation Incident,Injury Lower Leg,Contusion Of Knee,7
+15939,Traffic Transportation Incident,Injury Lower Leg,Contusion Of Leg,4
+15944,Traffic Transportation Incident,Injury Lower Leg,Displaced Bicondylar Fracture Of Tibia,6
+15945,Traffic Transportation Incident,Injury Lower Leg,Displaced Bicondylar Fracturetibia,4
+15948,Traffic Transportation Incident,Injury Lower Leg,Displaced Spiral Fracture Of Shaft Of Tibia,3
+15956,Traffic Transportation Incident,Injury Lower Leg,Fracture Of Tibia,3
+15959,Traffic Transportation Incident,Injury Lower Leg,Injury Of Head,3
+15961,Traffic Transportation Incident,Injury Lower Leg,Laceration ,6
+15968,Traffic Transportation Incident,Injury Lower Leg,Sprain Of Ligament Of Ankle,3
+15971,Traffic Transportation Incident,Injury Lower Leg,Strain Of Musclele,6
+15978,Traffic Transportation Incident,Injury Neck,Cervicalgia,9
+15980,Traffic Transportation Incident,Injury Neck,Concussion,8
+15987,Traffic Transportation Incident,Injury Neck,Fracture Of Seventh Cervical Vertebra,5
+15990,Traffic Transportation Incident,Injury Neck,Injury Of Head,6
+15995,Traffic Transportation Incident,Injury Neck,Laceration ,5
+16005,Traffic Transportation Incident,Injury Neck,Sprain Of Ligaments Of Cervical Spine,15
+16007,Traffic Transportation Incident,Injury Neck,Strain Of Musclele,74
+16009,Traffic Transportation Incident,Injury Neck,Syncope And Collapse,3
+16014,Traffic Transportation Incident,Injury Not Otherwise Listed,Abrasion,12
+16020,Traffic Transportation Incident,Injury Not Otherwise Listed,Abrasion Of Head,6
+16031,Traffic Transportation Incident,Injury Not Otherwise Listed,Cervicalgia,9
+16032,Traffic Transportation Incident,Injury Not Otherwise Listed,Chest Pain,4
+16036,Traffic Transportation Incident,Injury Not Otherwise Listed,Concussion,19
+16038,Traffic Transportation Incident,Injury Not Otherwise Listed,Contusion Of Abdominal Wall,3
+16043,Traffic Transportation Incident,Injury Not Otherwise Listed,Contusion Of Forearm,3
+16044,Traffic Transportation Incident,Injury Not Otherwise Listed,Contusion Of Front Wall Of Thorax,18
+16045,Traffic Transportation Incident,Injury Not Otherwise Listed,Contusion Of Hand,3
+16046,Traffic Transportation Incident,Injury Not Otherwise Listed,Contusion Of Head,5
+16047,Traffic Transportation Incident,Injury Not Otherwise Listed,Contusion Of Hip,10
+16048,Traffic Transportation Incident,Injury Not Otherwise Listed,Contusion Of Knee,10
+16049,Traffic Transportation Incident,Injury Not Otherwise Listed,Contusion Of Leg,6
+16054,Traffic Transportation Incident,Injury Not Otherwise Listed,Contusion Of Shoulder,5
+16064,Traffic Transportation Incident,Injury Not Otherwise Listed,Displaced Bicondylar Fracture Of Tibia,5
+16067,Traffic Transportation Incident,Injury Not Otherwise Listed,Displaced Bimalleolar Fracture Of Leg,3
+16081,Traffic Transportation Incident,Injury Not Otherwise Listed,Dorsalgia,3
+16082,Traffic Transportation Incident,Injury Not Otherwise Listed,Encounter For Exam And Obs Transport Accident,6
+16085,Traffic Transportation Incident,Injury Not Otherwise Listed,Flail Chest,6
+16089,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of Clavicle,3
+16098,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of Humerus,4
+16100,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of Lumbar Vertebra,9
+16102,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of Medial Malleolus Of Tibia,3
+16107,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of Olecran Pro,3
+16108,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of One Rib,3
+16113,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of Shaft Of Clavicle,4
+16115,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of Shaft Of Fibula,3
+16122,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of Sternum,4
+16126,Traffic Transportation Incident,Injury Not Otherwise Listed,Fracture Of The Of Radius,5
+16131,Traffic Transportation Incident,Injury Not Otherwise Listed,Fractures Of Radius,3
+16133,Traffic Transportation Incident,Injury Not Otherwise Listed,Headache,4
+16141,Traffic Transportation Incident,Injury Not Otherwise Listed,Injury Of Head,20
+16142,Traffic Transportation Incident,Injury Not Otherwise Listed,Injury Of Thorax,10
+16143,Traffic Transportation Incident,Injury Not Otherwise Listed,Injury Of Wrist,3
+16146,Traffic Transportation Incident,Injury Not Otherwise Listed,Intracranial Injury,5
+16148,Traffic Transportation Incident,Injury Not Otherwise Listed,Laceration ,52
+16155,Traffic Transportation Incident,Injury Not Otherwise Listed,Multiple Fractures Of Ribs,4
+16173,Traffic Transportation Incident,Injury Not Otherwise Listed,Pain In Shoulder,3
+16187,Traffic Transportation Incident,Injury Not Otherwise Listed,Sprain Of Ligament Of Ankle,3
+16188,Traffic Transportation Incident,Injury Not Otherwise Listed,Sprain Of Ligaments Of Cervical Spine,8
+16190,Traffic Transportation Incident,Injury Not Otherwise Listed,Sprain Of Site Of Knee,3
+16197,Traffic Transportation Incident,Injury Not Otherwise Listed,Strain Of Musclele,67
+16198,Traffic Transportation Incident,Injury Not Otherwise Listed,Strain Of Musclele And Tendon Of Back Wall Of Thorax,4
+16200,Traffic Transportation Incident,Injury Not Otherwise Listed,Traumatic Subdr Hem,7
+16201,Traffic Transportation Incident,Injury Not Otherwise Listed,Traumatic Subrac Hem,5
+16224,Traffic Transportation Incident,Injury Pelvis,Fracture Of Acetabulum,4
+16235,Traffic Transportation Incident,Injury Shoulder Or Upper Arm,Concussion,5
+16242,Traffic Transportation Incident,Injury Shoulder Or Upper Arm,Contusion Of Shoulder,4
+16248,Traffic Transportation Incident,Injury Shoulder Or Upper Arm,Fracture Of Clavicle,3
+16249,Traffic Transportation Incident,Injury Shoulder Or Upper Arm,Fracture Of Humerus,4
+16260,Traffic Transportation Incident,Injury Shoulder Or Upper Arm,Laceration ,4
+16262,Traffic Transportation Incident,Injury Shoulder Or Upper Arm,Multiple Fractures Of Ribs,3
+16270,Traffic Transportation Incident,Injury Shoulder Or Upper Arm,Strain Muscle Fasc Tend At Shldr Up Arm,3
+16271,Traffic Transportation Incident,Injury Shoulder Or Upper Arm,Strain Of Musclele,12
+16306,Traffic Transportation Incident,Injury Wrist Hand Or Fingers,Fracture Of The Of Radius,5
+16307,Traffic Transportation Incident,Injury Wrist Hand Or Fingers,Intartic Fracture Of Radius,4
+16308,Traffic Transportation Incident,Injury Wrist Hand Or Fingers,Laceration ,6
+16325,Traffic Transportation Incident,Intracranial Stroke CVa Hemorrhagic,Laceration ,4
+16333,Traffic Transportation Incident,Low Back Pain,Strain Of Musclele,3
+16344,Traffic Transportation Incident,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,3
+16349,Traffic Transportation Incident,Neuro Altered Mental Status Altered Loc Decreased Loc,Concussion,12
+16355,Traffic Transportation Incident,Neuro Altered Mental Status Altered Loc Decreased Loc,Convulsions,3
+16364,Traffic Transportation Incident,Neuro Altered Mental Status Altered Loc Decreased Loc,Epilepsy,3
+16372,Traffic Transportation Incident,Neuro Altered Mental Status Altered Loc Decreased Loc,Injury Of Head,5
+16373,Traffic Transportation Incident,Neuro Altered Mental Status Altered Loc Decreased Loc,Intracranial Injury,3
+16385,Traffic Transportation Incident,Neuro Altered Mental Status Altered Loc Decreased Loc,Strain Of Musclele,6
+16387,Traffic Transportation Incident,Neuro Altered Mental Status Altered Loc Decreased Loc,Traumatic Subrac Hem,3
+16399,Traffic Transportation Incident,Neuro Headache Pain,Headache,4
+16401,Traffic Transportation Incident,Neuro Headache Pain,Injury Of Head,4
+16407,Traffic Transportation Incident,Neuro Headache Pain,Sprain Of Ligaments Of Cervical Spine,3
+16408,Traffic Transportation Incident,Neuro Headache Pain,Strain Of Musclele,8
+16409,Traffic Transportation Incident,Neuro Headache Pain,Traumatic Subdr Hem,4
+16419,Traffic Transportation Incident,Neuro Seizure,Epilepsy,5
+16430,Traffic Transportation Incident,Not Applicable,Concussion,5
+16454,Traffic Transportation Incident,Not Applicable,Laceration ,5
+16460,Traffic Transportation Incident,Not Applicable,Strain Of Musclele,13
+16485,Traffic Transportation Incident,Not Recorded,Displaced Bicondylar Fracture Of Tibia,6
+16498,Traffic Transportation Incident,Not Recorded,Fracture Of Lumbar Vertebra,3
+16515,Traffic Transportation Incident,Not Recorded,Laceration ,11
+16518,Traffic Transportation Incident,Not Recorded,Multiple Fractures Of Ribs,3
+16526,Traffic Transportation Incident,Not Recorded,Sprain Of Ligament Of Ankle,3
+16530,Traffic Transportation Incident,Not Recorded,Strain Of Musclele,18
+16532,Traffic Transportation Incident,Not Recorded,Traumatic Subdr Hem,4
+16533,Traffic Transportation Incident,Not Recorded,Traumatic Subrac Hem,4
+16551,Traffic Transportation Incident,Pain,Concussion,6
+16555,Traffic Transportation Incident,Pain,Contusion Of Front Wall Of Thorax,8
+16569,Traffic Transportation Incident,Pain,Fracture Of Acetabulum,3
+16583,Traffic Transportation Incident,Pain,Injury Of Head,4
+16586,Traffic Transportation Incident,Pain,Laceration ,5
+16601,Traffic Transportation Incident,Pain,Sprain Of Ligaments Of Cervical Spine,5
+16604,Traffic Transportation Incident,Pain,Strain Of Musclele,40
+16608,Traffic Transportation Incident,Pain,Traumatic Subdr Hem,4
+16613,Traffic Transportation Incident,Pain Back Nontraumatic,Cervicalgia,6
+16622,Traffic Transportation Incident,Pain Back Nontraumatic,Contusion Of Front Wall Of Thorax,4
+16623,Traffic Transportation Incident,Pain Back Nontraumatic,Contusion Of Head,4
+16626,Traffic Transportation Incident,Pain Back Nontraumatic,Dorsalgia,3
+16631,Traffic Transportation Incident,Pain Back Nontraumatic,Fracture Of Lumbar Vertebra,3
+16644,Traffic Transportation Incident,Pain Back Nontraumatic,Injury Of Head,7
+16645,Traffic Transportation Incident,Pain Back Nontraumatic,Intracranial Injury,5
+16646,Traffic Transportation Incident,Pain Back Nontraumatic,Laceration ,4
+16648,Traffic Transportation Incident,Pain Back Nontraumatic,Multiple Fractures Of Ribs,3
+16656,Traffic Transportation Incident,Pain Back Nontraumatic,Sprain Of Ligaments Of Cervical Spine,8
+16659,Traffic Transportation Incident,Pain Back Nontraumatic,Strain Of Musclele,46
+16660,Traffic Transportation Incident,Pain Back Nontraumatic,Strain Of Musclele And Tendon Of Back Wall Of Thorax,3
+16663,Traffic Transportation Incident,Pain Chest Presumed Noncardiac,Chest Pain,9
+16664,Traffic Transportation Incident,Pain Chest Presumed Noncardiac,Concussion,3
+16666,Traffic Transportation Incident,Pain Chest Presumed Noncardiac,Contusion Of Front Wall Of Thorax,20
+16667,Traffic Transportation Incident,Pain Chest Presumed Noncardiac,Fracture Of Body Of Sternum,4
+16680,Traffic Transportation Incident,Pain Chest Presumed Noncardiac,Strain Of Musclele,8
+16716,Traffic Transportation Incident,Pain Neck Nontraumatic,Strain Of Musclele,5
+16719,Traffic Transportation Incident,Pain Not Elsewhere Classified,Concussion,3
+16726,Traffic Transportation Incident,Pain Not Elsewhere Classified,Laceration ,3
+16736,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Cervicalgia,4
+16738,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Concussion,9
+16743,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Contusion Of Front Wall Of Thorax,4
+16751,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Displaced Bicondylar Fracture Of Tibia,3
+16765,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Fracture Of Humerus,6
+16778,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Injury Of Head,9
+16780,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Injury Of Thorax,3
+16781,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Laceration ,12
+16787,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Pain In Shoulder,3
+16790,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Sprain Of Joints And Ligaments Of Parts Of Neck,4
+16792,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Sprain Of Ligaments Of Cervical Spine,5
+16795,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Sprain Of Wrist,3
+16796,Traffic Transportation Incident,Pain Not Elsewhere Mentioned Sudden Onset,Strain Of Musclele,26
+16834,Traffic Transportation Incident,Weakness,Encounter For Exam And Obs Transport Accident,3
+16846,Traffic Transportation Incident,Weakness,Strain Of Musclele,4
+16859,Transfer Interfacility Palliative Care,Abdominal Pain,Sepsis,3
+16861,Transfer Interfacility Palliative Care,Abdominal Pain,Urinary Tract Infection,3
+16873,Transfer Interfacility Palliative Care,Abuse Of Alcohol,Alcohol Dependence,3
+16880,Transfer Interfacility Palliative Care,Abuse Of Alcohol Withdrawal,Alcohol Dependence,5
+16888,Transfer Interfacility Palliative Care,Abuse Of Narcotic Ie Heroin,Sepsis,3
+16905,Transfer Interfacility Palliative Care,Behavioral Depression,Major Depressive Disorder,7
+16912,Transfer Interfacility Palliative Care,Behavioral Depression,Suicidal Ideations,7
+16920,Transfer Interfacility Palliative Care,Behavioral Mental Disorder Not Otherwise Listed,Bipolar Disorder,5
+16922,Transfer Interfacility Palliative Care,Behavioral Mental Disorder Not Otherwise Listed,Brief Psychotic Disorder,3
+16930,Transfer Interfacility Palliative Care,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,25
+16942,Transfer Interfacility Palliative Care,Behavioral Mental Disorder Not Otherwise Listed,Psychosis,6
+16946,Transfer Interfacility Palliative Care,Behavioral Mental Disorder Not Otherwise Listed,Suicidal Ideations,11
+16956,Transfer Interfacility Palliative Care,Behavioral Strange Behavior,Psychosis,4
+16960,Transfer Interfacility Palliative Care,Behavioral Suicidal Homicidal Ideation,Bipolar Disorder,4
+16964,Transfer Interfacility Palliative Care,Behavioral Suicidal Homicidal Ideation,Major Depressive Disorder,12
+16970,Transfer Interfacility Palliative Care,Behavioral Suicidal Homicidal Ideation,Suicidal Ideations,9
+16976,Transfer Interfacility Palliative Care,Behavioral Suicide Attempt,Laceration ,3
+16977,Transfer Interfacility Palliative Care,Behavioral Suicide Attempt,Major Depressive Disorder,8
+16984,Transfer Interfacility Palliative Care,Behavioral Suicide Attempt,Poisoning By Antieplptc And SedHypntc Drugs,3
+16987,Transfer Interfacility Palliative Care,Behavioral Suicide Attempt,Poisoning By Propionic Acid Derivatives,3
+16990,Transfer Interfacility Palliative Care,Behavioral Suicide Attempt,Suicidal Ideations,7
+17000,Transfer Interfacility Palliative Care,CV Cardiac Arrhythmia Dysrhythmia,Atrial Flutter,4
+17006,Transfer Interfacility Palliative Care,CV Cardiac Arrhythmia Dysrhythmia,NonSt Elevation Nstemi Myocardial Infarction,6
+17017,Transfer Interfacility Palliative Care,CV Chest Pain Myocardial Infarction Nonstemi,Chest Pain,3
+17021,Transfer Interfacility Palliative Care,CV Chest Pain Myocardial Infarction Nonstemi,NonSt Elevation Nstemi Myocardial Infarction,10
+17025,Transfer Interfacility Palliative Care,CV Chest Pain Presumed Cardiac,Athscl Heart Disease Of Native Cor Art,3
+17027,Transfer Interfacility Palliative Care,CV Chest Pain Presumed Cardiac,Chest Pain,9
+17028,Transfer Interfacility Palliative Care,CV Chest Pain Presumed Cardiac,NonSt Elevation Nstemi Myocardial Infarction,5
+17047,Transfer Interfacility Palliative Care,CV Congestive Heart Failure Chf,Hypertensive Heart Disease,4
+17066,Transfer Interfacility Palliative Care,CV Pulmonary Embolism,Pulmonary Embolism,4
+17073,Transfer Interfacility Palliative Care,Chest Pain,Chest Pain,3
+17074,Transfer Interfacility Palliative Care,Chest Pain,NonSt Elevation Nstemi Myocardial Infarction,4
+17104,Transfer Interfacility Palliative Care,Endocrine Hyperglycemia Diabetic Diabetes,Diabetes Mellitus,5
+17108,Transfer Interfacility Palliative Care,Endocrine Hyperglycemia Diabetic Diabetes,Type 1 Diabetes Mellitus,9
+17135,Transfer Interfacility Palliative Care,Fever,Sepsis,6
+17138,Transfer Interfacility Palliative Care,GI GU Abdominal Pain Acute Onset,Acute Appendicitis,6
+17154,Transfer Interfacility Palliative Care,GI GU Abdominal Pain Acute Onset,Intestinal Obstruction,3
+17165,Transfer Interfacility Palliative Care,GI GU Appendicitis Acute Onset,Acute Appendicitis,12
+17170,Transfer Interfacility Palliative Care,GI GU Bowel Obstruction,Intestinal Obstruction,3
+17176,Transfer Interfacility Palliative Care,GI GU Esophageal Obstruction,Foreign Object In Esophagus Causing Injury,3
+17181,Transfer Interfacility Palliative Care,GI GU Generalized Abdominal Pain,Acute Pancreatitis,3
+17200,Transfer Interfacility Palliative Care,GI GU Generalized Abdominal Pain,Intestinal Obstruction,3
+17246,Transfer Interfacility Palliative Care,Gi Bleed Bloody Stool,Gastrointestinal Hemorrhage,3
+17250,Transfer Interfacility Palliative Care,Gi Bleed Hematemesis Vomiting Blood Blood In Vomit,Gastrointestinal Hemorrhage,3
+17257,Transfer Interfacility Palliative Care,Infectious Croup,Acute Obstructive Laryngitis [Croup],6
+17276,Transfer Interfacility Palliative Care,Infectious Pneumonia,Bacterial Pneumonia,4
+17284,Transfer Interfacility Palliative Care,Infectious Pneumonia,Pneumonia,11
+17285,Transfer Interfacility Palliative Care,Infectious Pneumonia,Pneumonitis,3
+17286,Transfer Interfacility Palliative Care,Infectious Pneumonia,Sepsis,4
+17299,Transfer Interfacility Palliative Care,Infectious Sepsis,Sepsis,9
+17327,Transfer Interfacility Palliative Care,Injury Head,Fracture Of Occiput,5
+17330,Transfer Interfacility Palliative Care,Injury Head,Fracture Of Vault Of Skull,6
+17333,Transfer Interfacility Palliative Care,Injury Head,Injury Of Head,4
+17335,Transfer Interfacility Palliative Care,Injury Head,Laceration ,3
+17340,Transfer Interfacility Palliative Care,Injury Head,Traumatic Subdr Hem,9
+17341,Transfer Interfacility Palliative Care,Injury Head,Traumatic Subrac Hem,7
+17367,Transfer Interfacility Palliative Care,Injury Lower Leg,Displaced Spiral Fracture Of Shaft Of Femur,4
+17381,Transfer Interfacility Palliative Care,Injury Lung Pneumothorax Traumatic,Traumatic Pneumothorax,4
+17406,Transfer Interfacility Palliative Care,Injury Not Otherwise Listed,Laceration ,6
+17419,Transfer Interfacility Palliative Care,Injury Shoulder Or Upper Arm,Displaced Simple Suprcndl Fracture,3
+17424,Transfer Interfacility Palliative Care,Injury Subdural Hemorrhage From Trauma,Traumatic Subdr Hem,3
+17456,Transfer Interfacility Palliative Care,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute Kidney Failure,3
+17460,Transfer Interfacility Palliative Care,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,5
+17475,Transfer Interfacility Palliative Care,Neuro Altered Mental Status Altered Loc Decreased Loc,Encephalopathy,3
+17494,Transfer Interfacility Palliative Care,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,8
+17519,Transfer Interfacility Palliative Care,Neuro Seizure,Epilepsy,3
+17525,Transfer Interfacility Palliative Care,Neuro Stroke CVa,Cerebral Infarction,10
+17529,Transfer Interfacility Palliative Care,Neuro Stroke CVa,Transient Cerebral Ischemic Attack,3
+17553,Transfer Interfacility Palliative Care,Not Applicable,Convulsions,3
+17596,Transfer Interfacility Palliative Care,Not Applicable,Traumatic Subdr Hem,5
+17597,Transfer Interfacility Palliative Care,Not Applicable,Traumatic Subrac Hem,3
+17660,Transfer Interfacility Palliative Care,Pain Chest Presumed Noncardiac,Chest Pain,4
+17665,Transfer Interfacility Palliative Care,Pain Chest Presumed Noncardiac,Multiple Fractures Of Ribs,3
+17667,Transfer Interfacility Palliative Care,Pain Chest Presumed Noncardiac,Osteomyelitis,4
+17672,Transfer Interfacility Palliative Care,Pain Chest Presumed Noncardiac,Traumatic Hemothorax,3
+17729,Transfer Interfacility Palliative Care,Respiratory Acute Onset Distress,Pleural Effusion,3
+17730,Transfer Interfacility Palliative Care,Respiratory Acute Onset Distress,Pneumonia,3
+17733,Transfer Interfacility Palliative Care,Respiratory Acute Onset Distress,Sepsis,7
+17739,Transfer Interfacility Palliative Care,Respiratory Asthma,Asthma,6
+17786,Transfer Interfacility Palliative Care,Symptoms And Signs Involving Emotional State,Major Depressive Disorder,3
+17802,Transfer Interfacility Palliative Care,Weakness,Acute Kidney Failure,3
+17816,Transfer Interfacility Palliative Care,Weakness,Chest Pain,3
+17834,Transfer Interfacility Palliative Care,Weakness,Hyperkalemia,3
+17857,Transfer Interfacility Palliative Care,Weakness,Pneumonia,4
+17865,Transfer Interfacility Palliative Care,Weakness,Sepsis,4
+17872,Transfer Interfacility Palliative Care,Weakness,Urinary Tract Infection,3
+17874,Transfer Interfacility Palliative Care,Weakness,Weakness,4
+17974,Traumatic Injury,Hemorrhage Not Elsewhere Classified,Laceration ,3
+17982,Traumatic Injury,Injury Ankle,Displaced Bimalleolar Fracture Of Leg,5
+17984,Traumatic Injury,Injury Ankle,Displaced Trimalleolar Fracture Of Leg,4
+17985,Traumatic Injury,Injury Ankle,Fracture Of Fibula,5
+17991,Traumatic Injury,Injury Ankle,Sprain Of Ligament Of Ankle,6
+18008,Traumatic Injury,Injury Elbow,Posterior Dislocation Of Ulnohumeral Joint,3
+18018,Traumatic Injury,Injury Face,Laceration ,4
+18045,Traumatic Injury,Injury Head,Concussion,17
+18052,Traumatic Injury,Injury Head,Fracture Of Base Of Skull,5
+18061,Traumatic Injury,Injury Head,Injury Of Head,5
+18062,Traumatic Injury,Injury Head,Intracranial Injury,8
+18063,Traumatic Injury,Injury Head,Laceration ,12
+18073,Traumatic Injury,Injury Head,Traumatic Subrac Hem,10
+18080,Traumatic Injury,Injury Head Without Loc,Fracture Of Vault Of Skull,3
+18091,Traumatic Injury,Injury Hip,Dislocation Of Internal Hip Prosthesis,13
+18093,Traumatic Injury,Injury Hip,Displaced Intertrochanteric Fracture Of Femur,6
+18113,Traumatic Injury,Injury Lower Back,Contusion Of Back And Pelvis,3
+18117,Traumatic Injury,Injury Lower Back,Fracture Of Lumbar Vertebra,3
+18129,Traumatic Injury,Injury Lower Back,Strain Of Musclele,7
+18133,Traumatic Injury,Injury Lower Leg,Abrasion,3
+18140,Traumatic Injury,Injury Lower Leg,Dislocation Of Patella,7
+18141,Traumatic Injury,Injury Lower Leg,Displaced Bicondylar Fracture Of Tibia,3
+18146,Traumatic Injury,Injury Lower Leg,Displaced Comminuted Fracture Of Shaft Of Tibia,3
+18155,Traumatic Injury,Injury Lower Leg,Displaced Trimalleolar Fracture Of Leg,3
+18158,Traumatic Injury,Injury Lower Leg,Fracture Of Femur,3
+18159,Traumatic Injury,Injury Lower Leg,Fracture Of Fibula,5
+18168,Traumatic Injury,Injury Lower Leg,Internal Derangement Of Knee,3
+18169,Traumatic Injury,Injury Lower Leg,Laceration ,5
+18180,Traumatic Injury,Injury Lower Leg,Sprain Of Site Of Knee,3
+18186,Traumatic Injury,Injury Neck,Concussion,3
+18196,Traumatic Injury,Injury Neck,Strain Of Musclele,6
+18210,Traumatic Injury,Injury Not Otherwise Listed,Cellulitis Of Limb,3
+18215,Traumatic Injury,Injury Not Otherwise Listed,Concussion,12
+18236,Traumatic Injury,Injury Not Otherwise Listed,Dislocation Of Internal Hip Prosthesis,7
+18239,Traumatic Injury,Injury Not Otherwise Listed,Dislocation Of Patella,8
+18243,Traumatic Injury,Injury Not Otherwise Listed,Displaced Bimalleolar Fracture Of Leg,5
+18244,Traumatic Injury,Injury Not Otherwise Listed,Displaced Comminuted Fracture Of Shaft Of Femur,3
+18247,Traumatic Injury,Injury Not Otherwise Listed,Displaced Intertrochanteric Fracture Of Femur,3
+18254,Traumatic Injury,Injury Not Otherwise Listed,Displaced Trimalleolar Fracture Of Leg,3
+18264,Traumatic Injury,Injury Not Otherwise Listed,Fracture Of Humerus,5
+18292,Traumatic Injury,Injury Not Otherwise Listed,Injury Of Head,11
+18298,Traumatic Injury,Injury Not Otherwise Listed,Intracranial Injury,3
+18300,Traumatic Injury,Injury Not Otherwise Listed,Laceration ,37
+18302,Traumatic Injury,Injury Not Otherwise Listed,Lateral Dislocation Of Patella,3
+18305,Traumatic Injury,Injury Not Otherwise Listed,Multiple Fractures Of Ribs,4
+18315,Traumatic Injury,Injury Not Otherwise Listed,Pain In Knee,4
+18321,Traumatic Injury,Injury Not Otherwise Listed,Periprosth Fracture Around Internal Prosthhip Jt,3
+18330,Traumatic Injury,Injury Not Otherwise Listed,Sepsis,3
+18336,Traumatic Injury,Injury Not Otherwise Listed,Sprain Of Ligament Of Ankle,5
+18340,Traumatic Injury,Injury Not Otherwise Listed,Sprain Of Site Of Knee,3
+18343,Traumatic Injury,Injury Not Otherwise Listed,Strain Of Musclele,8
+18348,Traumatic Injury,Injury Not Otherwise Listed,Traumatic Subrac Hem,4
+18367,Traumatic Injury,Injury Shoulder Or Upper Arm,Dislocation Of Acromioclavicular Joint,3
+18368,Traumatic Injury,Injury Shoulder Or Upper Arm,Dislocation Of Shoulder Joint,3
+18373,Traumatic Injury,Injury Shoulder Or Upper Arm,Fracture Of Humerus,4
+18385,Traumatic Injury,Injury Shoulder Or Upper Arm,Recurrent Dislocation,3
+18419,Traumatic Injury,Laceration ion Without Foreign Body Thigh Sequela,Laceration ,3
+18430,Traumatic Injury,Neuro Altered Mental Status Altered Loc Decreased Loc,Concussion,5
+18440,Traumatic Injury,Neuro Altered Mental Status Altered Loc Decreased Loc,Multiple Fractures Of Ribs,4
+18453,Traumatic Injury,Neuro Headache Pain,Concussion,3
+18479,Traumatic Injury,Not Applicable,Laceration ,7
+18489,Traumatic Injury,Not Recorded,Concussion,3
+18492,Traumatic Injury,Not Recorded,Dislocation Of Internal Hip Prosthesis,4
+18538,Traumatic Injury,Pain,Concussion,3
+18585,Traumatic Injury,Pain,Strain Of Musclele,6
+18599,Traumatic Injury,Pain Back Nontraumatic,Low Back Pain,5
+18613,Traumatic Injury,Pain Back Nontraumatic,Strain Of Musclele,4
+18616,Traumatic Injury,Pain Chest Presumed Noncardiac,Contusion Of Front Wall Of Thorax,3
+18653,Traumatic Injury,Pain Not Elsewhere Mentioned Sudden Onset,Concussion,3
+18683,Traumatic Injury,Pain Not Elsewhere Mentioned Sudden Onset,Strain Of Musclele,7
+18724,Unconscious Fainting NearFainting,Abuse Of Alcohol,Alcohol Abuse,23
+18725,Unconscious Fainting NearFainting,Abuse Of Alcohol,Alcohol Dependence,4
+18726,Unconscious Fainting NearFainting,Abuse Of Alcohol,Altered Mental Status,3
+18743,Unconscious Fainting NearFainting,Abuse Of Alcohol Intoxication,Alcohol Abuse,18
+18744,Unconscious Fainting NearFainting,Abuse Of Alcohol Intoxication,Alcohol Dependence,7
+18749,Unconscious Fainting NearFainting,Abuse Of Alcohol Intoxication,Injury Of Head,3
+18763,Unconscious Fainting NearFainting,Abuse Of Narcotic Ie Heroin,Altered Mental Status,3
+18772,Unconscious Fainting NearFainting,Abuse Of Narcotic Ie Heroin,Poisoning By Drug Meds Biol Subst,3
+18773,Unconscious Fainting NearFainting,Abuse Of Narcotic Ie Heroin,Poisoning By Heroin,13
+18774,Unconscious Fainting NearFainting,Abuse Of Narcotic Ie Heroin,Poisoning By Narcotics,3
+18776,Unconscious Fainting NearFainting,Abuse Of Narcotic Ie Heroin,Poisoning By Opioids,4
+18782,Unconscious Fainting NearFainting,Abuse Of Psychoactive Substance,Alcohol Abuse,5
+18792,Unconscious Fainting NearFainting,Abuse Of Psychoactive Substance,Poisoning By Drug Meds Biol Subst,3
+18799,Unconscious Fainting NearFainting,Abuse Of Sedative Hypnotic Or Anxiolytic,Altered Mental Status,3
+18836,Unconscious Fainting NearFainting,Behavioral Anxiety,Panic Disorder [Episodic Paroxysmal Anxiety],3
+18839,Unconscious Fainting NearFainting,Behavioral Anxiety,Syncope And Collapse,6
+18851,Unconscious Fainting NearFainting,Behavioral Mental Disorder Not Otherwise Listed,Altered Mental Status,3
+18868,Unconscious Fainting NearFainting,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,3
+18878,Unconscious Fainting NearFainting,Behavioral Mental Disorder Not Otherwise Listed,Syncope And Collapse,5
+18880,Unconscious Fainting NearFainting,Behavioral Strange Behavior,Altered Mental Status,5
+18905,Unconscious Fainting NearFainting,CV Cardiac Arrest,Cardiac Arrest,17
+18933,Unconscious Fainting NearFainting,CV Cardiac Arrhythmia Dysrhythmia,Sepsis,3
+18937,Unconscious Fainting NearFainting,CV Cardiac Arrhythmia Dysrhythmia,Syncope And Collapse,8
+18948,Unconscious Fainting NearFainting,CV Chest Pain Presumed Cardiac,Chest Pain,3
+18972,Unconscious Fainting NearFainting,CV Hypotension,Hypotension,3
+18978,Unconscious Fainting NearFainting,CV Hypotension,Syncope And Collapse,16
+18979,Unconscious Fainting NearFainting,CV Hypotension,Urinary Tract Infection,3
+19003,Unconscious Fainting NearFainting,Convulsions,Convulsions,3
+19012,Unconscious Fainting NearFainting,Dehydration,Sepsis,3
+19027,Unconscious Fainting NearFainting,Endocrine Hyperglycemia Diabetic Diabetes,Type 1 Diabetes Mellitus,3
+19028,Unconscious Fainting NearFainting,Endocrine Hyperglycemia Diabetic Diabetes,Type 2 Diabetes Mellitus,6
+19029,Unconscious Fainting NearFainting,Endocrine Hypoglycemia Diabetic Diabetes,Altered Mental Status,4
+19037,Unconscious Fainting NearFainting,Endocrine Hypoglycemia Diabetic Diabetes,Type 1 Diabetes Mellitus,3
+19038,Unconscious Fainting NearFainting,Endocrine Hypoglycemia Diabetic Diabetes,Type 2 Diabetes Mellitus,5
+19047,Unconscious Fainting NearFainting,Environment Hypothermia,Hypothermia,3
+19049,Unconscious Fainting NearFainting,Environment Poisoning Drug Ingestion Overdose,Alcohol Abuse,3
+19057,Unconscious Fainting NearFainting,Environment Poisoning Drug Ingestion Overdose,Poisoning By Heroin,3
+19079,Unconscious Fainting NearFainting,Fever,Sepsis,5
+19125,Unconscious Fainting NearFainting,GI GU Generalized Abdominal Pain,Syncope And Collapse,6
+19147,Unconscious Fainting NearFainting,GI GU Nausea,Syncope And Collapse,4
+19172,Unconscious Fainting NearFainting,General Malaise,Dizziness And Giddiness,3
+19186,Unconscious Fainting NearFainting,General Malaise,Syncope And Collapse,10
+19201,Unconscious Fainting NearFainting,Infectious Disease,Cellulitis Of Limb,3
+19214,Unconscious Fainting NearFainting,Infectious Sepsis,Sepsis,4
+19232,Unconscious Fainting NearFainting,Injury Head,Injury Of Head,6
+19235,Unconscious Fainting NearFainting,Injury Head,Laceration ,3
+19259,Unconscious Fainting NearFainting,Injury Neck,Strain Of Musclele,3
+19277,Unconscious Fainting NearFainting,Injury Not Otherwise Listed,Laceration ,3
+19278,Unconscious Fainting NearFainting,Injury Not Otherwise Listed,Pulmonary Embolism,3
+19281,Unconscious Fainting NearFainting,Injury Not Otherwise Listed,Syncope And Collapse,4
+19286,Unconscious Fainting NearFainting,Injury Shoulder Or Upper Arm,Fracture Of Seventh Cervical Vertebra,4
+19305,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute And Chronic Respiratory Failure,5
+19308,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Acute Kidney Failure,7
+19313,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Abuse,14
+19314,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Dependence,8
+19315,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,21
+19323,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Cerebral Infarction,3
+19324,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Chest Pain,3
+19329,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Concussion,3
+19332,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Convulsions,7
+19333,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Dehydration,6
+19338,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Disorientation,3
+19345,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Epilepsy,3
+19354,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Hepatic Failure,4
+19364,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Injury Of Head,3
+19367,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Laceration ,3
+19387,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Pneumonitis,4
+19393,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Benzodiazepines,11
+19396,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Drug Meds Biol Subst,4
+19397,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Heroin,3
+19398,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Narcotics,6
+19399,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Poisoning By Opioids,5
+19408,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,30
+19411,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Stimulant Abuse,4
+19412,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Syncope And Collapse,28
+19413,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Toxic Encephalopathy,4
+19414,Unconscious Fainting NearFainting,Neuro Altered Mental Status Altered Loc Decreased Loc,Transient Alteration Of Awareness,4
+19439,Unconscious Fainting NearFainting,Neuro Headache Pain,Syncope And Collapse,5
+19450,Unconscious Fainting NearFainting,Neuro Seizure,Alcohol Dependence,4
+19451,Unconscious Fainting NearFainting,Neuro Seizure,Altered Mental Status,4
+19452,Unconscious Fainting NearFainting,Neuro Seizure,Convulsions,13
+19454,Unconscious Fainting NearFainting,Neuro Seizure,Epilepsy,8
+19463,Unconscious Fainting NearFainting,Neuro Seizure,Seizures,5
+19465,Unconscious Fainting NearFainting,Neuro Seizure,Syncope And Collapse,5
+19470,Unconscious Fainting NearFainting,Neuro Status Epilepticus Seizure,Epilepsy,4
+19476,Unconscious Fainting NearFainting,Neuro Stroke CVa,Cerebral Infarction,5
+19499,Unconscious Fainting NearFainting,Neuro Tia Transient Ischemic Attack,Syncope And Collapse,3
+19502,Unconscious Fainting NearFainting,Neuro Unconcious,Altered Mental Status,4
+19518,Unconscious Fainting NearFainting,Neuro Unconcious,Sepsis,4
+19520,Unconscious Fainting NearFainting,Neuro Unconcious,Syncope And Collapse,6
+19525,Unconscious Fainting NearFainting,Not Applicable,Acute Respiratory Failure,3
+19543,Unconscious Fainting NearFainting,Not Applicable,Syncope And Collapse,6
+19552,Unconscious Fainting NearFainting,Not Recorded,Alcohol Abuse,8
+19554,Unconscious Fainting NearFainting,Not Recorded,Altered Mental Status,9
+19556,Unconscious Fainting NearFainting,Not Recorded,Atrial Fibrillation,3
+19577,Unconscious Fainting NearFainting,Not Recorded,Dizziness And Giddiness,4
+19589,Unconscious Fainting NearFainting,Not Recorded,Gastrointestinal Hemorrhage,3
+19590,Unconscious Fainting NearFainting,Not Recorded,Generalized Epilepsy,3
+19603,Unconscious Fainting NearFainting,Not Recorded,Laceration ,3
+19616,Unconscious Fainting NearFainting,Not Recorded,Poisoning By Antipsychot Neurolept,3
+19620,Unconscious Fainting NearFainting,Not Recorded,Poisoning By Heroin,6
+19622,Unconscious Fainting NearFainting,Not Recorded,Poisoning By Opioids,3
+19628,Unconscious Fainting NearFainting,Not Recorded,Sepsis,13
+19629,Unconscious Fainting NearFainting,Not Recorded,Sick Sinus Syndrome,3
+19634,Unconscious Fainting NearFainting,Not Recorded,Syncope And Collapse,31
+19638,Unconscious Fainting NearFainting,Not Recorded,Traumatic Subdr Hem,4
+19641,Unconscious Fainting NearFainting,Not Recorded,Type 2 Diabetes Mellitus,3
+19670,Unconscious Fainting NearFainting,Pain Back Nontraumatic,Headache,3
+19703,Unconscious Fainting NearFainting,Pain Not Elsewhere Mentioned Sudden Onset,Syncope And Collapse,4
+19747,Unconscious Fainting NearFainting,Respiratory Acute Onset Distress,Sepsis,15
+19767,Unconscious Fainting NearFainting,Respiratory Hyperventilation,Syncope And Collapse,3
+19791,Unconscious Fainting NearFainting,Shoulder Lesions Shoulder,Syncope And Collapse,4
+19814,Unconscious Fainting NearFainting,Symptoms And Signs Involving Emotional State,Syncope And Collapse,4
+19819,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Acute Kidney Failure,7
+19825,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Alcohol Dependence,3
+19826,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Altered Mental Status,4
+19829,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Atrial Fibrillation,4
+19830,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Atrioventricular Block,4
+19836,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Cerebral Infarction,3
+19838,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Chest Pain,5
+19840,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Chronic Or Duodenal Ulcer,6
+19850,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Convulsions,3
+19852,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Dehydration,14
+19856,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Dizziness And Giddiness,14
+19862,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Epilepsy,3
+19869,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Headache,4
+19879,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Hypotension,4
+19888,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Laceration ,8
+19898,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Noninfective Gastroenteritis And Colitis,3
+19900,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Orthostatic Hypotension,12
+19913,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Pregnancy Related Conditions,5
+19915,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Pulmonary Embolism,4
+19918,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Sepsis,4
+19923,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Syncope And Collapse,212
+19938,Unconscious Fainting NearFainting,Syncope Syncopal Episode Or Near,Weakness,3
+19944,Unconscious Fainting NearFainting,Vertigo Dizziness,Dizziness And Giddiness,7
+19954,Unconscious Fainting NearFainting,Vertigo Dizziness,Syncope And Collapse,5
+19961,Unconscious Fainting NearFainting,Weakness,Acute Kidney Failure,7
+19967,Unconscious Fainting NearFainting,Weakness,Altered Mental Status,7
+19973,Unconscious Fainting NearFainting,Weakness,Atrial Fibrillation,3
+19975,Unconscious Fainting NearFainting,Weakness,Benign Paroxysmal Vertigo,3
+19979,Unconscious Fainting NearFainting,Weakness,Cerebral Infarction,3
+19982,Unconscious Fainting NearFainting,Weakness,Chest Pain,4
+19989,Unconscious Fainting NearFainting,Weakness,Dehydration,6
+19994,Unconscious Fainting NearFainting,Weakness,Dizziness And Giddiness,7
+19999,Unconscious Fainting NearFainting,Weakness,Flu,4
+20000,Unconscious Fainting NearFainting,Weakness,Gastrointestinal Hemorrhage,3
+20004,Unconscious Fainting NearFainting,Weakness,Hyp Hrt & Chr Kdny Dis,3
+20007,Unconscious Fainting NearFainting,Weakness,Hypotension,3
+20033,Unconscious Fainting NearFainting,Weakness,Orthostatic Hypotension,6
+20038,Unconscious Fainting NearFainting,Weakness,Pneumonia,6
+20047,Unconscious Fainting NearFainting,Weakness,Sepsis,22
+20054,Unconscious Fainting NearFainting,Weakness,Syncope And Collapse,43
+20061,Unconscious Fainting NearFainting,Weakness,Type 2 Diabetes Mellitus,3
+20062,Unconscious Fainting NearFainting,Weakness,Urinary Tract Infection,7
+20066,Unconscious Fainting NearFainting,Weakness,Weakness,3
+20082,Unknown Problem Person Down,Abuse Of Alcohol,Acute Respiratory Failure,3
+20083,Unknown Problem Person Down,Abuse Of Alcohol,Alcohol Abuse,49
+20084,Unknown Problem Person Down,Abuse Of Alcohol,Alcohol Dependence,12
+20096,Unknown Problem Person Down,Abuse Of Alcohol,Psychoactive Substance Abuse,4
+20101,Unknown Problem Person Down,Abuse Of Alcohol Intoxication,Alcohol Abuse,15
+20102,Unknown Problem Person Down,Abuse Of Alcohol Intoxication,Alcohol Dependence,4
+20109,Unknown Problem Person Down,Abuse Of Alcohol Withdrawal,Alcohol Abuse,5
+20127,Unknown Problem Person Down,Abuse Of Narcotic Ie Heroin,Poisoning By Heroin,3
+20132,Unknown Problem Person Down,Abuse Of Psychoactive Substance,Alcohol Abuse,4
+20140,Unknown Problem Person Down,Abuse Of Psychoactive Substance,Opioid Dependence,4
+20147,Unknown Problem Person Down,Abuse Of Psychoactive Substance,Psychoactive Substance Abuse,3
+20150,Unknown Problem Person Down,Abuse Of Psychoactive Substance,Stimulant Abuse,4
+20184,Unknown Problem Person Down,Behavioral Mental Disorder Not Otherwise Listed,Alcohol Abuse,5
+20202,Unknown Problem Person Down,Behavioral Mental Disorder Not Otherwise Listed,Major Depressive Disorder,7
+20206,Unknown Problem Person Down,Behavioral Mental Disorder Not Otherwise Listed,Panic Disorder [Episodic Paroxysmal Anxiety],3
+20211,Unknown Problem Person Down,Behavioral Mental Disorder Not Otherwise Listed,Psychosis,3
+20213,Unknown Problem Person Down,Behavioral Mental Disorder Not Otherwise Listed,Sepsis,3
+20216,Unknown Problem Person Down,Behavioral Mental Disorder Not Otherwise Listed,Suicidal Ideations,3
+20232,Unknown Problem Person Down,Behavioral Suicidal Homicidal Ideation,Suicidal Ideations,4
+20239,Unknown Problem Person Down,CV Cardiac Arrest,Cardiac Arrest,9
+20261,Unknown Problem Person Down,CV Hypotension,Sepsis,3
+20264,Unknown Problem Person Down,Chest Pain,Chest Pain,3
+20272,Unknown Problem Person Down,Convulsions,Convulsions,3
+20303,Unknown Problem Person Down,Environment Poisoning Drug Ingestion Overdose,Alcohol Abuse,3
+20410,Unknown Problem Person Down,Injury Not Otherwise Listed,Alcohol Dependence,3
+20428,Unknown Problem Person Down,Injury Not Otherwise Listed,Laceration ,9
+20446,Unknown Problem Person Down,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Abuse,23
+20447,Unknown Problem Person Down,Neuro Altered Mental Status Altered Loc Decreased Loc,Alcohol Dependence,5
+20448,Unknown Problem Person Down,Neuro Altered Mental Status Altered Loc Decreased Loc,Altered Mental Status,8
+20476,Unknown Problem Person Down,Neuro Altered Mental Status Altered Loc Decreased Loc,Opioid Abuse,4
+20488,Unknown Problem Person Down,Neuro Altered Mental Status Altered Loc Decreased Loc,Psychoactive Substance Abuse,3
+20489,Unknown Problem Person Down,Neuro Altered Mental Status Altered Loc Decreased Loc,Psychoactive Substance Use,3
+20492,Unknown Problem Person Down,Neuro Altered Mental Status Altered Loc Decreased Loc,Schizoaffective Disorder,4
+20495,Unknown Problem Person Down,Neuro Altered Mental Status Altered Loc Decreased Loc,Sepsis,7
+20501,Unknown Problem Person Down,Neuro Altered Mental Status Altered Loc Decreased Loc,Syncope And Collapse,4
+20565,Unknown Problem Person Down,Not Recorded,Alcohol Abuse,6
+20567,Unknown Problem Person Down,Not Recorded,Altered Mental Status,3
+20629,Unknown Problem Person Down,Pain Back Nontraumatic,Radiculopathy,3
+20669,Unknown Problem Person Down,Poisoning By Drugs Medicaments And Biological Substances Undetermined,Poisoning By Heroin,4
+20730,Unknown Problem Person Down,Syncope Syncopal Episode Or Near,Syncope And Collapse,7
+20741,Unknown Problem Person Down,Weakness,Acute Kidney Failure,3
+20744,Unknown Problem Person Down,Weakness,Cerebral Infarction,3
+20771,Unknown Problem Person Down,Weakness,Sepsis,5
+20779,Unknown Problem Person Down,Weakness,Urinary Tract Infection,6
+20824,ZMedical Transport,Behavioral Depression,Major Depressive Disorder,6
+20842,ZMedical Transport,Behavioral Suicidal Homicidal Ideation,Major Depressive Disorder,5
+20844,ZMedical Transport,Behavioral Suicidal Homicidal Ideation,Suicidal Ideations,4
+20848,ZMedical Transport,Behavioral Suicide Attempt,Major Depressive Disorder,6
+20887,ZMedical Transport,GI GU Appendicitis Acute Onset,Acute Appendicitis,4
+20935,ZMedical Transport,Neuro Neuro Problem Not Otherwise Listed,Cerebral Infarction,3
