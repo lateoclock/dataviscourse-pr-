@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,6 +11,7 @@
 </select>
 
 <p id="selected-dropdown"></p>
+
 <style>
 </style>
 
@@ -83,36 +84,40 @@ var complaintDiagnosisCount = d3.nest()
 
 //returns the length of the result array, the count
 
-console.log("There are " +complaintDiagnosisCount[0].values.length +" diagnoses that result from the complaint " +complaintDiagnosisCount[0].key);
-console.log(complaintDiagnosisCount[0].key);
-console.log(complaintDiagnosisCount);
+//console.log("There are " +complaintDiagnosisCount[0].values.length +" diagnoses that result from the complaint " +complaintDiagnosisCount[0].key);
+//console.log(complaintDiagnosisCount[0].key);
+//console.log(complaintDiagnosisCount);
 
-console.log("\n -- There are " +impressionDiagnosisCount[0].values.length +" diagnoses that result from the impression " +impressionDiagnosisCount[0].key);
-console.log(impressionDiagnosisCount[0].key);
-console.log(impressionDiagnosisCount);
+//console.log("\n -- There are " +impressionDiagnosisCount[0].values.length +" diagnoses that result from the impression " +impressionDiagnosisCount[0].key);
+//console.log(impressionDiagnosisCount[0].key);
+//console.log(impressionDiagnosisCount);
 
-console.log(" \n -- There are " +complaintImpressionCount[0].values.length +" impressions that result from the complaint " +complaintImpressionCount[0].key);
-console.log(complaintImpressionCount[0].key);
-console.log(complaintImpressionCount);
+//console.log(" \n -- There are " +complaintImpressionCount[0].values.length +" impressions that result from the complaint " +complaintImpressionCount[0].key);
+//console.log(complaintImpressionCount[0].key);
+//console.log(complaintImpressionCount);
 
 //need to find the length of each array in the parent array and the key of the item.
 
 
-d3.select("#selected-dropdown").text("Psychiatric Problem");
+d3.select("#selected-dropdown").text("Choose Complaint");
 
 d3.select("select")
   .on("change",function(d){
     var selected = d3.select("#d3-dropdown").node().value;
     console.log( selected );
-    d3.select("#selected-dropdown").text(complaintImpressionCount[selected].values.length +" "+ complaintImpressionCount[selected].key);
+    d3.select("#selected-dropdown").text(complaintImpressionCount[selected].values.length +" "+ complaintImpressionCount[selected].key +JSON.stringify(complaintImpressionCount[selected].values));
 
 
 })
 
+//returns the count for a given impression for chosen complaint
+console.log(complaintImpressionCount[0].values[0].value);
 
+//returns the name of the impressions for the chosen complaint
+console.log(complaintImpressionCount[0].values[0].key);
 
-
-
+//returns the impressions and counts for chosen complaint
+console.log(complaintImpressionCount[0].values);
 
 });
 
