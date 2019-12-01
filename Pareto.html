@@ -19,6 +19,85 @@
 <script>
 d3.csv("Complaints4Pareto.csv").then(function(data) {
 
+//returns impressions for given complaint
+var complaintImpressionCount = d3.nest()
+  .key(function(d) { return d.complaint; })
+.key(function(d) { return d.impression; })
+  .rollup(function(v) { return v.length; })
+  .entries(data);
+//console.log(JSON.stringify(complaintImpressionCount));
+
+h = 600;
+w = 900;
+
+i =0; //x key
+j = 1; //y value
+
+var svg = d3.select("body")
+.append("svg")
+.attr("width", w)
+.attr("height", h);
+
+var padding = 40;
+
+var xscale = d3.scaleLinear()
+.domain([0, d3.max(complaintImpressionCount, function(d){ complaintImpressionCount[0].values[0].value; })])
+.range([padding, w-padding]);
+
+
+var yscale = d3.scaleLinear()
+.domain([0, d3.max(data, function(d){ return complaintImpressionCount[0].values[0].key; })])
+.range([h- padding,padding]);
+
+var xAxis = d3.axisBottom()
+.scale(xscale)
+.ticks(5);
+
+var yAxis = d3.axisLeft()
+.scale(yscale)
+.ticks(5);
+
+var yAxisr = d3.axisRight()
+.scale(yscale)
+.ticks(5);
+
+svg.append("g")
+.attr("class", "x axis")
+.attr("transform", "translate(0," +( h-padding) + ")")
+.call(xAxis);
+
+svg.append("text")             
+ .attr("transform",
+      "translate(" + (w/2) + " ," + (h) + ")")
+      .style("text-anchor", "middle")
+      .text("Impression");
+
+svg.append("g")
+.attr("class", "y axis")
+.attr("transform", "translate(" + padding + ",0)")
+.call(yAxis);
+
+ svg.append("text")
+.attr("transform", "rotate(-90)")
+.attr("y", 0)
+.attr("x",0 - (h / 2))
+.attr("dy", "1em")
+.style("text-anchor", "middle")
+.text("Value");
+
+svg.append("g")
+.attr("class", "y axis")
+.attr("transform", "translate(  " + (w-padding) + ")")
+.call(yAxisr);
+
+svg.append("text")
+.attr("transform", "rotate(-90)")
+.attr("y", w -20)
+.attr("x",0 - (h / 2))
+.attr("dy", "1em")
+.style("text-anchor", "middle")
+.text("Percent");
+
 //returns path by complaint
 var complaintsNest = d3.nest()
   .key(function(d) { return d.complaint; })
@@ -78,21 +157,30 @@ var complaintDiagnosisCount = d3.nest()
 .key(function(d) { return d.diagnosis; })
   .rollup(function(v) { return v.length; })
   .entries(data);
+
+//returns an entire tree based on the complaint all the way through diagnosis
+var CIDCount = d3.nest()
+  .key(function(d) { return d.complaint; })
+.key(function(d) { return d.impression; })
+.key(function(d) { return d.diagnosis; })
+  .rollup(function(v) { return v.length; })
+  .entries(data);
+console.log(JSON.stringify(CIDCount));
    
 //console.log(JSON.stringify(complaintDiagnosisCount));
   
 
 //returns the length of the result array, the count
 
-//console.log("There are " +complaintDiagnosisCount[0].values.length +" diagnoses that result from the complaint " +complaintDiagnosisCount[0].key);
+console.log("There are " +complaintDiagnosisCount[0].values.length +" diagnoses that result from the complaint " +complaintDiagnosisCount[0].key);
 //console.log(complaintDiagnosisCount[0].key);
 //console.log(complaintDiagnosisCount);
 
-//console.log("\n -- There are " +impressionDiagnosisCount[0].values.length +" diagnoses that result from the impression " +impressionDiagnosisCount[0].key);
+console.log("\n -- There are " +impressionDiagnosisCount[0].values.length +" diagnoses that result from the impression " +impressionDiagnosisCount[0].key);
 //console.log(impressionDiagnosisCount[0].key);
 //console.log(impressionDiagnosisCount);
 
-//console.log(" \n -- There are " +complaintImpressionCount[0].values.length +" impressions that result from the complaint " +complaintImpressionCount[0].key);
+console.log(" \n -- There are " +complaintImpressionCount[0].values.length +" impressions that result from the complaint " +complaintImpressionCount[0].key);
 //console.log(complaintImpressionCount[0].key);
 //console.log(complaintImpressionCount);
 
@@ -109,6 +197,7 @@ d3.select("select")
 
 
 })
+
 
 //returns the count for a given impression for chosen complaint
 console.log(complaintImpressionCount[0].values[0].value);
