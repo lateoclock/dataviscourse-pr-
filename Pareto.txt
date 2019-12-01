@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<select id="d3-dropdown" <p>How Many Impression per Complaint</p>>
+  <option value=0>Psychiatric Problem</option>
+  <option value=1>Sick Person</option>
+  <option value=2>Falls</option>
+  <option value=3>Breathing Problem</option>
+  <option value=4>Chest Pain</option>
+</select>
+
+<p id="selected-dropdown"></p>
+<style>
+</style>
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script>
+d3.csv("Complaints4Pareto.csv").then(function(data) {
+
+//returns path by complaint
+var complaintsNest = d3.nest()
+  .key(function(d) { return d.complaint; })
+  .entries(data);
+
+//returns path by impressions 
+var impressionsNest = d3.nest()
+.key(function(d) { return d.impression;})
+.entries(data);
+
+//returns path by diagnosis
+var diagnosesNest = d3.nest()
+.key(function(d) {return d.diagnosis;})
+.entries(data);
+
+
+//returns counts of each complaint
+var complaintCount = d3.nest()
+  .key(function(d) { return d.complaint; })
+  .rollup(function(v) { return v.length; })
+  .entries(data);
+//console.log(JSON.stringify(complaintCount));
+         
+//returns counts of each impression
+var impressionCount = d3.nest()
+  .key(function(d) { return d.impression; })
+  .rollup(function(v) { return v.length; })
+  .entries(data);
+//console.log(JSON.stringify(impressionCount));
+
+//returns counts of each diagnosis
+var diagnosisCount = d3.nest()
+  .key(function(d) { return d.diagnosis; })
+  .rollup(function(v) { return v.length; })
+  .entries(data);
+//console.log(JSON.stringify(diagnosisCount));
+
+//returns impressions for given complaint
+var complaintImpressionCount = d3.nest()
+  .key(function(d) { return d.complaint; })
+.key(function(d) { return d.impression; })
+  .rollup(function(v) { return v.length; })
+  .entries(data);
+//console.log(JSON.stringify(complaintImpressionCount));
+
+//returns diagnoses for given impression
+var impressionDiagnosisCount = d3.nest()
+  .key(function(d) { return d.impression; })
+.key(function(d) { return d.diagnosis; })
+  .rollup(function(v) { return v.length; })
+  .entries(data);
+//console.log(JSON.stringify(impressionDiagnosisCount));
+
+//returns diagnoses for given complaint
+var complaintDiagnosisCount = d3.nest()
+  .key(function(d) { return d.complaint; })
+.key(function(d) { return d.diagnosis; })
+  .rollup(function(v) { return v.length; })
+  .entries(data);
+   
+//console.log(JSON.stringify(complaintDiagnosisCount));
+  
+
+//returns the length of the result array, the count
+
+//console.log("There are " +complaintDiagnosisCount[0].values.length +" diagnoses that result from the complaint " +complaintDiagnosisCount[0].key);
+//console.log(complaintDiagnosisCount[0].key);
+//console.log(complaintDiagnosisCount);
+
+//console.log("\n -- There are " +impressionDiagnosisCount[0].values.length +" diagnoses that result from the impression " +impressionDiagnosisCount[0].key);
+//console.log(impressionDiagnosisCount[0].key);
+//console.log(impressionDiagnosisCount);
+
+//console.log(" \n -- There are " +complaintImpressionCount[0].values.length +" impressions that result from the complaint " +complaintImpressionCount[0].key);
+//console.log(complaintImpressionCount[0].key);
+//console.log(complaintImpressionCount);
+
+//need to find the length of each array in the parent array and the key of the item.
+
+
+d3.select("#selected-dropdown").text("Choose Complaint");
+
+d3.select("select")
+  .on("change",function(d){
+    var selected = d3.select("#d3-dropdown").node().value;
+    console.log( selected );
+    d3.select("#selected-dropdown").text(complaintImpressionCount[selected].values.length +" "+ complaintImpressionCount[selected].key );
+
+
+})
+
+
+console.log(complaintImpressionCount[1].key)
+
+
+
+});
+
+
+
+
+
+</script>
+</head>
+<body>
+    <div id="myViz">
+        <svg id="mySvg" />
+    </div>
+</body>
+</html>
