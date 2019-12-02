@@ -19,10 +19,12 @@
 <script>
 d3.csv("Complaints4Pareto.csv").then(function(data) {
 
+//consulted http://learnjsdata.com/group_data.html, https://bl.ocks.org/d3noob/7030f35b72de721622b8 to code the following
+
 //returns impressions for given complaint
-var complaintImpressionCount = d3.nest()
+  var complaintImpressionCount = d3.nest()
   .key(function(d) { return d.complaint; })
-.key(function(d) { return d.impression; })
+  .key(function(d) { return d.impression; })
   .rollup(function(v) { return v.length; })
   .entries(data);
 //console.log(JSON.stringify(complaintImpressionCount));
@@ -33,6 +35,21 @@ w = 900;
 i =0; //x key
 j = 1; //y value
 
+initChart = 0;
+
+d3.select("#selected-dropdown").text("Choose Complaint");
+
+d3.select("select")
+  .on("change",function(d){
+    var selected = d3.select("#d3-dropdown").node().value;
+    console.log( selected );
+   updateData();
+    d3.select("#selected-dropdown").text(complaintImpressionCount[selected].values.length +" "+ complaintImpressionCount[selected].key +JSON.stringify(complaintImpressionCount[selected].values));
+})
+
+d3.select("#d3-dropdown").node().value; 
+
+
 var svg = d3.select("body")
 .append("svg")
 .attr("width", w)
@@ -41,12 +58,21 @@ var svg = d3.select("body")
 var padding = 40;
 
 var xscale = d3.scaleLinear()
-.domain([0, d3.max(complaintImpressionCount, function(d){ complaintImpressionCount[0].values[0].value; })])
+.domain([0, (complaintImpressionCount, function(d){ complaintImpressionCount[initChart].values.length;})])
 .range([padding, w-padding]);
 
+console.log(complaintImpressionCount[initChart]); //need to update with select
+
+// make a list of values to determine the y scale
+let valList = (complaintImpressionCount[initChart].values).map(({ value }) => value)// need to update with select
+console.log(valList);
 
 var yscale = d3.scaleLinear()
-.domain([0, d3.max(data, function(d){ return complaintImpressionCount[0].values[0].key; })])
+.domain([0, d3.max(valList)])
+.range([h- padding,padding]);
+
+var yrscale = d3.scaleLinear()
+.domain([0, 100])
 .range([h- padding,padding]);
 
 var xAxis = d3.axisBottom()
@@ -58,7 +84,7 @@ var yAxis = d3.axisLeft()
 .ticks(5);
 
 var yAxisr = d3.axisRight()
-.scale(yscale)
+.scale(yrscale)
 .ticks(5);
 
 svg.append("g")
@@ -68,7 +94,7 @@ svg.append("g")
 
 svg.append("text")             
  .attr("transform",
-      "translate(" + (w/2) + " ," + (h) + ")")
+      "translate(" + (w/2) + " ," + (h-3) + ")")
       .style("text-anchor", "middle")
       .text("Impression");
 
@@ -97,6 +123,28 @@ svg.append("text")
 .attr("dy", "1em")
 .style("text-anchor", "middle")
 .text("Percent");
+
+function updateData() {
+
+    // Select the section to apply changes to
+    var svg = d3.select("body").transition();
+
+    // Make the changes
+        svg.selectAll("rect")   // change the line
+            .duration(750);
+        svg.select("xAxis") // change the x axis
+            .duration(750)
+            .call(xAxis);
+        svg.select("yAxis") // change the y axis
+            .duration(750)
+            .call(yAxis);
+
+  }
+
+
+
+
+
 
 //returns path by complaint
 var complaintsNest = d3.nest()
@@ -136,11 +184,11 @@ var diagnosisCount = d3.nest()
 //console.log(JSON.stringify(diagnosisCount));
 
 //returns impressions for given complaint
-var complaintImpressionCount = d3.nest()
-  .key(function(d) { return d.complaint; })
-.key(function(d) { return d.impression; })
-  .rollup(function(v) { return v.length; })
-  .entries(data);
+//var complaintImpressionCount = d3.nest()
+  //.key(function(d) { return d.complaint; })
+//.key(function(d) { return d.impression; })
+  //.rollup(function(v) { return v.length; })
+  //.entries(data);
 //console.log(JSON.stringify(complaintImpressionCount));
 
 //returns diagnoses for given impression
@@ -161,16 +209,24 @@ var complaintDiagnosisCount = d3.nest()
 //returns an entire tree based on the complaint all the way through diagnosis
 var CIDCount = d3.nest()
   .key(function(d) { return d.complaint; })
-.key(function(d) { return d.impression; })
-.key(function(d) { return d.diagnosis; })
+  .key(function(d) { return d.impression; })
+  .key(function(d) { return d.diagnosis; })
   .rollup(function(v) { return v.length; })
   .entries(data);
-console.log(JSON.stringify(CIDCount));
+
+//The whole tree...
+//console.log(JSON.stringify(CIDCount));
    
 //console.log(JSON.stringify(complaintDiagnosisCount));
   
 
 //returns the length of the result array, the count
+
+//console.log("CID There are " +CIDCount.length +" top complaints from dispatch " + (JSON.stringify(d3.keys(CIDCount))));
+console.log(CIDCount); //the top level
+//console.log(CIDCount.length);
+
+
 
 console.log("There are " +complaintDiagnosisCount[0].values.length +" diagnoses that result from the complaint " +complaintDiagnosisCount[0].key);
 //console.log(complaintDiagnosisCount[0].key);
@@ -180,7 +236,7 @@ console.log("\n -- There are " +impressionDiagnosisCount[0].values.length +" dia
 //console.log(impressionDiagnosisCount[0].key);
 //console.log(impressionDiagnosisCount);
 
-console.log(" \n -- There are " +complaintImpressionCount[0].values.length +" impressions that result from the complaint " +complaintImpressionCount[0].key);
+//console.log(" \n -- There are " +complaintImpressionCount[0].values.length +" impressions that result from the complaint " +complaintImpressionCount[0].key);
 //console.log(complaintImpressionCount[0].key);
 //console.log(complaintImpressionCount);
 
