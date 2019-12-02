@@ -35,7 +35,7 @@ w = 900;
 i =0; //x key
 j = 1; //y value
 
-initChart = 3;
+initChart = 4;
 
 d3.select("#selected-dropdown").text("Choose Complaint");
 
@@ -59,21 +59,34 @@ var svg = d3.select("body")
 
 var padding = 40;
 
-console.log(complaintImpressionCount[initChart]); //need to update with select
 
 // make a list of values to determine the y scale
-
 let valList = (complaintImpressionCount[initChart].values).map(({ value }) => value)// need to update with select
+//test = d3.values(complaintImpressionCount[initChart].values).map(function(d) { return d.value; })
+//console.log('this is the test' +test);
+
+
 console.log("this is the max value" +d3.max(valList));
-keysMap = d3.values(complaintImpressionCount[initChart].values).map(function(d) { return d.key; })
+console.log("this is the list of values" +valList);
+
+//test2 = d3.values(complaintImpressionCount[initChart].values).map(function(d) { return d.key; })
+keysMap = (complaintImpressionCount[initChart].values).map(({ key }) => key)
 console.log(keysMap.length + 'this is the length of the keys');
 console.log('this is the list of keys     ' + keysMap);
+//console.log("this is another test" + test2);
+
+svg.selectAll("rect")
+.data(complaintImpressionCount[initChart])
+.enter().append("rect")
+.style("fill", "steelblue")
+.attr("y", function(d) { return yscale (d.value); })
+.attr("x", function(d) { return xscale(d.key); })
+.attr("height", function(d) { return h - yscale(d.value); });
 
 
-
-var xscale = d3.scaleLinear()
-.domain([0, (complaintImpressionCount, function(d){ complaintImpressionCount[initChart].values.length;})])
-.range([padding, w-padding]);
+var xscale = d3.scaleOrdinal()
+.domain([keysMap])
+.range([0, w]);
 
 var yscale = d3.scaleLinear()
 .domain([0, d3.max(valList)])
@@ -85,7 +98,7 @@ var yrscale = d3.scaleLinear()
 
 var xAxis = d3.axisBottom()
 .scale(xscale)
-.ticks(complaintImpressionCount[0].values.length);
+.ticks((keysMap.length/5));
 
 var yAxis = d3.axisLeft()
 .scale(yscale)
@@ -95,21 +108,6 @@ var yAxisr = d3.axisRight()
 .scale(yrscale)
 .ticks(10);
 
-
-
-svg.selectAll("bar")
-.data(complaintImpressionCount[initChart])
- .enter().append("rect")
- .style("fill", "steelblue")
-.attr("y", function(d) { (d.values).map(({ value }) => value); return y(d.value); })
-.attr("x", function(d) {d3.values(complaintImpressionCount[initChart].values).map;  return x(d.key); })
-.attr("height", function(d) { return h - y(d.value); });
-
-var bandScale = d3.scaleBand()
-  .domain(0,keysMap.length)
-  .range([padding, w-padding])
-  .paddingOuter(0.25)
-console.log("The width of each band is " + bandScale.bandwidth() + " pixels")
 
 
 
@@ -152,8 +150,10 @@ svg.append("text")
 .text("Percent");
 
 
-
-
+svg.select('x axis')
+        .attr("text-anchor", "end")
+        .selectAll("text")
+        .attr("transform", "rotate(-90)");
 
 
 function updateData() {
@@ -162,12 +162,14 @@ function updateData() {
 
 
 // make a list of values to determine the y scale
-let valList = (complaintImpressionCount[initChart].values).map(({ value }) => value)// need to update with select
-keysMap = d3.values(complaintImpressionCount[initChart].values).map(function(d) { return d.key; });
+let valList = (complaintImpressionCount[initChart].values).map(({ value }) => value);
+keysMap = (complaintImpressionCount[initChart].values).map(({ key }) => key);
+console.log("this is the length of the keys" +keysMap.length);
 
-var xscale = d3.scaleLinear()
-.domain([0, (complaintImpressionCount, function(d){ complaintImpressionCount[initChart].values.length;})])
-.range([padding, w-padding]);
+var xscale = d3.scaleOrdinal()
+.domain([keysMap])
+.range([0, w]);
+
 
 var yscale = d3.scaleLinear()
 .domain([0, d3.max(valList)])
@@ -179,7 +181,8 @@ var yrscale = d3.scaleLinear()
 
 var xAxis = d3.axisBottom()
 .scale(xscale)
-.ticks(complaintImpressionCount[0].values.length);
+.ticks((keysMap.length/5))
+.text(keysMap);
 
 var yAxis = d3.axisLeft()
 .scale(yscale)
@@ -208,13 +211,13 @@ svg.append("g")
 
 
 //returns the count for a given impression for chosen complaint
-console.log(complaintImpressionCount[0].values[0].value);
+console.log(complaintImpressionCount[initChart].values[0].value);
 
 //returns the name of the impressions for the chosen complaint
-console.log(complaintImpressionCount[0].values[0].key);
+console.log(complaintImpressionCount[initChart].values[0].key);
 
 //returns the impressions and counts for chosen complaint
-console.log(complaintImpressionCount[0].values);
+console.log(complaintImpressionCount[initChart].values);
 
 
 
@@ -301,16 +304,16 @@ console.log(CIDCount); //the top level
 
 
 
-console.log("There are " +complaintDiagnosisCount[0].values.length +" diagnoses that result from the complaint " +complaintDiagnosisCount[0].key);
+console.log("There are " +complaintDiagnosisCount[initChart].values.length +" diagnoses that result from the complaint " +complaintDiagnosisCount[initChart].key);
 //console.log(complaintDiagnosisCount[0].key);
 //console.log(complaintDiagnosisCount);
 
-console.log("\n -- There are " +impressionDiagnosisCount[0].values.length +" diagnoses that result from the impression " +impressionDiagnosisCount[0].key);
-//console.log(impressionDiagnosisCount[0].key);
+console.log("\n -- There are " +impressionDiagnosisCount[initChart].values.length +" diagnoses that result from the impression " +impressionDiagnosisCount[initChart].key);
+//console.log(impressionDiagnosisCount[1].key);
 //console.log(impressionDiagnosisCount);
 
-//console.log(" \n -- There are " +complaintImpressionCount[0].values.length +" impressions that result from the complaint " +complaintImpressionCount[0].key);
-//console.log(complaintImpressionCount[0].key);
+//console.log(" \n -- There are " +complaintImpressionCount[initChart].values.length +" impressions that result from the complaint " +complaintImpressionCount[initChart].key);
+//console.log(complaintImpressionCount[1].key);
 //console.log(complaintImpressionCount);
 
 //need to find the length of each array in the parent array and the key of the item.
