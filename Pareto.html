@@ -92,13 +92,12 @@ var yscale = d3.scaleLinear()
 .domain([0, d3.max(valList)])
 .range([h- padding,padding]);
 
+var xAxis = d3.axisBottom()
+.scale(xscale);
+
 var yrscale = d3.scaleLinear()
 .domain([0, 100])
 .range([h- padding,padding]);
-
-var xAxis = d3.axisBottom()
-.scale(xscale)
-.ticks((keysMap.length/5));
 
 var yAxis = d3.axisLeft()
 .scale(yscale)
@@ -180,9 +179,7 @@ var yrscale = d3.scaleLinear()
 .range([h- padding,padding]);
 
 var xAxis = d3.axisBottom()
-.scale(xscale)
-.ticks((keysMap.length/5))
-.text(keysMap);
+.scale(xscale);
 
 var yAxis = d3.axisLeft()
 .scale(yscale)
