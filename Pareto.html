@@ -35,15 +35,17 @@ w = 900;
 i =0; //x key
 j = 1; //y value
 
-initChart = 0;
+initChart = 3;
 
 d3.select("#selected-dropdown").text("Choose Complaint");
 
 d3.select("select")
-  .on("change",function(d){
-    var selected = d3.select("#d3-dropdown").node().value;
-    console.log( selected );
-   updateData();
+  	.on("change",function(d){ 
+	d3.selectAll("g").remove(); 
+ 	var selected = d3.select("#d3-dropdown").node().value;
+    	console.log( selected );
+	initChart = selected;
+    updateData();
     d3.select("#selected-dropdown").text(complaintImpressionCount[selected].values.length +" "+ complaintImpressionCount[selected].key +JSON.stringify(complaintImpressionCount[selected].values));
 })
 
@@ -57,15 +59,21 @@ var svg = d3.select("body")
 
 var padding = 40;
 
-var xscale = d3.scaleLinear()
-.domain([0, (complaintImpressionCount, function(d){ complaintImpressionCount[initChart].values.length;})])
-.range([padding, w-padding]);
-
 console.log(complaintImpressionCount[initChart]); //need to update with select
 
 // make a list of values to determine the y scale
+
 let valList = (complaintImpressionCount[initChart].values).map(({ value }) => value)// need to update with select
-console.log(valList);
+console.log("this is the max value" +d3.max(valList));
+keysMap = d3.values(complaintImpressionCount[initChart].values).map(function(d) { return d.key; })
+console.log(keysMap.length + 'this is the length of the keys');
+console.log('this is the list of keys     ' + keysMap);
+
+
+
+var xscale = d3.scaleLinear()
+.domain([0, (complaintImpressionCount, function(d){ complaintImpressionCount[initChart].values.length;})])
+.range([padding, w-padding]);
 
 var yscale = d3.scaleLinear()
 .domain([0, d3.max(valList)])
@@ -77,15 +85,34 @@ var yrscale = d3.scaleLinear()
 
 var xAxis = d3.axisBottom()
 .scale(xscale)
-.ticks(5);
+.ticks(complaintImpressionCount[0].values.length);
 
 var yAxis = d3.axisLeft()
 .scale(yscale)
-.ticks(5);
+.ticks(10);
 
 var yAxisr = d3.axisRight()
 .scale(yrscale)
-.ticks(5);
+.ticks(10);
+
+
+
+svg.selectAll("bar")
+.data(complaintImpressionCount[initChart])
+ .enter().append("rect")
+ .style("fill", "steelblue")
+.attr("y", function(d) { (d.values).map(({ value }) => value); return y(d.value); })
+.attr("x", function(d) {d3.values(complaintImpressionCount[initChart].values).map;  return x(d.key); })
+.attr("height", function(d) { return h - y(d.value); });
+
+var bandScale = d3.scaleBand()
+  .domain(0,keysMap.length)
+  .range([padding, w-padding])
+  .paddingOuter(0.25)
+console.log("The width of each band is " + bandScale.bandwidth() + " pixels")
+
+
+
 
 svg.append("g")
 .attr("class", "x axis")
@@ -105,8 +132,8 @@ svg.append("g")
 
  svg.append("text")
 .attr("transform", "rotate(-90)")
-.attr("y", 0)
-.attr("x",0 - (h / 2))
+.attr("y", -5)
+.attr("x",0 - ((h / 2)))
 .attr("dy", "1em")
 .style("text-anchor", "middle")
 .text("Value");
@@ -124,24 +151,70 @@ svg.append("text")
 .style("text-anchor", "middle")
 .text("Percent");
 
+
+
+
+
+
 function updateData() {
 
-    // Select the section to apply changes to
-    var svg = d3.select("body").transition();
-
-    // Make the changes
-        svg.selectAll("rect")   // change the line
-            .duration(750);
-        svg.select("xAxis") // change the x axis
-            .duration(750)
-            .call(xAxis);
-        svg.select("yAxis") // change the y axis
-            .duration(750)
-            .call(yAxis);
-
-  }
+// Select the section to apply changes to
 
 
+// make a list of values to determine the y scale
+let valList = (complaintImpressionCount[initChart].values).map(({ value }) => value)// need to update with select
+keysMap = d3.values(complaintImpressionCount[initChart].values).map(function(d) { return d.key; });
+
+var xscale = d3.scaleLinear()
+.domain([0, (complaintImpressionCount, function(d){ complaintImpressionCount[initChart].values.length;})])
+.range([padding, w-padding]);
+
+var yscale = d3.scaleLinear()
+.domain([0, d3.max(valList)])
+.range([h- padding,padding]);
+
+var yrscale = d3.scaleLinear()
+.domain([0, 100])
+.range([h- padding,padding]);
+
+var xAxis = d3.axisBottom()
+.scale(xscale)
+.ticks(complaintImpressionCount[0].values.length);
+
+var yAxis = d3.axisLeft()
+.scale(yscale)
+.ticks(10);
+
+var yAxisr = d3.axisRight()
+.scale(yrscale)
+.ticks(10);
+
+svg.append("g")
+.attr("class", "x axis")
+.attr("transform", "translate(0," +( h-padding) + ")")
+.call(xAxis);
+
+svg.append("g")
+.attr("class", "y axis")
+.attr("transform", "translate(" + padding + ",0)")
+.call(yAxis);
+
+svg.append("g")
+.attr("class", "y axis")
+.attr("transform", "translate(  " + (w-padding) + ")")
+.call(yAxisr);
+
+}
+
+
+//returns the count for a given impression for chosen complaint
+console.log(complaintImpressionCount[0].values[0].value);
+
+//returns the name of the impressions for the chosen complaint
+console.log(complaintImpressionCount[0].values[0].key);
+
+//returns the impressions and counts for chosen complaint
+console.log(complaintImpressionCount[0].values);
 
 
 
@@ -243,28 +316,12 @@ console.log("\n -- There are " +impressionDiagnosisCount[0].values.length +" dia
 //need to find the length of each array in the parent array and the key of the item.
 
 
-d3.select("#selected-dropdown").text("Choose Complaint");
-
-d3.select("select")
-  .on("change",function(d){
-    var selected = d3.select("#d3-dropdown").node().value;
-    console.log( selected );
-    d3.select("#selected-dropdown").text(complaintImpressionCount[selected].values.length +" "+ complaintImpressionCount[selected].key +JSON.stringify(complaintImpressionCount[selected].values));
-
 
 })
 
 
-//returns the count for a given impression for chosen complaint
-console.log(complaintImpressionCount[0].values[0].value);
 
-//returns the name of the impressions for the chosen complaint
-console.log(complaintImpressionCount[0].values[0].key);
 
-//returns the impressions and counts for chosen complaint
-console.log(complaintImpressionCount[0].values);
-
-});
 
 
 
