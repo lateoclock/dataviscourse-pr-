@@ -23,11 +23,13 @@ d3.csv("Complaints4Pareto.csv").then(function(data) {
 
 //returns impressions for given complaint
   var complaintImpressionCount = d3.nest()
-  .key(function(d) { return d.complaint; })
-  .key(function(d) { return d.impression; })
+  .key(function(d) { return d.complaint; }).sortKeys(d3.ascending)
+  .key(function(d) { return d.impression; }).sortKeys(d3.ascending)
   .rollup(function(v) { return v.length; })
-  .entries(data);
-//console.log(JSON.stringify(complaintImpressionCount));
+ .sortValues(function(a,b) { return parseFloat(a.value) - parseFloat(b.value); })
+  .entries(data)
+
+console.log(JSON.stringify(complaintImpressionCount));
 
 h = 600;
 w = 900;
@@ -57,14 +59,14 @@ var svg = d3.select("body")
 .attr("width", w)
 .attr("height", h);
 
-var padding = 40;
+var padding =60;
 
 
 // make a list of values to determine the y scale
 let valList = (complaintImpressionCount[initChart].values).map(({ value }) => value)// need to update with select
 //test = d3.values(complaintImpressionCount[initChart].values).map(function(d) { return d.value; })
 //console.log('this is the test' +test);
-
+console.log("this is the sort" +valList.sort(function(a, b){return b-a}));
 
 console.log("this is the max value" +d3.max(valList));
 console.log("this is the list of values" +valList);
@@ -79,21 +81,22 @@ svg.selectAll("rect")
 .data(complaintImpressionCount[initChart])
 .enter().append("rect")
 .style("fill", "steelblue")
-.attr("y", function(d) { return yscale (d.value); })
+.attr("y", function(d) { return yscale(d.value); })
 .attr("x", function(d) { return xscale(d.key); })
 .attr("height", function(d) { return h - yscale(d.value); });
 
 
 var xscale = d3.scaleOrdinal()
 .domain([keysMap])
-.range([0, w]);
+.range([w- padding,padding]);
 
 var yscale = d3.scaleLinear()
 .domain([0, d3.max(valList)])
 .range([h- padding,padding]);
 
 var xAxis = d3.axisBottom()
-.scale(xscale);
+.scale(xscale)
+.ticks(10);
 
 var yrscale = d3.scaleLinear()
 .domain([0, 100])
@@ -107,14 +110,15 @@ var yAxisr = d3.axisRight()
 .scale(yrscale)
 .ticks(10);
 
-
-
-
-
 svg.append("g")
 .attr("class", "x axis")
 .attr("transform", "translate(0," +( h-padding) + ")")
-.call(xAxis);
+.call(xAxis)
+.selectAll("text")  
+     .style("text-anchor", "end")
+     .attr("dx", "2.8em")
+     .attr("dy", "5.25em")
+     .attr("transform", "rotate(-65)");
 
 svg.append("text")             
  .attr("transform",
@@ -167,8 +171,7 @@ console.log("this is the length of the keys" +keysMap.length);
 
 var xscale = d3.scaleOrdinal()
 .domain([keysMap])
-.range([0, w]);
-
+.range([w- padding,padding]);
 
 var yscale = d3.scaleLinear()
 .domain([0, d3.max(valList)])
@@ -181,6 +184,7 @@ var yrscale = d3.scaleLinear()
 var xAxis = d3.axisBottom()
 .scale(xscale);
 
+
 var yAxis = d3.axisLeft()
 .scale(yscale)
 .ticks(10);
@@ -192,7 +196,12 @@ var yAxisr = d3.axisRight()
 svg.append("g")
 .attr("class", "x axis")
 .attr("transform", "translate(0," +( h-padding) + ")")
-.call(xAxis);
+.call(xAxis)
+.selectAll("text")  
+     .style("text-anchor", "end")
+     .attr("dx", "2.8em")
+     .attr("dy", "5.25em")
+     .attr("transform", "rotate(-65)");
 
 svg.append("g")
 .attr("class", "y axis")
@@ -296,7 +305,7 @@ var CIDCount = d3.nest()
 //returns the length of the result array, the count
 
 //console.log("CID There are " +CIDCount.length +" top complaints from dispatch " + (JSON.stringify(d3.keys(CIDCount))));
-console.log(CIDCount); //the top level
+//console.log(CIDCount); //the top level
 //console.log(CIDCount.length);
 
 
