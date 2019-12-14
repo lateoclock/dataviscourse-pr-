@@ -19,5 +19,5 @@ We plan to create a visualization of the probability space around these 3 stages
   1) Initial Complaint 
   2) Provider Impression 
   3) Final Diagnosis
-  
-[This is a placeholder for info about where the data for our model is coming from]
+ To view a video of the project see https://drive.google.com/file/d/1gpg-a8g7EQu9rblPkPkbk8AeZsyWvMnl/view
+ Visit the website at rutrut241.github.io
